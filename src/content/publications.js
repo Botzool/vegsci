@@ -122,14 +122,14 @@ export const mediaCz = [
   {
     date: `19/1/2017`,
     name: `První evropský červený seznam biotopů`,
-    resources: [`Online.muni.cz`, `Ekolist.cz`, `Týden.cz`, `Novinky.cz (20/1)`, `Lidovky.cz (29/1)`, `Brněnský Deník (8/2)`],
-    links: [`https://www.online.muni.cz/veda-a-vyzkum/8740-desitky-typu-evropske-prirody-jsou-v-ohrozeni-biologove-sestavili-cerveny-seznam`, `http://ekolist.cz/cz/zpravodajstvi/zpravy/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci`, `http://www.tyden.cz/rubriky/veda/priroda/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci_414283.html`, `https://www.novinky.cz/veda-skoly/427020-z-evropy-mizi-urcite-typy-prirodnich-stanovist.html`, `http://relax.lidovky.cz/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci-pxe-/veda.aspx?c=A170123_163447_ln_veda_ape`, `http://botzool.sci.muni.cz/news/2017_02_08_chytry_Brnensky_denik.jpg`]
+    resources: [`Online.muni.cz`, `Ekolist.cz`, `Týden.cz`, `Lidovky.cz (29/1)`, `Brněnský Deník (8/2)`],
+    links: [`https://www.online.muni.cz/veda-a-vyzkum/8740-desitky-typu-evropske-prirody-jsou-v-ohrozeni-biologove-sestavili-cerveny-seznam`, `http://ekolist.cz/cz/zpravodajstvi/zpravy/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci`, `http://www.tyden.cz/rubriky/veda/priroda/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci_414283.html`,  `http://relax.lidovky.cz/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci-pxe-/veda.aspx?c=A170123_163447_ln_veda_ape`, `http://botzool.sci.muni.cz/news/2017_02_08_chytry_Brnensky_denik.jpg`]
   },
   {
     date: `6/12/2016`,
     name: `První úplný přehled typů evropské vegetace`,
-    resources: [`Online.muni.cz`, `Novinky.cz (7/12)`],
-    links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`, `https://www.novinky.cz/veda-skoly/422968-brnensti-botanici-prispeli-k-popisu-evropske-vegetace-ktery-pomuze-chranit-prirodu.html`]
+    resources: [`Online.muni.cz`],
+    links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`]
   },
   {
     date: `30/01/2014`,
@@ -329,14 +329,14 @@ export const mediaEn = [
   {
     date: `19/1/2017`,
     name: `První evropský červený seznam biotopů`,
-    resources: [`Online.muni.cz`, `Ekolist.cz`, `Týden.cz`, `Novinky.cz (20/1)`, `Lidovky.cz (29/1)`, `Brněnský Deník (8/2)`],
-    links: [`https://www.online.muni.cz/veda-a-vyzkum/8740-desitky-typu-evropske-prirody-jsou-v-ohrozeni-biologove-sestavili-cerveny-seznam`, `http://ekolist.cz/cz/zpravodajstvi/zpravy/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci`, `http://www.tyden.cz/rubriky/veda/priroda/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci_414283.html`, `https://www.novinky.cz/veda-skoly/427020-z-evropy-mizi-urcite-typy-prirodnich-stanovist.html`, `http://relax.lidovky.cz/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci-pxe-/veda.aspx?c=A170123_163447_ln_veda_ape`, `http://botzool.sci.muni.cz/news/2017_02_08_chytry_Brnensky_denik.jpg`]
+    resources: [`Online.muni.cz`, `Ekolist.cz`, `Týden.cz`, `Lidovky.cz (29/1)`, `Brněnský Deník (8/2)`],
+    links: [`https://www.online.muni.cz/veda-a-vyzkum/8740-desitky-typu-evropske-prirody-jsou-v-ohrozeni-biologove-sestavili-cerveny-seznam`, `http://ekolist.cz/cz/zpravodajstvi/zpravy/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci`, `http://www.tyden.cz/rubriky/veda/priroda/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci_414283.html`,  `http://relax.lidovky.cz/z-evropy-mizi-nektere-typy-prirodnich-stanovist-zjistili-vedci-pxe-/veda.aspx?c=A170123_163447_ln_veda_ape`, `http://botzool.sci.muni.cz/news/2017_02_08_chytry_Brnensky_denik.jpg`]
   },
   {
     date: `6/12/2016`,
     name: `První úplný přehled typů evropské vegetace`,
-    resources: [`Online.muni.cz`, `Novinky.cz (7/12)`],
-    links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`, `https://www.novinky.cz/veda-skoly/422968-brnensti-botanici-prispeli-k-popisu-evropske-vegetace-ktery-pomuze-chranit-prirodu.html`]
+    resources: [`Online.muni.cz`],
+    links: [`https://www.online.muni.cz/veda-a-vyzkum/8576-botanici-muni-pomohli-s-popisem-evropske-vegetace-pomuze-chranit-prirodu?utm_source=fb_milujeme&utm_medium=link&utm_campaign=facebook`]
   },
   {
     date: `30/01/2014`,
