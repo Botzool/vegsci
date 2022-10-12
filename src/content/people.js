@@ -41,6 +41,11 @@ import ottaviani from "../../static/images/people/ottaviani.jpg";
 import toumoulin from "../../static/images/people/toumoulin.jpg";
 import iemelianova from "../../static/images/people/iemelianova.jpg";
 import tesitelova from "../../static/images/people/tesitelova.jpg";
+import klinkovska from "../../static/images/people/klinkovska.jpg";
+{/* import szokala from "../../static/images/people/szokala.jpg";*/}
+{/* import klimova from "../../static/images/people/klimova.jpg";*/}
+
+
 
 export const peopleEn = {
   employees: [
@@ -485,7 +490,31 @@ and restoration of semi-natural species-rich grasslands.`,
 	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
+	/* 		 {
+      id: `klimova`,
+      name: `Barbora Klímová
+      position: `PhD student`,
+      description: ``,
+      email: `470403@muni.cz`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
+	  orcid: ``, 
+      img: klimova
+    },
+*/	
 	 {
+      id: `klinkovska`,
+      name: `Klára Klinkovská`,
+      position: `PhD student`,
+      description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study is to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
+      email: `474368@mail.muni.cz`,
+      phoneNumber: ``,
+      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
+	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
+      img: klinkovska
+    },	
+	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
       position: `PhD student, Researcher (maternity leave)`,
@@ -503,7 +532,7 @@ and restoration of semi-natural species-rich grasslands.`,
       position: `PhD student, Researcher`,
       description: `Monika Kolényová studied Botany (Mycology) at Masaryk University, Brno. She graduated with a master degree in 2020 and started her ongoing PhD study, which is aimed at the ecology, succesion and microhabitats of lignicolous fungi on logs in natural forests in Europe.`,
       email: `424056@mail.muni.cz`,
-      phoneNumber: `549498397`,
+      phoneNumber: ``,
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
@@ -518,6 +547,19 @@ and restoration of semi-natural species-rich grasslands.`,
       is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
 	  img: mones
     },
+/* 		 {
+      id: `szokala`,
+      name: `Daniel Szokala`,
+      position: `PhD student`,
+      description: ``,
+      email: `512772@muni.cz`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
+	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
+      img: szokala
+    },
+*/	
     {
       id: `zukal`,
       name: `Dominik Zukal`,
@@ -963,6 +1005,30 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
+	/* 		 {
+      id: `klimova`,
+      name: `Barbora Klímová
+      position: `PhD student`,
+      description: ``,
+      email: `470403@muni.cz`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
+	  orcid: ``, 
+      img: klimova
+    },
+*/	
+	 {
+      id: `klinkovska`,
+      name: `Klára Klinkovská`,
+      position: `PhD student`,
+      description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
+      email: `474368@mail.muni.cz`,
+      phoneNumber: ``,
+      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
+	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
+      img: klinkovska
+    },
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
@@ -996,6 +1062,19 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
 	  img: mones
     },
+	/* 		 {
+      id: `szokala`,
+      name: `Daniel Szokala`,
+      position: `PhD student`,
+      description: ``,
+      email: `512772@muni.cz`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
+	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
+      img: szokala
+    },
+*/	
     {
       id: `zukal`,
       name: `Dominik Zukal`,

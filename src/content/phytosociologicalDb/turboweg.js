@@ -96,7 +96,11 @@ export const en = {
         </p>
 		<p>
 		<div style={{ fontWeight: "bold", color: "#e6091f" }}>NEW</div>
-		8.9.2022 The new header data field „New syntaxon“ was added to popup list. New syntaxon follows syntaxon list according to monography <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et. al. 2007–2013). 
+		11.10.2022  New syntaxon list – The header data field „SYNTAXON“ newly follows syntaxon list according to monography <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et al. 2007–2013). 
+		Original syntaxon list (Moravec et al. 1995) is now located in the header data field „Syntaxon MORAVEC“. The change of structure requires downloading new popup list ({""}
+        <a download href={withPrefix(`/Prevod_Moravec_VegetaceCR.pdf`)}> 
+         details here
+        </a>).
 		</p>
       </div>
     </div>
@@ -133,6 +137,18 @@ export const en = {
       <p>
         References: <br />
         <cite>
+		<li>
+			Chytrý M. (ed.) (2007): Vegetace České republiky 1. Travinná a keříčková vegetace. Vegetation of the Czech Republic 1. Grassland and heathland vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2009): Vegetace České republiky 2. Ruderální, plevelová, skalní a suťová vegetace. Vegetation of the Czech Republic 2. Ruderal, weed, rock and scree vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2011): Vegetace České republiky 3. Vodní a mokřadní vegetace. Vegetation of the Czech Republic 3. Aquatic and wetland vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2013): Vegetace České republiky 4. Lesní a křovinná vegetace. Vegetation of the Czech Republic 4. Forest and scrub vegetation. Academia, Praha.
+		</li>
           <li>
             Ehrendorfer F. (ed.) (1973): Liste der Gefäßpflanzen Mitteleuropas. Ed. 2. G. Fischer,
             Stuttgart.{" "}
@@ -291,8 +307,11 @@ export const cz = {
 		
 		<p>
 		<div style={{ fontWeight: "bold", color: "#e6091f" }}>NOVÉ</div>
-		8.9.2022 Do popup listu bylo přidáno pole „New syntaxon“ umístěné za pole „Coordinate system“. New syntaxon je propojený se seznamem syntaxonů podle monografie <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et. al. 2007–2013). Toto pole se samo vytvoří v již existující databázi po aktualizaci
-popup listu.
+		11.10.2022  Nový syntaxon list – pole „SYNTAXON“ nově obsahuje seznam syntaxonů podle monografie <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et al. 2007–2013). 
+		Původní syntaxon list (Moravec et al. 1995) je přesunutý do pole „Syntaxon MORAVEC“. Změna vyžaduje aktualizaci popup listu a změna struktury již existující databáze není automatická ({""}
+        <a download href={withPrefix(`/Prevod_Moravec_VegetaceCR.pdf`)}> 
+         podrobný popis zde
+        </a>).
 		</p>
       </div>
     </div>
@@ -349,6 +368,18 @@ popup listu.
       <p>
         Literatura: <br />
         <cite>
+		<li>
+			Chytrý M. (ed.) (2007): Vegetace České republiky 1. Travinná a keříčková vegetace. Vegetation of the Czech Republic 1. Grassland and heathland vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2009): Vegetace České republiky 2. Ruderální, plevelová, skalní a suťová vegetace. Vegetation of the Czech Republic 2. Ruderal, weed, rock and scree vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2011): Vegetace České republiky 3. Vodní a mokřadní vegetace. Vegetation of the Czech Republic 3. Aquatic and wetland vegetation. Academia, Praha. 
+		</li>
+		<li>
+			Chytrý M. (ed.) (2013): Vegetace České republiky 4. Lesní a křovinná vegetace. Vegetation of the Czech Republic 4. Forest and scrub vegetation. Academia, Praha.
+		</li>
           <li>
             Ehrendorfer F. (ed.) (1973): Liste der Gefäßpflanzen Mitteleuropas. Ed. 2. G. Fischer,
             Stuttgart.{" "}
