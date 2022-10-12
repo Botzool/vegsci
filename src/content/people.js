@@ -1169,10 +1169,16 @@ export const formerPeople = [
 
 export const visitingScientistsCz = [
 {
+    name: `Safiya Praleskouskaya (Itálie, 2022)`
+  },
+{
+    name: `Dario Ciaramella (Itálie, 2022)`
+  },
+{
     name: `Filip Küzmič (Slovinsko, 2022)`
   },
   {
-    name: `Darria Shyriaieva (Ukrajina, 2021)`
+    name: `Dariia Shyriaieva (Ukrajina, 2021)`
   },
   {
     name: `Tatyana Vakhlamova (Kazachstán, 2021)`
@@ -1289,10 +1295,16 @@ export const visitingScientistsCz = [
 
 export const visitingScientistsEn = [
 {
+    name: `Safiya Praleskouskaya (Italy, 2022)`
+  },
+{
+    name: `Dario Ciaramella (Italy, 2022)`
+  },
+{
     name: `Filip Küzmič (Slovenia, 2022)`
   },
 {
-name: `Darria Shyriaieva (Ukraine, 2021)`
+name: `Dariia Shyriaieva (Ukraine, 2021)`
   },
   {
     name: `Tatyana Vakhlamova (Kazakhstan, 2021)`
