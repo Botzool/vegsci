@@ -986,7 +986,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	{
       id: `fahs`,
       name: `Nina Fahs`,
-      position: `PhD student`,
+      position: `Doktorand`,
       description: `Nina Fahs vystudovala mezinárodní technickou a aplikovanou biologii na City University of Applied Sciences v Brémách v Německu. Po dokončení magisterského projektu, ve kterém Nina pracovala na popisu a klasifikaci mesických aluviálních trávníků v severním Německu, nastoupila v roce 2020 jako doktorandka na PřF MU. Ve svém studium se nyní zabývá interakcí mezi hemiparazitickými a bobovitými rostlinami se zaměřením na travní společenstva. Nina se široce zajímá o geobotaniku, využití rozsáhlých databází vegetačních dat pro základní i aplikovaný výzkum a ochranu přírody, zejména ochranu a obnovu polopřirozených druhově bohatých travních porostů.`,
       email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
@@ -1008,7 +1008,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	/* 		 {
       id: `klimova`,
       name: `Barbora Klímová
-      position: `PhD student`,
+      position: `Doktorand`,
       description: ``,
       email: `470403@muni.cz`,
       phoneNumber: ``,
@@ -1021,7 +1021,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	 {
       id: `klinkovska`,
       name: `Klára Klinkovská`,
-      position: `PhD student`,
+      position: `Doktorand`,
       description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
@@ -1055,7 +1055,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 		    {
       id: `mones`,
       name: `Gonzalo Velasco Monés`,
-      position: `PhD student, Researcher`,
+      position: `Doktorand, výzkumník`,
       description: `Gonzalo absolvoval v roce 2019 magisterský stupeň terestrické ekologie na Universitat Autònoma de Barcelona. Jeho hlavním zájmem byly ekologické procesy mediteránní vegetace způsobené sukcesí a změnou klimatu. Aby měl větší jistotu v teoretických a statistických dovednostech, získal také bakalářský titul z matematiky na (Spanish) National University of Remote Education (UNED). Jeho současná doktorská práce se zabývá funkční ekologií vegetace ČR v lokálním i celorepublikovém měřítku a jejím vzájemným vztahem k fylogenetickým vzorcům. Cílem je získat znalosti o procesech ve společenstvech podél sukcesních gradientů. `,
       email: `gonzalo95nuncius@gmail.com`,
       phoneNumber: ``,
@@ -1065,7 +1065,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	/* 		 {
       id: `szokala`,
       name: `Daniel Szokala`,
-      position: `PhD student`,
+      position: `Doktorand`,
       description: ``,
       email: `512772@muni.cz`,
       phoneNumber: ``,
