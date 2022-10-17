@@ -37,7 +37,7 @@ export const en = {
     { name: "dbState", text: "Current state" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Data availability" },
-    { name: "turbowegCheck", text: "Turboveg Check-Up" },
+    /*{ name: "turbowegCheck", text: "Turboveg Check-Up" },*/
     { name: "acknowledgements", text: "Acknowledgements" }
   ],
   introduction: (
@@ -380,7 +380,7 @@ export const cz = {
     { name: "dbState", text: "Stav centrální databáze" },
     { name: "turboweg", text: "Turboveg for Windows" },
     { name: "data", text: "Výměna a poskytování dat" },
-    { name: "turbowegCheck", text: "Turboveg Check-Up" },
+    /*{ name: "turbowegCheck", text: "Turboveg Check-Up" },*/
     { name: "acknowledgements", text: "Poděkování" }
   ],
   introduction: (
