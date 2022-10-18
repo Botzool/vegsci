@@ -106,6 +106,19 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
 	  img: tichy
     },
+	    {
+      id: `axmanova`,
+      name: `Irena Axmanová`,
+      position: `Assistant professor`,
+      description: `Irena Axmanová studied Systematic Botany and Ecology at the Department of Botany and Zoology of Masaryk University. She continued with postgraduate studies at the same department, and in 2012 she defended her PhD thesis "The effect of productivity and other environmental factors on the forest herb-layer diversity". She was involved in a project looking for modern analogues of vegetation in the Late Pleistocene, asking which habitats were preferred by mammoths and other mega-herbivores in late glacial. Currently, she cooperates on projects based on the extensive phytosociological database European Vegetation Archive (EVA) to study vegetation patterns at the European scale. She is mainly interested in vegetation ecology, alien species, and functional and phylogenetic diversity of plant communities.`,
+      email: `axmanova@sci.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
+      orcid: `https://orcid.org/0000-0001-9440-7976`,
+      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
+	  img: axmanova
+    },
     {
       id: `danihelka`,
       name: `Jiří Danihelka`,
@@ -133,6 +146,17 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
       img: divisek
     },
+	{
+      id: `novak`,
+      name: `Pavel Novák`,
+      position: `Assistant professor`,
+      description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated with a master degree in 2013. His master thesis dealt with the variability of forest vegetation in the Krumlovský les Forest and its surroundings (SW Moravia). His PhD study (2014–2020) was aimed at the variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on the European scale. Besides Central Europe, he studies forest vegetation of the Caucasus and the Euxinian Region.`,
+      email: `269109@mail.muni.cz`,
+      phoneNumber: `549498485`,
+      is: `https://www.muni.cz/en/people/269109-pavel-novak`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      img: novak
+    },
     {
       id: `rolecek`,
       name: `Jan Roleček`,
@@ -147,19 +171,7 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
     },
-    {
-      id: `axmanova`,
-      name: `Irena Axmanová`,
-      position: `Researcher`,
-      description: `Irena Axmanová studied Systematic Botany and Ecology at the Department of Botany and Zoology of Masaryk University. She continued with postgraduate studies at the same department, and in 2012 she defended her PhD thesis "The effect of productivity and other environmental factors on the forest herb-layer diversity". She was involved in a project looking for modern analogues of vegetation in the Late Pleistocene, asking which habitats were preferred by mammoths and other mega-herbivores in late glacial. Currently, she cooperates on projects based on the extensive phytosociological database European Vegetation Archive (EVA) to study vegetation patterns at the European scale. She is mainly interested in vegetation ecology, alien species, and functional and phylogenetic diversity of plant communities.`,
-      email: `axmanova@sci.muni.cz`,
-      phoneNumber: `549498395`,
-      is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
-      orcid: `https://orcid.org/0000-0001-9440-7976`,
-      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
-	  img: axmanova
-    },
+
     {
       id: `ceplova`,
       name: `Natálie Čeplová`,
@@ -273,17 +285,7 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
 	  img: landucci
     },
-    {
-      id: `novak`,
-      name: `Pavel Novák`,
-      position: `Researcher`,
-      description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated with a master degree in 2013. His master thesis dealt with the variability of forest vegetation in the Krumlovský les Forest and its surroundings (SW Moravia). His PhD study (2014–2020) was aimed at the variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on the European scale. Besides Central Europe, he studies forest vegetation of the Caucasus and the Euxinian Region.`,
-      email: `269109@mail.muni.cz`,
-      phoneNumber: `549498485`,
-      is: `https://www.muni.cz/en/people/269109-pavel-novak`,
-      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
-    },
+    
 	{
       id: `ottaviani`,
       name: `Gianluigi Ottaviani`,
@@ -633,6 +635,19 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
 	  img: tichy
     },
+	    {
+      id: `axmanova`,
+      name: `Irena Axmanová`,
+      position: `Odborný asistent`,
+      description: `Irena Axmanová vystudovala obor systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity. Na stejném pracovišti v roce 2012 obhájila i dizertační práci v oboru botanika na téma "Vliv produktivity a dalších faktorů prostředí na diverzitu bylinného patra lesů". Podílela se i na projektu hledajícím současné analogie přírody v pozdním pleistocénu s otázkou, jak vypadala krajina mamutů a dalších velkých býložravců na severu Sibiře a v Beringii v době ledové. V současné době spolupracuje na projektech využívajících rozsáhlou fytocenologickou databázi Evropský vegetační archiv (EVA) ke studiu vegetace v kontinentálním měřítku. Mezi její hlavní zájmy patří vegetační ekologie, zastoupení nepůvodních druhů ve vegetaci a funkční a fylogenetická diverzita rostlinných společenstev.`,
+      email: `axmanova@sci.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/lide/78388-irena-axmanova`,
+      orcid: `https://orcid.org/0000-0001-9440-7976`,
+      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
+	  img: axmanova
+    },
     {
       id: `danihelka`,
       name: `Jiří Danihelka`,
@@ -660,6 +675,17 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
       img: divisek
     },
+	    {
+      id: `novak`,
+      name: `Pavel Novák`,
+      position: `Odborný asistent`,
+      description: `Pavel Novák studoval obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity. V roce 2013 obhájil diplomovou práci zaměřenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetačně velmi zajímavého a přitom do té doby takřka neprozkoumaného. V roce 2014 začal doktorské studium, ve kterém pokračuje dodnes. Dizertační práce (2014–2020) byla zaměřena na variabilitu a syntaxonomii dubohabřin (řád Carpinetalia) na evropské škále. Vedle vegetace střední Evropy se věnuje lesní vegetaci Kavkazu a Euxinie.`,
+      email: `269109@mail.muni.cz`,
+      phoneNumber: `549498485`,
+      is: `https://www.muni.cz/lide/269109-pavel-novak`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      img: novak
+    },
     {
       id: `rolecek`,
       name: `Jan Roleček`,
@@ -673,19 +699,6 @@ export const peopleCz = {
       scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
-    },
-    {
-      id: `axmanova`,
-      name: `Irena Axmanová`,
-      position: `Výzkumník`,
-      description: `Irena Axmanová vystudovala obor systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity. Na stejném pracovišti v roce 2012 obhájila i dizertační práci v oboru botanika na téma "Vliv produktivity a dalších faktorů prostředí na diverzitu bylinného patra lesů". Podílela se i na projektu hledajícím současné analogie přírody v pozdním pleistocénu s otázkou, jak vypadala krajina mamutů a dalších velkých býložravců na severu Sibiře a v Beringii v době ledové. V současné době spolupracuje na projektech využívajících rozsáhlou fytocenologickou databázi Evropský vegetační archiv (EVA) ke studiu vegetace v kontinentálním měřítku. Mezi její hlavní zájmy patří vegetační ekologie, zastoupení nepůvodních druhů ve vegetaci a funkční a fylogenetická diverzita rostlinných společenstev.`,
-      email: `axmanova@sci.muni.cz`,
-      phoneNumber: `549498395`,
-      is: `https://www.muni.cz/lide/78388-irena-axmanova`,
-      orcid: `https://orcid.org/0000-0001-9440-7976`,
-      publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
-	  img: axmanova
     },
     {
       id: `ceplova`,
@@ -800,17 +813,6 @@ export const peopleCz = {
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
 	  img: landucci
-    },
-    {
-      id: `novak`,
-      name: `Pavel Novák`,
-      position: `Výzkumník`,
-      description: `Pavel Novák studoval obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity. V roce 2013 obhájil diplomovou práci zaměřenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetačně velmi zajímavého a přitom do té doby takřka neprozkoumaného. V roce 2014 začal doktorské studium, ve kterém pokračuje dodnes. Dizertační práce (2014–2020) byla zaměřena na variabilitu a syntaxonomii dubohabřin (řád Carpinetalia) na evropské škále. Vedle vegetace střední Evropy se věnuje lesní vegetaci Kavkazu a Euxinie.`,
-      email: `269109@mail.muni.cz`,
-      phoneNumber: `549498485`,
-      is: `https://www.muni.cz/lide/269109-pavel-novak`,
-      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
     },
 	{
       id: `ottaviani`,

@@ -286,7 +286,7 @@ export const en = {
         <li>Josef Kutlvašr</li>
         <li>Jitka Laburdová</li>
         <li>Flavia Landucci</li>
-        <li>Deana Láníková</li>
+        <li>Deana Láníková (Simonová)</li>
         <li>Martin Lepší</li>
 		<li>Jarmila Lorencová (Urbánková)</li>
         <li>Zdeňka Lososová</li>
@@ -692,7 +692,7 @@ export const cz = {
         <li>Josef Kutlvašr</li>
         <li>Jitka Laburdová</li>
         <li>Flavia Landucci</li>
-        <li>Deana Láníková</li>
+        <li>Deana Láníková (Simonová)</li>
         <li>Martin Lepší</li>
 		<li>Jarmila Lorencová (Urbánková)</li>
         <li>Zdeňka Lososová</li>
