@@ -6,7 +6,6 @@ import jaskova from "../../static/images/people/jaskova.jpg";
 import rolecek from "../../static/images/people/rolecek.jpg";
 import kalnikova from "../../static/images/people/kalnikova.jpg";
 import kalusova from "../../static/images/people/kalusova.jpg";
-import chudomelova from "../../static/images/people/chudomelova.jpg";
 import holubova from "../../static/images/people/holubova.jpg";
 import tesitel from "../../static/images/people/tesitel.jpg";
 import reznickova from "../../static/images/people/reznickova.jpg";
@@ -29,7 +28,6 @@ import axmanova from "../../static/images/people/axmanova.jpg";
 import kubesova from "../../static/images/people/kubesova.jpg";
 import ceplova from "../../static/images/people/ceplova.jpg";
 import cubino from "../../static/images/people/cubino.jpg";
-import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 import kolenyova from "../../static/images/people/kolenyova.jpg";
 import midolo from "../../static/images/people/midolo.jpg";
 import patsch from "../../static/images/people/patsch.jpg";
@@ -42,8 +40,11 @@ import toumoulin from "../../static/images/people/toumoulin.jpg";
 import iemelianova from "../../static/images/people/iemelianova.jpg";
 import tesitelova from "../../static/images/people/tesitelova.jpg";
 import klinkovska from "../../static/images/people/klinkovska.jpg";
+import klimova from "../../static/images/people/klimova.jpg";
 {/* import szokala from "../../static/images/people/szokala.jpg";*/}
-{/* import klimova from "../../static/images/people/klimova.jpg";*/}
+{/* import shyriaieva from "../../static/images/people/shyriaieva.jpg";*/}
+{/* import sperandii from "../../static/images/people/sperandii.jpg";*/}
+
 
 
 
@@ -106,8 +107,8 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
 	  img: tichy
     },
-	    {
-      id: `axmanova`,
+	 {
+	  id: `axmanova`,
       name: `Irena Axmanová`,
       position: `Assistant professor`,
       description: `Irena Axmanová studied Systematic Botany and Ecology at the Department of Botany and Zoology of Masaryk University. She continued with postgraduate studies at the same department, and in 2012 she defended her PhD thesis "The effect of productivity and other environmental factors on the forest herb-layer diversity". She was involved in a project looking for modern analogues of vegetation in the Late Pleistocene, asking which habitats were preferred by mammoths and other mega-herbivores in late glacial. Currently, she cooperates on projects based on the extensive phytosociological database European Vegetation Archive (EVA) to study vegetation patterns at the European scale. She is mainly interested in vegetation ecology, alien species, and functional and phylogenetic diversity of plant communities.`,
@@ -324,6 +325,18 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
+	/*{
+      id: `shyriaieva`,
+      name: `Dariia Shyriaieva`,
+      position: `Researcher`,
+      description: ``,
+      email: `515100@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/515100-dariia-shyriaieva`,
+      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
+	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
+      img: shyriaieva
+    },*/
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
@@ -432,6 +445,18 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
     },
+/*{
+      id: `sperandii`,
+      name: `Marta Gaia Sperandii`,
+      position: `Postdoc`,
+      description: ``,
+      email: `mgsperandii@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/248804-marta-gaia-sperandii`,
+      researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
+	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
+      img: sperandii
+    },*/
 			  {
       id: `toumoulin`,
       name: `Agathe Toumoulin`,
@@ -492,19 +517,21 @@ and restoration of semi-natural species-rich grasslands.`,
 	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
-	/* 		 {
+	{
       id: `klimova`,
-      name: `Barbora Klímová
+      name: `Barbora Klímová`,
       position: `PhD student`,
-      description: ``,
+      description: `Barbora Klímová studied physical geography at the Faculty of Science of Masaryk
+University, where she specialized in landscape ecology and biogeography. In her master
+thesis, she dealt with the influence of soil pH maps on the accuracy of plant distribution
+models. She is currently continuing her studies at the Department of Botany and Zoology,
+where, as a part of her PhD studies, she focuses on factors that affect the accuracy of
+geographical models of plant distribution and species richness.`,
       email: `470403@muni.cz`,
       phoneNumber: ``,
-      is: ``,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
-	  orcid: ``, 
       img: klimova
     },
-*/	
 	 {
       id: `klinkovska`,
       name: `Klára Klinkovská`,
@@ -849,6 +876,18 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
+		/*{
+      id: `shyriaieva`,
+      name: `Dariia Shyriaieva`,
+      position: `Výzkumník`,
+      description: ``,
+      email: `515100@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/people/515100-dariia-shyriaieva`,
+      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
+	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
+      img: shyriaieva
+    },*/
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
@@ -958,7 +997,19 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
     },
-				  {
+	 /*{
+      id: `sperandii`,
+      name: `Marta Gaia Sperandii`,
+      position: `Postdoc`,
+      description: ``,
+      email: `mgsperandii@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/people/248804-marta-gaia-sperandii`,
+      researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
+	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
+      img: sperandii
+    },*/
+	{
       id: `toumoulin`,
       name: `Agathe Toumoulin`,
       position: `Postdoc`,
@@ -1007,11 +1058,11 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
-	/* 		 {
+	{
       id: `klimova`,
-      name: `Barbora Klímová
+      name: `Barbora Klímová`,
       position: `Doktorand`,
-      description: ``,
+      description: `Barbora Klímová vystudovala fyzickou geografii na Přírodovědecké fakultě Masarykovy univerzity, kde se specializovala na krajinnou ekologii a biogeografii. Ve své diplomové práci se zabývala vlivem map půdního pH na přesnost modelů rozšíření rostlin. V současnosti pokračuje ve studiu na Ústavu botaniky a zoologie, kde se v rámci doktorského studia zaměřuje na faktory, které ovlivňují přesnost geografických modelů rozšíření a druhové diverzity rostlin. `,
       email: `470403@muni.cz`,
       phoneNumber: ``,
       is: ``,
@@ -1019,7 +1070,6 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  orcid: ``, 
       img: klimova
     },
-*/	
 	 {
       id: `klinkovska`,
       name: `Klára Klinkovská`,
