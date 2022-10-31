@@ -43,7 +43,7 @@ import klinkovska from "../../static/images/people/klinkovska.jpg";
 import klimova from "../../static/images/people/klimova.jpg";
 {/* import szokala from "../../static/images/people/szokala.jpg";*/}
 {/* import shyriaieva from "../../static/images/people/shyriaieva.jpg";*/}
-{/* import sperandii from "../../static/images/people/sperandii.jpg";*/}
+import sperandii from "../../static/images/people/sperandii.jpg";
 
 
 
@@ -445,18 +445,19 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
     },
-/*{
+{
       id: `sperandii`,
       name: `Marta Gaia Sperandii`,
       position: `Postdoc`,
-      description: ``,
+      description: `Marta is a plant ecologist broadly interested in biodiversity monitoring, and specifically focused on the multi-faceted analysis of patterns and drivers of temporal vegetation change. During her PhD, carried out at Roma Tre University, she led a resurveying study on Mediterranean coastal dune habitats, assessing changes occurred in their taxonomic and functional diversity over a period of 10-15 years. After defending her thesis in January 2020, she joined for two years, as a postdoctoral researcher, Francesco de Bello’s lab at the Desertification Research Centre (institute of the Spanish National Research Council) in Valencia. There, she worked on the analysis of the mechanisms regulating temporal stability in plant and arthropod communities, with a particular focus on the role of functional traits. In October 2022, Marta joined the Department of Botany and Zoology at Masaryk University as an ERA-funded postdoctoral fellow. With her project VegTrends (https://doi.org/10.3030/101090344), she will make use of the recently-assembled ResurveyEurope database to (i) assess temporal trends in the vegetation of open (i.e. non-forested) European habitats, accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); (ii) evaluate the effectiveness of protected areas in conserving the vegetation of open European habitats. `,
       email: `mgsperandii@sci.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/248804-marta-gaia-sperandii`,
       researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
 	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
+	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
       img: sperandii
-    },*/
+    },
 			  {
       id: `toumoulin`,
       name: `Agathe Toumoulin`,
@@ -529,6 +530,7 @@ where, as a part of her PhD studies, she focuses on factors that affect the accu
 geographical models of plant distribution and species richness.`,
       email: `470403@muni.cz`,
       phoneNumber: ``,
+	  is: `https://www.muni.cz/en/people/470403-barbora-klimova`,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
       img: klimova
     },
@@ -997,18 +999,19 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
     },
-	 /*{
+	 {
       id: `sperandii`,
       name: `Marta Gaia Sperandii`,
       position: `Postdoc`,
-      description: ``,
+      description: `Marta je rostlinná ekoložka, která se zajímá o monitoring biodiverzity. Během svého doktorandského studia na Roma Tre University se zabývala středomořskými pobřežními dunami, přičemž hodnotila změny, ke kterým došlo v jejich taxonomické a funkční diverzitě během 10–15 let. Po obhajobě dizertační práce v lednu 2020 nastoupila na dva roky jako postdoc do laboratoře Francesca de Bella v Desertification Research Center (Spanish National Research Council) ve Valencii. Tam pracovala na analýze mechanismů regulujících stabilitu ve společenstvech rostlin a členovců. V říjnu 2022 nastoupila Marta jako postdoc na Ústav botaniky a zoologie Masarykovy univerzity. Se svým projektem VegTrends (https://doi.org/10.3030/101090344) chce využít databázi ResurveyEurope k (i) posouzení trendů ve vegetaci otevřených (tj. nelesních) evropských biotopů, s přihlédnutím k různým aspektům diverzity (taxonomické, funkční, fylogenetické) a různým biologickým úrovním (společenstvo a druhy); (ii) vyhodnocení efektivity chráněných oblastí při ochraně vegetace evropských otevřených biotopů.`,
       email: `mgsperandii@sci.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/people/248804-marta-gaia-sperandii`,
       researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
 	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
+	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
       img: sperandii
-    },*/
+    },
 	{
       id: `toumoulin`,
       name: `Agathe Toumoulin`,
@@ -1065,7 +1068,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       description: `Barbora Klímová vystudovala fyzickou geografii na Přírodovědecké fakultě Masarykovy univerzity, kde se specializovala na krajinnou ekologii a biogeografii. Ve své diplomové práci se zabývala vlivem map půdního pH na přesnost modelů rozšíření rostlin. V současnosti pokračuje ve studiu na Ústavu botaniky a zoologie, kde se v rámci doktorského studia zaměřuje na faktory, které ovlivňují přesnost geografických modelů rozšíření a druhové diverzity rostlin. `,
       email: `470403@muni.cz`,
       phoneNumber: ``,
-      is: ``,
+      is: `https://www.muni.cz/lide/470403-barbora-klimova`,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
 	  orcid: ``, 
       img: klimova
