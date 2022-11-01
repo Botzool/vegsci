@@ -41,7 +41,7 @@ import iemelianova from "../../static/images/people/iemelianova.jpg";
 import tesitelova from "../../static/images/people/tesitelova.jpg";
 import klinkovska from "../../static/images/people/klinkovska.jpg";
 import klimova from "../../static/images/people/klimova.jpg";
-{/* import szokala from "../../static/images/people/szokala.jpg";*/}
+import szokala from "../../static/images/people/szokala.jpg";
 {/* import shyriaieva from "../../static/images/people/shyriaieva.jpg";*/}
 import sperandii from "../../static/images/people/sperandii.jpg";
 
@@ -541,6 +541,7 @@ geographical models of plant distribution and species richness.`,
       description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study is to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
+	  is: `https://www.muni.cz/en/people/474368-klara-klinkovska`,
       researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
 	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
       img: klinkovska
@@ -578,19 +579,18 @@ geographical models of plant distribution and species richness.`,
       is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
 	  img: mones
     },
-/* 		 {
+    {
       id: `szokala`,
       name: `Daniel Szokala`,
       position: `PhD student`,
-      description: ``,
+      description: `Daniel Szokala studied Landscape architecture and later Botany, in which he obtained a master’s degree. He is interested in the alpine vegetation of central Europe, the Balkans, Caucasus, and Anatolia. In his Ph.D. study, he focuses mainly on geographical patterns and functional diversity of alpine communities.`,
       email: `512772@muni.cz`,
       phoneNumber: ``,
-      is: ``,
+      is: `https://www.muni.cz/en/people/512772-daniel-szokala`,
       researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
     },
-*/	
     {
       id: `zukal`,
       name: `Dominik Zukal`,
@@ -1080,6 +1080,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
+	  is: `https://www.muni.cz/lide/474368-klara-klinkovska`,
       researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
 	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
       img: klinkovska
@@ -1117,19 +1118,18 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
 	  img: mones
     },
-	/* 		 {
+	{
       id: `szokala`,
       name: `Daniel Szokala`,
       position: `Doktorand`,
-      description: ``,
+      description: `Daniel Szokala studoval obor Zahradní a krajinářská architektura a později obor Botanika, ve kterém získal magisterský titul. Věnuje se studiu alpínské vegetace, a to jak střední Evropy, tak Balkánu, Kavkazu a Anatolie. V rámci jeho současného studia vegetační ekologie jej zajímají zejména geografické patterny, funkční vlastnosti rostlin a diverzita společenstev.`,
       email: `512772@muni.cz`,
       phoneNumber: ``,
-      is: ``,
+      is: `https://www.muni.cz/lide/512772-daniel-szokala`,
       researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
     },
-*/	
     {
       id: `zukal`,
       name: `Dominik Zukal`,
