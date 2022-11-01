@@ -479,7 +479,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
     {
       id: `erkelenz`,
       name: `Joshua André Erkelenz`,
-      position: `PhD student`,
+      position: `PhD student, Researcher`,
       description: `Joshua Erkelenz studied forestry and forest ecology at the Georg-August University in Göttingen, Germany. Prior to and during his tropical and international forestry Master Program, he conducted several research projects abroad and graduated with a thesis on patterns of functional diversity on the oceanic island of Tenerife. Continuing in this exciting field of ecological research, he now studies functional and phylogenetic diversity in forest communities along elevational gradients in European mountain ranges at the Department of botany and zoology as part of his Ph.D. He devotes some of his time to the cultivation of tropical and subtropical crops.`,
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
@@ -490,7 +490,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
 	   {
       id: `fahs`,
       name: `Nina Fahs`,
-      position: `PhD student`,
+      position: `PhD student, Researcher`,
       description: `Nina Fahs graduated in International Technical and Applied Biology from the
 City University of Applied Sciences in Bremen, Germany. After finishing her
 Master’s project, for which Nina was working on the description and
@@ -504,6 +504,8 @@ and restoration of semi-natural species-rich grasslands.`,
       email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/528656-nina-fahs`,
+	  researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
+	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
       img: fahs
     },
     {
@@ -521,7 +523,7 @@ and restoration of semi-natural species-rich grasslands.`,
 	{
       id: `klimova`,
       name: `Barbora Klímová`,
-      position: `PhD student`,
+      position: `PhD student, Researcher`,
       description: `Barbora Klímová studied physical geography at the Faculty of Science of Masaryk
 University, where she specialized in landscape ecology and biogeography. In her master
 thesis, she dealt with the influence of soil pH maps on the accuracy of plant distribution
@@ -537,7 +539,7 @@ geographical models of plant distribution and species richness.`,
 	 {
       id: `klinkovska`,
       name: `Klára Klinkovská`,
-      position: `PhD student`,
+      position: `PhD student, Researcher`,
       description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study is to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
@@ -577,12 +579,13 @@ geographical models of plant distribution and species richness.`,
       email: `gonzalo95nuncius@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
+	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
 	  img: mones
     },
     {
       id: `szokala`,
       name: `Daniel Szokala`,
-      position: `PhD student`,
+      position: `PhD student, Researcher`,
       description: `Daniel Szokala studied Landscape architecture and later Botany, in which he obtained a master’s degree. He is interested in the alpine vegetation of central Europe, the Balkans, Caucasus, and Anatolia. In his Ph.D. study, he focuses mainly on geographical patterns and functional diversity of alpine communities.`,
       email: `512772@muni.cz`,
       phoneNumber: ``,
@@ -1047,6 +1050,8 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/528656-nina-fahs`,
+      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
+	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
       img: fahs
     },
     {
@@ -1064,7 +1069,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	{
       id: `klimova`,
       name: `Barbora Klímová`,
-      position: `Doktorand`,
+      position: `Doktorand, výzkumník`,
       description: `Barbora Klímová vystudovala fyzickou geografii na Přírodovědecké fakultě Masarykovy univerzity, kde se specializovala na krajinnou ekologii a biogeografii. Ve své diplomové práci se zabývala vlivem map půdního pH na přesnost modelů rozšíření rostlin. V současnosti pokračuje ve studiu na Ústavu botaniky a zoologie, kde se v rámci doktorského studia zaměřuje na faktory, které ovlivňují přesnost geografických modelů rozšíření a druhové diverzity rostlin. `,
       email: `470403@muni.cz`,
       phoneNumber: ``,
@@ -1076,7 +1081,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	 {
       id: `klinkovska`,
       name: `Klára Klinkovská`,
-      position: `Doktorand`,
+      position: `Doktorand, výzkumník`,
       description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
@@ -1116,12 +1121,13 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       email: `gonzalo95nuncius@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
+	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
 	  img: mones
     },
 	{
       id: `szokala`,
       name: `Daniel Szokala`,
-      position: `Doktorand`,
+      position: `Doktorand, výzkumník`,
       description: `Daniel Szokala studoval obor Zahradní a krajinářská architektura a později obor Botanika, ve kterém získal magisterský titul. Věnuje se studiu alpínské vegetace, a to jak střední Evropy, tak Balkánu, Kavkazu a Anatolie. V rámci jeho současného studia vegetační ekologie jej zajímají zejména geografické patterny, funkční vlastnosti rostlin a diverzita společenstev.`,
       email: `512772@muni.cz`,
       phoneNumber: ``,
