@@ -3,5 +3,24 @@ git add *
 git commit -m "Commit message"
 git push origin master
 
+gastby develop
 
 https://docs.google.com/document/d/1GWKp2PTe-m0Nsi1m1KaT5NW0rHb5Xpy4Gr1o8Rs_7oY/edit#
+
+
+
+
+	 {
+      id: ``,
+      name: ``,
+      position: `PhD student, Researcher  `,
+      description: ``,
+      email: ``,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: ``,
+	  orcid: ``, 
+      img: 
+    },
+	
+	velikost fotky: 576x768

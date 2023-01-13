@@ -325,7 +325,7 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
-      id: `shyriaieva`,
+      {id: `shyriaieva`,
       name: `Dariia Shyriaieva`,
       position: `Researcher`,
       description: `Dariia Shyriaieva is from Ukraine, where she was doing her PhD at the M.G. Kholodny Institute of Botany. Dariia is interested in biodiversity research, vegetation classification and nature conservation, especially in dry grassland vegetation. She has extensive experience in field research and knowledge of steppe flora. During her current internship at Masaryk University, Daria focuses on studying advanced methods of data processing and statistical analysis, using her own data from Southern Ukraine. In addition, she is involved in department projects dedicated to grassland biodiversity and dynamics.`,
@@ -882,7 +882,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
-      id: `shyriaieva`,
+      {id: `shyriaieva`,
       name: `Dariia Shyriaieva`,
       position: `Researcher`,
       description: `Dariia Shyriaieva je z Ukrajiny, kde pracuje na své doktorské práci na M.G. Kholodny Institute of Botany. Dariia se zajímá o výzkum biodiverzity, klasifikaci vegetace a ochranu přírody, převážně ve vegetaci suchých trávníků. Má zkušenosti s terénním výzkumem a znalostí stepní flóry. V průběhu svého působení na Masarykově univerzitě se Dariia zaměřuje na studium metod zpracování dat a na statistické analýzy, které může použít na svých datech z jižní Ukrajiny. Na ÚBZ také spolupracuje na projektu, který se zabývá biodiverzitou a dynamikou travinné vegetace.`,
