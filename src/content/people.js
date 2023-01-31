@@ -457,6 +457,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
 	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
 	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
+	  personal: `https://mgsperandii.netlify.app`, 
       img: sperandii
     },
 			  {
@@ -1015,6 +1016,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
 	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
 	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
+	  personal: `https://mgsperandii.netlify.app`, 
       img: sperandii
     },
 	{
