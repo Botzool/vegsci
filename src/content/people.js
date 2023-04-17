@@ -172,7 +172,19 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
     },
-
+      {id: `shyriaieva`,
+      name: `Dariia Borovyk (Shyriaieva)`,
+      position: `Researcher`,
+      description: `Dariia Borovyk is from Ukraine, where she was doing her PhD at the M.G. Kholodny Institute of Botany. Dariia is interested in biodiversity research, vegetation classification and nature conservation, especially in dry grassland vegetation. She has extensive experience in field research and knowledge of steppe flora. During her current internship at Masaryk University, Daria focuses on studying advanced methods of data processing and statistical analysis, using her own data from Southern Ukraine. In addition, she is involved in department projects dedicated to grassland biodiversity and dynamics.`,
+      email: `515100@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/515100-dariia-shyriaieva`,
+      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
+	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
+	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
+	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
+      img: shyriaieva
+    },
     {
       id: `ceplova`,
       name: `Natálie Čeplová`,
@@ -325,19 +337,7 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
-      {id: `shyriaieva`,
-      name: `Dariia Shyriaieva`,
-      position: `Researcher`,
-      description: `Dariia Shyriaieva is from Ukraine, where she was doing her PhD at the M.G. Kholodny Institute of Botany. Dariia is interested in biodiversity research, vegetation classification and nature conservation, especially in dry grassland vegetation. She has extensive experience in field research and knowledge of steppe flora. During her current internship at Masaryk University, Daria focuses on studying advanced methods of data processing and statistical analysis, using her own data from Southern Ukraine. In addition, she is involved in department projects dedicated to grassland biodiversity and dynamics.`,
-      email: `515100@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/515100-dariia-shyriaieva`,
-      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
-	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
-	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
-      img: shyriaieva
-    },
+
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
@@ -734,7 +734,19 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
       img: rolecek
     },
-    {
+     {id: `shyriaieva`,
+      name: `Dariia Borovyk (Shyriaieva)`,
+      position: `Výzkumník`,
+      description: `Dariia Borovyk je z Ukrajiny, kde pracuje na své doktorské práci na M.G. Kholodny Institute of Botany. Dariia se zajímá o výzkum biodiverzity, klasifikaci vegetace a ochranu přírody, převážně ve vegetaci suchých trávníků. Má zkušenosti s terénním výzkumem a znalostí stepní flóry. V průběhu svého působení na Masarykově univerzitě se Dariia zaměřuje na studium metod zpracování dat a na statistické analýzy, které může použít na svých datech z jižní Ukrajiny. Na ÚBZ také spolupracuje na projektu, který se zabývá biodiverzitou a dynamikou travinné vegetace.`,
+      email: `515100@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/515100-dariia-shyriaieva`,
+      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
+	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
+	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
+	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
+      img: shyriaieva
+    }, {
       id: `ceplova`,
       name: `Natálie Čeplová`,
       position: `Výzkumník`,
@@ -883,19 +895,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
-      {id: `shyriaieva`,
-      name: `Dariia Shyriaieva`,
-      position: `Researcher`,
-      description: `Dariia Shyriaieva je z Ukrajiny, kde pracuje na své doktorské práci na M.G. Kholodny Institute of Botany. Dariia se zajímá o výzkum biodiverzity, klasifikaci vegetace a ochranu přírody, převážně ve vegetaci suchých trávníků. Má zkušenosti s terénním výzkumem a znalostí stepní flóry. V průběhu svého působení na Masarykově univerzitě se Dariia zaměřuje na studium metod zpracování dat a na statistické analýzy, které může použít na svých datech z jižní Ukrajiny. Na ÚBZ také spolupracuje na projektu, který se zabývá biodiverzitou a dynamikou travinné vegetace.`,
-      email: `515100@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/515100-dariia-shyriaieva`,
-      researchgate: `https://www.researchgate.net/profile/Dariia-Shyriaieva`,
-	  orcid: `https://orcid.org/0000-0001-7140-7201`, 
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
-	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
-      img: shyriaieva
-    },
+
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
