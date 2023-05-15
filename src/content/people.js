@@ -1102,7 +1102,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 
 export const formerPeople = [
   {
-    name: `Gianluigi Ottaviani (2021–2023)`,
+    name: `Gianluigi Ottaviani (2022–2023)`,
     email: `gianluigi.ottaviani@gmail.com`
   },  {
     name: `Gabriele Midolo (2021–2023)`,
