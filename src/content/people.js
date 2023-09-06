@@ -459,6 +459,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/528856-joshua-andre-erkelenz`,
+	  orcid: `https://orcid.org/0009-0005-7339-6741`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
       img: erkelenz
     },
@@ -989,6 +990,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/528856-joshua-andre-erkelenz`,
+	  orcid: `https://orcid.org/0009-0005-7339-6741`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
       img: erkelenz
     },
