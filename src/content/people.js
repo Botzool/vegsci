@@ -570,19 +570,7 @@ geographical models of plant distribution and species richness.`,
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
     },
-    {
-      id: `zukal`,
-      name: `Dominik Zukal`,
-      position: `PhD student, Researcher`,
-      description: `Dominik Zukal studied bachelor and master degree programmes in Ecological and Evolutionary Biology at the Faculty of Science, Masaryk University in 2010–2015. During this time he studied forest vegetation, among others an alternative way of assessing its species diversity. Desiring to get a deeper insight into mechanisms driving the occurrence and functioning of forest communities, he decided to continue his studies, and so he started his PhD studies at the same institution. In his PhD thesis, he focuses on the variability of European scree and ravine forest vegetation.`,
-      email: `375623@mail.muni.cz`,
-      phoneNumber: `549498494`,
-      is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
-      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`, 
-	 orcid: `https://orcid.org/0000-0003-3248-5703`, 
-	  img: zukal
-    }
-  ]
+   ]
 };
 
 export const peopleCz = {
@@ -1088,27 +1076,20 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
     },
-    {
-      id: `zukal`,
-      name: `Dominik Zukal`,
-      position: `Doktorand, výzkumník`,
-      description: `Dominik Zukal studoval v letech 2010–2015 bakalářský a magisterský studijní program ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. V rámci svého studia se zabýval lesní vegetací, mj. alternativním způsobem hodnocení její druhové rozmanitosti. S touhou poznat hlubší souvislosti řídící vznik a fungování lesních společenstev se rozhodl pokračovat ve studiu, a tak na téže instituci nastoupil na doktorské studium. V rámci své dizertační práce se věnuje variabilitě vegetace evropských suťových a roklinových lesů.`,
-      email: `375623@mail.muni.cz`,
-      phoneNumber: `549498494`,
-      is: `https://www.muni.cz/lide/375623-dominik-zukal`,
-      researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`, 
-	  img: zukal
-    }
-  ]
+    ]
 };
 
 export const formerPeople = [
   {
     name: `Gianluigi Ottaviani (2022–2023)`,
     email: `gianluigi.ottaviani@gmail.com`
-  },  {
-    name: `Gabriele Midolo (2021–2023)`,
+  },  
+    {name: `Gabriele Midolo (2021–2023)`,
     email: `gabriele.midolo@gmail.com`
+  },
+    {
+    name: `Dominik Zukal (2015–2022)`,
+    email: `375623@mail.muni.cz`
   },
   {
     name: `Josep Padullés Cubino (2019–2022)`,
