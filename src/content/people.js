@@ -724,7 +724,7 @@ export const peopleCz = {
     }, 
 		 {id: `cuk`,
       name: `Mirjana Ćuk`,
-      position: `Researcher`,
+      position: `Výzkumník`,
       description: `Mirjana studied botany at the Faculty of Science at the University of Novi Sad in Republic of Serbia. Her PhD study was aimed at diversity and temporal dynamics of the flora and vegetation of the biggest sandy area in Serbia - Deliblato Sands (Banat, Vojvodina, Serbia). In her PhD thesis, she analyzed flora and all vegetation types in Deliblato sands, with specific attention to sand-dune vegetation, syntaxonomical revision of sand dune vegetation in Serbia and position of this vegetation in wider scope (Pannonic and Pontic region). 
 Main focus of her research is botany and nature conservation (plant and habitat diversity and conservation, invasive and allergenic flora) and plant ecology (vegetation classification, succession of vegetation, functional ecology).
 Mirjana joined the Department of Botany and Zoology at Masaryk University in September 2023 and here she will analyze the diversity of inland sand-dune vegetation across the Europe. This project will provide phytosociological synthesis of sand vegetation for the whole of Europe. Also, the results will help to understand the vegetation on the continental dunes, which is of extreme importance, considering that these are habitats that should be legally protected, both within the EU and elsewhere in Europe. This project is supported by Visegrad Fund.
