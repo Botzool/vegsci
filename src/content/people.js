@@ -44,7 +44,7 @@ import klimova from "../../static/images/people/klimova.jpg";
 import szokala from "../../static/images/people/szokala.jpg";
 import shyriaieva from "../../static/images/people/shyriaieva.jpg";
 import sperandii from "../../static/images/people/sperandii.jpg";
-
+import cuk from "../../static/images/people/cuk.jpg";
 
 
 
@@ -184,6 +184,19 @@ export const peopleEn = {
 	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
 	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
       img: shyriaieva
+    },
+	 {id: `cuk`,
+      name: `Mirjana Ćuk`,
+      position: `Researcher`,
+      description: `Mirjana studied botany at the Faculty of Science at the University of Novi Sad in Republic of Serbia. Her PhD study was aimed at diversity and temporal dynamics of the flora and vegetation of the biggest sandy area in Serbia - Deliblato Sands (Banat, Vojvodina, Serbia). In her PhD thesis, she analyzed flora and all vegetation types in Deliblato sands, with specific attention to sand-dune vegetation, syntaxonomical revision of sand dune vegetation in Serbia and position of this vegetation in wider scope (Pannonic and Pontic region). 
+Main focus of her research is botany and nature conservation (plant and habitat diversity and conservation, invasive and allergenic flora) and plant ecology (vegetation classification, succession of vegetation, functional ecology).
+Mirjana joined the Department of Botany and Zoology at Masaryk University in September 2023 and here she will analyze the diversity of inland sand-dune vegetation across the Europe. This project will provide phytosociological synthesis of sand vegetation for the whole of Europe. Also, the results will help to understand the vegetation on the continental dunes, which is of extreme importance, considering that these are habitats that should be legally protected, both within the EU and elsewhere in Europe. This project is supported by Visegrad Fund.
+`,
+      email: `mirjana.cuk.rs@gmail.com`,
+      researchgate: `https://www.researchgate.net/profile/Mirjana-Cuk`,
+	  orcid: `https://orcid.org/0000-0002-8261-414X`, 
+	  scholar: `https://scholar.google.com/citations?user=VLx2lQ0AAAAJ&hl=en`, 
+      img: cuk
     },
     {
       id: `ceplova`,
@@ -708,7 +721,21 @@ export const peopleCz = {
 	  scholar: `https://scholar.google.com/citations?hl=cs&user=eJUi4KoAAAAJ`, 
 	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
       img: shyriaieva
-    }, {
+    }, 
+		 {id: `cuk`,
+      name: `Mirjana Ćuk`,
+      position: `Researcher`,
+      description: `Mirjana studied botany at the Faculty of Science at the University of Novi Sad in Republic of Serbia. Her PhD study was aimed at diversity and temporal dynamics of the flora and vegetation of the biggest sandy area in Serbia - Deliblato Sands (Banat, Vojvodina, Serbia). In her PhD thesis, she analyzed flora and all vegetation types in Deliblato sands, with specific attention to sand-dune vegetation, syntaxonomical revision of sand dune vegetation in Serbia and position of this vegetation in wider scope (Pannonic and Pontic region). 
+Main focus of her research is botany and nature conservation (plant and habitat diversity and conservation, invasive and allergenic flora) and plant ecology (vegetation classification, succession of vegetation, functional ecology).
+Mirjana joined the Department of Botany and Zoology at Masaryk University in September 2023 and here she will analyze the diversity of inland sand-dune vegetation across the Europe. This project will provide phytosociological synthesis of sand vegetation for the whole of Europe. Also, the results will help to understand the vegetation on the continental dunes, which is of extreme importance, considering that these are habitats that should be legally protected, both within the EU and elsewhere in Europe. This project is supported by Visegrad Fund.
+`,
+      email: `mirjana.cuk.rs@gmail.com`,
+      researchgate: `https://www.researchgate.net/profile/Mirjana-Cuk`,
+	  orcid: `https://orcid.org/0000-0002-8261-414X`, 
+	  scholar: `https://scholar.google.com/citations?user=VLx2lQ0AAAAJ&hl=en`, 
+      img: cuk
+    },
+	{
       id: `ceplova`,
       name: `Natálie Čeplová`,
       position: `Výzkumník`,
