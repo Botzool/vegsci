@@ -45,7 +45,7 @@ import szokala from "../../static/images/people/szokala.jpg";
 import shyriaieva from "../../static/images/people/shyriaieva.jpg";
 import sperandii from "../../static/images/people/sperandii.jpg";
 import cuk from "../../static/images/people/cuk.jpg";
-import knotek from "../../static/images/people/knotek.jpg";
+
 
 
 export const peopleEn = {
@@ -198,7 +198,19 @@ Mirjana joined the Department of Botany and Zoology at Masaryk University in Sep
 	  scholar: `https://scholar.google.com/citations?user=VLx2lQ0AAAAJ&hl=en`, 
       img: cuk
     },
-        {
+    {
+      id: `ceplova`,
+      name: `Natálie Čeplová`,
+      position: `Researcher`,
+      description: `Natálie Čeplová studied Systematic Biology and Ecology at the Faculty of Science of Masaryk University (1997–2002). Her master thesis was devoted to the expansion of Arrhenatherum elatius in acidophilous dry grasslands. She completed her doctoral studies at the same institution in 2017 and defended her PhD thesis focused on the diversity of European urban vegetation. Since 2011 she works as a researcher at the Department of Botany and Zoology (Faculty of Science, Masaryk University). She is mainly interested in different aspects of plant diversity of man-made habitats (vegetation, phylogeny, plant traits). She is also employed as a research assistant at the Department of Biology, Faculty of Education, Masaryk University.`,
+      email: `ceplova@ped.muni.cz`,
+      phoneNumber: `549494992`,
+      is: `https://www.muni.cz/en/people/13913-natalie-ceplova`,
+      orcid: `https://orcid.org/0000-0002-8796-654X`,
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`, 
+	  img: ceplova
+    },
+    {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Researcher`,
@@ -271,21 +283,6 @@ Mirjana joined the Department of Botany and Zoology at Masaryk University in Sep
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
-	   {
-      id: `knotek`,
-      name: `Adam Knotek`,
-      position: `Researcher`,
-      description: `Adam Knotek studied botany at the Faculty of Science, Charles University in Prague, where he completed his master's degree in the field of vascular plant systematics in 2014. He focused on the allopatric differentiation of the Czech endemic species, Galium sudeticum. For this, he utilized both traditional morphometric analyses and flow cytometry to measure differences in DNA content, as well as molecular analyses such as AFLP and RadSeq sequencing.
-These experiences further fueled his subsequent research at the same university, where he delved into the differentiation and local adaptation of populations of Arabidopsis arenosa group. Among other things, he tormented and cultivated this plant in growth chambers. From 2016 to 2022, he worked as a botanist at the Regional Museum in Mikulov. Since 2021, he has been part of Jakub Těšitel's team at the Institute of Botany and Zoology, Masaryk University, focusing on the utilization of hemiparasitic plants in suppressing invasive plant species. Additionally, since 2014, he has been employed at the Botanical Institute of the Czech Academy of Sciences, contributing to data digitization for the PLADIAS project.
-`,      email: `fruticulus@gmail.com`,
-      phoneNumber: `549 49 5013`,
-      is: `https://www.muni.cz/lide/357941-adam-knotek`,
-	  orcid: `https://orcid.org/0000-0002-9012-2751`,
-	  publons: `https://www.webofscience.com/wos/author/record/1065912`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=e2oVoJUAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Adam-Knotek`,
-	  img: knotek
-    },
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -303,7 +300,7 @@ These experiences further fueled his subsequent research at the same university,
     {
       id: `landucci`,
       name: `Flavia Landucci`,
-      position: `Researcher (maternity leave)`,
+      position: `Researcher`,
       description: `Flavia Landucci studied Natural Science at the University of Perugia, Italy, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master studies, she focused on the distribution, ecology and phytochemistry of the exotic species Senecio inaequidens in Italy. During that time, she realized that her favourite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest in aquatic and wetland vegetation. She first came to Brno as a PhD student for an Erasmus stay in 2010. At Masaryk University, she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. In 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of Botany and Zoology of Masaryk University. Her research is currently mainly focused on the classification of aquatic and wetland vegetation of Europe.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
@@ -339,10 +336,11 @@ These experiences further fueled his subsequent research at the same university,
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
+
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
-      position: `Researcher (maternity leave)`,
+      position: `Researcher`,
       description: `Eva Šmerdová studied Plant Systematics and Ecology at the University of Ostrava. She continued in the master study of Botany at Masaryk University, and was graduated in 2006. Her master thesis dealt with the effect of contact plant communities on the species composition of spring fens. Her PhD thesis dealt with species richness of plants and molluscs along the moisture gradient. Currently, she works on public relation of botany and zoology, focusing mainly on the students of high and secondary school. She cooperates in projects dealing with (1) the influence of the artificial snow on vegetation and (2) the refugia of endangered fen plant species. She also works on the database of plant macrofossils of the Czech and Slovak Republic. She likes to travel with co-workers to sample field data for research projects.`,
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
@@ -352,7 +350,18 @@ These experiences further fueled his subsequent research at the same university,
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
-        {
+    {
+      id: `stepankova`,
+      name: `Petra Štěpánková`,
+      position: `Researcher`,
+      description: `Petra Štěpánková graduated in Horticulture from the Faculty of Horticulture of Mendel University in Lednice in 1997. In 2003 she completed her PhD in anatomy and physiology of plants at the Faculty of Agronomy of Mendel University. In 2001–2014 she worked as a lecturer at the Institute of Plant Biology of the same faculty, taught General and Systematic Botany, led botanical field excursions and practices, created two multimedia learning texts, and provided e-learning support for students. Since 2014 she has been working as a researcher at the Department of Botany and Zoology, Faculty of Science, Masaryk University, where she participates in the preparation of data and databases for the creation of maps within the PLADIAS project and databases of the BRNU herbarium collection. She is also working for the Centre for European Vegetation Synthesis (CEVS).`,
+      email: `pstepankova@sci.muni.cz`,
+      phoneNumber: `549498389`,
+      is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
+	  researchgate: `https://www.researchgate.net/profile/Petra-Stepankova`, 
+	  img: stepankova
+    },
+    {
       id: `taborska`,
       name: `Markéta Táborská`,
       position: `Researcher (maternity leave)`,
@@ -401,13 +410,29 @@ These experiences further fueled his subsequent research at the same university,
     {
       id: `galuskova`,
       name: `Hana Galušková`,
-      position: `Researcher (maternity leave)`,
+      position: `Researcher`,
       description: `Hana Galušková graduated in Upper Secondary School Teacher Training in Biology from the Faculty of Science, Masaryk University in 2014. Her master thesis focused on floristic diversity around Uherský Ostroh in southern Moravia. She works as a technician in the Herbarium of Masaryk University.`,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`, 
 	  img: galuskova
     },
- {
+  {
+      id: `patsch`,
+      name: `Ricarda Pätsch`,
+      position: `Postdoc`,
+      description: `Ricarda Pätsch is a vegetation ecologist interested in plant diversity patterns of semi-natural and natural open landscapes on a local as well as on a transnational scale. In 2019, she defended her PhD on salt marshes of the Baltic Sea coast at the Universities of Hildesheim and Goettingen, followed by a postdoctoral stay in the Wagner Ecological Lab at the University of Alberta, Canada, where she studied Bedrock Meadows occurring in the mid-elevations of the Interior Pacific NW North America. Her research aims to describe, protect and preserve long-term resilient plant communities and habitat. She supports the idea of commonly shared vegetation databases and data repositories by formalizing non-standardized vegetation data, by digitizing historical data, and by serving as a database custodian.
+Here at the Department of Botany and Zoology of Masaryk University, Ricarda studies salt affected vegetation in Europe, aiming to facilitate the identification of geographic patterns, main driving factors of species composition and the development of European habitat typologies as an important basis for decision-making processes in nature conservation. 
+Ricarda is convinced that respectful and mutually supportive cooperation facilitates a common understanding of challenges, tasks and goal-oriented solutions.
+`,
+      email: `ricarda.paetsch@gmail.com`,
+      is: `https://www.muni.cz/en/people/245871-ricarda-paetsch`,
+      orcid: `https://orcid.org/0000-0002-3349-0910`,
+      publons: `https://publons.com/researcher/2397480/ricarda-patsch/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
+	  personal: `https://ricardapaetsch.weebly.com/`,
+	  img: patsch
+    },
+{
       id: `sperandii`,
       name: `Marta Gaia Sperandii`,
       position: `Postdoc`,
@@ -421,7 +446,21 @@ These experiences further fueled his subsequent research at the same university,
 	  personal: `https://mgsperandii.netlify.app`, 
       img: sperandii
     },
-	  ],
+			  {
+      id: `toumoulin`,
+      name: `Agathe Toumoulin`,
+      position: `Postdoc`,
+      description: `Agathe studied biology, ecology and evolution at the University of Montpellier where she specialized in the reconstruction of paleoenvironments. She then completed a PhD in paleoclimate modelling at the French National Centre for Scientific Research, in Aix-en-Provence, during which she focussed on a major climate change of our era, the Eocene Oligocene Transition (around ~ 34 million years ago). She has experience using different types of fossil remains (including leaves and wood) and paleoclimate reconstruction tools (proxies and Earth System Models). Her postdoc project combines some of these different approaches to describe the evolution of Angiosperms' functional diversity in Europe during the Cenozoic (i.e., the last 66 million years), and to understand how this was shaped by past geographic and climate changes.`,
+      email: `agathe.toumoulin@gmail.com`,
+      is: `https://www.muni.cz/en/people/247960-agathe-toumoulin`,
+      orcid: `https://orcid.org/0000-0003-2181-3732`,
+      publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
+      scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Agathe-Toumoulin`, 
+	  personal: `https://agathetoumoulin.wixsite.com/monsite`,
+	  img: toumoulin
+    },
+  ],
   
 
   phdStudents: [
@@ -523,7 +562,7 @@ geographical models of plant distribution and species richness.`,
     },
 	    {
       id: `mones`,
-      name: `Gonzalo Velasco Mones`,
+      name: `Gonzalo Velasco Monés`,
       position: `PhD student, Researcher`,
       description: `Gonzalo is an environmental biologist bachelor with a master on Terrestrial Ecology by Universitat Autònoma de Barcelona from 2019. His main interests there were about ecological processes of Mediterranean vegetation caused by succession and climate change, with a progressive shift towards more theoretical aspects. His current work as a PhD student is on the functional ecology of Czech vegetation, both at a local and a country-wide scale, and its interrelationship with phylogenetic patterns to gain knowledge of the processes of community assembly along successional gradients. To be more confident on theoretical and statistical skills, he is also slow-pacedly obtaining a Mathematics bachelor by the (Spanish) National University of Remote Education (UNED).`,
       email: `gonzalo95nuncius@gmail.com`,
@@ -683,8 +722,7 @@ export const peopleCz = {
 	  personal: `https://www.nas.gov.ua/UA/PersonalSite/Pages/default.aspx?PersonID=0000028997`,
       img: shyriaieva
     }, 
-	 {
-	  id: `cuk`,
+		 {id: `cuk`,
       name: `Mirjana Ćuk`,
       position: `Výzkumník`,
       description: `Mirjana vystudovala botaniku na Přírodovědecké fakultě Univerzity Novi Sad v Srbské republice. Její doktorandské studium bylo zaměřeno na diverzitu a časovou dynamiku flóry a vegetace největší písečné oblasti v Srbsku - Deliblatské písky (Banát, Vojvodina, Srbsko). Ve své disertační práci analyzovala flóru a všechny typy vegetace Deliblatských písků se zvláštním zřetelem na vegetaci písečných dun, syntaxonomickou revizi vegetace písečných dun v Srbsku a postavení této vegetace v širším rozsahu (panonská a pontická oblast).
@@ -696,7 +734,19 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  scholar: `https://scholar.google.com/citations?user=VLx2lQ0AAAAJ&hl=en`, 
       img: cuk
     },
-	       {
+	{
+      id: `ceplova`,
+      name: `Natálie Čeplová`,
+      position: `Výzkumník`,
+      description: `Natálie Čeplová studovala obor systematická biologie a ekologie na Přírodovědecké fakultě Masarykovy univerzity (1997–2002). V diplomové práci se zabývala studiem expanze ovsíku vyvýšeného (Arrhenatherum elatius) v suchých trávnících. Doktorské studium absolvovala na téže instituci (2011–2017). V disertační práci se zabývala různými aspekty diverzity vegetace evropských sídel. Od roku 2011 pracuje jako výzkumnice na Ústavu botaniky a zoologie PřF MU a zabývá se vegetací na člověkem vytvořených stanovištích, především její fylogenetickou diverzitou a vlastnostmi rostlin. Současně pracuje jako odborná asistentka na Katedře biologie Pedagogické fakulty MU.`,
+      email: `ceplova@ped.muni.cz`,
+      phoneNumber: `549494992`,
+      is: `https://www.muni.cz/lide/13913-natalie-ceplova`,
+      orcid: `https://orcid.org/0000-0002-8796-654X`,
+      researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
+	  img: ceplova
+    },
+       {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Výzkumník`,
@@ -744,6 +794,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
 	  img: iemelianova
     },
+
     {
       id: `kalusova`,
       name: `Veronika Kalusová`,
@@ -768,20 +819,6 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
-		   {
-      id: `knotek`,
-      name: `Adam Knotek`,
-      position: `Výzkumník`,
-      description: `Adam Knotek vystudoval botaniku na Přírodovědecké fakultě Univerzity Karlovy v Praze, kde v roce 2014 ukončil magisterské studium v oboru systematika cévnatých rostlin. Zabýval se alopatrickou diferenciací českého endemického druhu svízele sudetského. K tomu využíval jak tradiční morfometrické analýzy a průtokovou cytometrii k měření rozdílů obsahu DNA, tak i molekulární analýzy jako je AFLP nebo sekvenování metodou RadSeq. Tyto zkušenosti dále využil při navazujícím výzkumu na téže univerzitě, kdy se zabýval diferenciací a lokální adaptací populací řeřišničníku písečeného. Ten mimo jiné také týral a pěstoval v pěstebních komorách. V období let 2016-2022 působil jako botanik v Regionálním muzeu v Mikulově a od roku 2021 pracuje v týmu Jakuba Těšitele na Ústavu botaniky a zoologie Masarykovy univerzity, který se zabývá využitím poloparazitických rostlin při potlačování invazních rostlinných druhů. Kromě toho je také od roku 2014 zaměstnán na Botanickém ústavu AV ČR, kde se podílí na digitalizaci dat pro projekt PLADIAS.`,
-      email: `fruticulus@gmail.com`,
-      phoneNumber: `549 49 5013`,
-      is: `https://www.muni.cz/lide/357941-adam-knotek`,
-	  orcid: `https://orcid.org/0000-0002-9012-2751`,
-	  publons: `https://www.webofscience.com/wos/author/record/1065912`,
-	  scholar: `https://scholar.google.com/citations?hl=cs&user=e2oVoJUAAAAJ`,
-	  researchgate: `https://www.researchgate.net/profile/Adam-Knotek`,
-	  img: knotek
-    },	
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -795,11 +832,12 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`, 
 	  img: kubesova
-	    },
-	{
+	  
+    },
+    {
       id: `landucci`,
       name: `Flavia Landucci`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník (mateřská dovolená)`,
       description: `Flavia Landucci vystudovala přírodní vědy na Univerzitě v Perugii v Itálii. Během svého bakalářského a magisterského studia se zabývala rozšířením, ekologií a fytochemií nepůvodního druhu Senecio inaequidens v Itálii. V této době si oblíbila ekologii rostlin. Během doktorského studia začala rozvíjet svůj zájem o vodní a mokřadní vegetaci. Do Brna přišla poprvé během doktorského studia díky programu Erasmus v roce 2010. Na Masarykově univerzitě našla velmi pozitivní prostředí, které ji povzbudilo, aby pokračovala ve svém výzkumu po doktorátě. V roce 2011 získala doktorský titul s prací Klasifikace vodní a mokřadní vegetace ve střední Itálii. V roce 2013 uspěla v projektu SoMoPro (spolufinancovaný programem Marie Curie a Jihomoravským krajem) a od té doby pracuje ve skupině Výzkum vegetace na Ústavu botaniky a zoologie Masarykovy univerzity. Její výzkum je v současné době zaměřen především na klasifikaci vodní a mokřadní vegetace Evropy.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
@@ -832,10 +870,11 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
       img: reznickova
     },
+
     {
       id: `smerdova`,
       name: `Eva Šmerdová (Hettenbergerová)`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník`,
       description: `Eva Šmerdová získala bakalářský titul na Ostravské univerzitě, kde se její práce zaměřovala na flóru a vegetaci hald. Magisterské studium botaniky ukončila v roce 2006 na Přírodovědecké fakultě Masarykovy univerzity diplomovou prací zabývající se vlivem kontaktních společenstev na druhové složení lučních pramenišť. Doktorskou práci na téma "Druhová bohatost a variabilita rostlin a měkkýšů na vlhkostním gradientu" obhájila v roce 2013. V současné době se zabývá výzkumem vlivu zasněžování na vegetaci, zpracováním historických vegetačních snímků a správou databáze rostlinných makrozbytků České a Slovenské republiky. Spolupracuje na projektu zkoumajícím refugia ohrožených slatiništních rostlin. Eva se podíli na prezentaci botaniky a zoologie veřejnosti, především pak studentům středních a základních škol. Také spolupracuje se na přípravě Biologické olympiády. Ráda cestuje s kolegy po rodné vlasti i do zahraničí a sbírá terénní data k dalšímu výzkumu vegetace.`,
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
@@ -845,10 +884,21 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
-       {
+    {
+      id: `stepankova`,
+      name: `Petra Štěpánková`,
+      position: `Výzkumník`,
+      description: `Petra Štěpánková absolvovala v roce 1997 inženýrské studium na Zahradnické fakultě Mendelovy univerzity v Lednici, obor zahradnictví. V roce 2003 ukončila doktorské studium v oboru anatomie a fyziologie rostlin na Agronomické fakultě Mendelovy univerzity v Brně. V letech 2001–2014 působila na Ústavu biologie rostlin téže fakulty jako odborná asistentka. Vyučovala obecnou i systematickou botaniku, vedla terénní botanické exkurze a botanická praktika, vytvořila dva multimediální výukové texty a množství e-learningových materiálů pro studenty. Od roku 2014 pracuje jako výzkumnice na Ústavu botaniky a zoologie PřF Masarykovy univerzity, kde se podílí na přípravě dat a databází pro tvorbu map v rámci projektu PLADIAS a databází herbářové sbírky BRNU. V současnosti pracuje pro Centrum pro evropské vegetační syntézy (CEVS).`,
+      email: `pstepankova@sci.muni.cz`,
+      phoneNumber: `549498389`,
+      is: `https://www.muni.cz/lide/234942-petra-stepankova`, 
+	  researchgate: `https://www.researchgate.net/profile/Petra-Stepankova`, 
+	  img: stepankova
+    },
+    {
       id: `taborska`,
       name: `Markéta Táborská`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník (mateřská dovolená)`,
       description: `Markéta Táborská studovala systematickou biologii a ekologii se zaměřením botanika. Studium ukončila v roce 2018 obhájením dizertační práce věnující se diverzitě a ekologii epixylických mechorostů. Tomuto tématu se věnovala nejen v rámci studia, ale také při realizaci několika projektů zaměřených především na průzkum diverzity a dynamiky přirozených lesů u nás. V současné době se podílí na projektu mapujícím biodiverzitu mechorostů na tlejícím dřevě v přirozených bukových porostech Evropy.`,
       email: `taborska.mar@gmail.com`,
       phoneNumber: `549498474`,
@@ -860,7 +910,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 		 {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník (mateřská dovolená)`,
       description: `Tamara Těšitelová vystudovala botaniku na Přírodovědecké fakultě Jihočeské univerzity, kde v roce 2014 obhájila disertační práci s názvem „Ekologické a evoluční důsledky závislosti orchidejí na mykorhizních houbách“. Pro studium orchideoidní mykorhizy využila pestrou škálu přístupů od terénních experimentů s vyséváním orchidejových semen, izolace a molekulární identifikace hub, včetně metabarkódování environmentální DNA, a fylogenetických analýz až po elektronovou mikroskopii či složení stabilních izotopů. Na Ústavu botaniky a zoologie MU působí od roku 2021 a věnuje se zde využití poloparazitických rostlin pro potlačení invazních rostlinných druhů a také využití databází pro studium ekologie mykoheterotrofních rostlin. Nadále pracuje i na Jihočeské univerzitě především na otázkách antropogenního ovlivnění společenstev orchideoidních hub v půdě a využití houbového inokula pro obnovu populací orchidejí v přírodě.`,
       email: `tamara.malinova@centrum.cz`,
       is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
@@ -895,14 +945,28 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
     {
       id: `galuskova`,
       name: `Hana Galušková`,
-      position: `Technik (rodičovská dovolená)`,
+      position: `Technik`,
       description: `Hana Galušková vystudovala dvojobor Učitelství biologie a matematiky pro střední školy v programu ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity. Floristicky zaměřenou diplomovou práci obhájila v roce 2014. Nyní pracuje v herbáři Masarykovy univerzity.`,
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
       is: `https://www.muni.cz/lide/357936-hana-galuskova`,
 	  img: galuskova
     },
-	  	 {
+	  {
+      id: `patsch`,
+      name: `Ricarda Pätsch`,
+      position: `Postdoc`,
+      description: `Ricarda Pätsch studuje modely rozmanitosti rostlin polopřirozených a přirozených otevřených krajin jak v lokálním, tak i nadnárodním měřítku. V roce 2019 obhájila doktorát s výzkumem slanisk pobřeží Baltského moře na univerzitách v Hildesheimu a Goettingenu. Poté pobývala jako postdoc ve Wagner Ecological Lab na University of Alberta v Kanadě, kde studovala louky a trávníky na skalách. Její výzkum si klade za cíl popsat, chránit a uchovat dlouhodobě odolná společenstva rostlin a jejich stanoviště. Ricarda podporuje myšlenku sdílených vegetačních databází a datových úložišť formalizací nestandardizovaných dat vegetace, digitalizací historických dat a tím, že slouží jako správce databáze.
+Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou vegetaci ovlivněnou solemi, s cílem usnadnit jak identifikaci geografických vzorců, tak i hlavních faktorů druhového složení a vývoj evropských typologií stanovišť jako důležitého základu pro rozhodovací procesy v ochraně přírody.`,
+      email: `ricarda.paetsch@gmail.com`,
+      is: `https://www.muni.cz/lide/245871-ricarda-paetsch`,
+      orcid: `https://orcid.org/0000-0002-3349-0910`,
+      publons: `https://publons.com/researcher/2397480/ricarda-patsch/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
+	  personal: `https://ricardapaetsch.weebly.com/`,
+	  img: patsch
+    },
+	 {
       id: `sperandii`,
       name: `Marta Gaia Sperandii`,
       position: `Postdoc`,
@@ -916,7 +980,21 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  personal: `https://mgsperandii.netlify.app`, 
       img: sperandii
     },
-	  ],
+	{
+      id: `toumoulin`,
+      name: `Agathe Toumoulin`,
+      position: `Postdoc`,
+      description: `Agathe studovala biologii, ekologii a evoluci na Montpellierské univerzitě, kde se specializovala na rekonstrukci historického prostředí. Poté dokončila doktorát v oboru modelování paleoklimatu ve Francouzském národním centru pro vědecký výzkum v Aix-en-Provence, během kterého se zaměřila na hlavní klimatickou změnu naší éry, na přechodu mezi eocénem a oligocénem (asi před ~ 34 miliony lety). Má zkušenosti s různými typy fosílií (včetně listů a dřeva) a nástroji pro rekonstrukci paleoklimatu (proxy a modely zemského systému). Její postdoktorský projekt kombinuje některé z těchto různých přístupů k popisu vývoje funkční diverzity krytosemenných rostlin v Evropě během kenozoika (tj. posledních 66 milionů let) a k pochopení toho, jak bylo prostředí formováno minulými geografickými a klimatickými změnami.`,
+      email: `agathe.toumoulin@gmail.com`,
+      is: `https://www.muni.cz/en/people/247960-agathe-toumoulin`,
+      orcid: `https://orcid.org/0000-0003-2181-3732`,
+      publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
+      scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Agathe-Toumoulin`, 
+	  personal: `https://agathetoumoulin.wixsite.com/monsite`,
+	  img: toumoulin
+	     },
+  ],
   phdStudents: [
       {
       id: `erkelenz`,
@@ -945,7 +1023,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
     {
       id: `jaskova`,
       name: `Anni Kanerva Jašková`,
-      position: `Doktorand, výzkumník (rodičovská dovolená)`,
+      position: `Doktorand, výzkumník (mateřská dovolená)`,
       description: `Anni Jašková pochází z Finska, kde studovala ekologii na Univerzitě v Turku. Je doktorandkou se specializací na boreální vegetaci. Hlavním cílem její práce je vytvoření jednotné klasifikace boreálních lesů v evropském měřítku, ale zajímá se také o teoretickou ekologii, zejména o rostlinné strategie a vztahy mezi rostlinami a býložravci. Před studiem boreálních společenstev zkoumala společenstva arktická, především vztahy mezi lumíky a lišejníky v tundře.`,
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
@@ -981,7 +1059,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `Doktorand, výzkumník (rodičovská dovolená)`,
+      position: `Doktorand, výzkumník (mateřská dovolená)`,
       description: `Kateřina Knotková je absolvenkou zahradní a krajinářské architektury na Zahradnické fakultě Mendelovy univerzity v Brně. Svou práci vždy soustředila především na rostliny. V bakalářské práci se zaměřila na tvorbu botanické zahrady z druhů typických pro rostlinná společenstva Národního parku Podyjí. V diplomové práci se pak zaměřila na testování rostlin, které by bylo možné pěstovat ve městech z přímého výsevu a také na dnes velmi diskutované téma dešťových záhonů. Nyní pokračuje ve studiích na Ústavu botaniky a zoologie, kde v rámci doktorátu řeší použití poloparazitických rostlin v ochraně přírody, jejich vliv na biodiverzitu a ekosystémové služby. Ve své práci se snaží kombinovat vědomosti a přístupy aplikované zahradnické praxe a základního botanického výzkumu.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
@@ -1003,7 +1081,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
     },
 		    {
       id: `mones`,
-      name: `Gonzalo Velasco Mones`,
+      name: `Gonzalo Velasco Monés`,
       position: `Doktorand, výzkumník`,
       description: `Gonzalo absolvoval v roce 2019 magisterský stupeň terestrické ekologie na Universitat Autònoma de Barcelona. Jeho hlavním zájmem byly ekologické procesy mediteránní vegetace způsobené sukcesí a změnou klimatu. Aby měl větší jistotu v teoretických a statistických dovednostech, získal také bakalářský titul z matematiky na (Spanish) National University of Remote Education (UNED). Jeho současná doktorská práce se zabývá funkční ekologií vegetace ČR v lokálním i celorepublikovém měřítku a jejím vzájemným vztahem k fylogenetickým vzorcům. Cílem je získat znalosti o procesech ve společenstvech podél sukcesních gradientů. `,
       email: `gonzalo95nuncius@gmail.com`,
@@ -1028,21 +1106,6 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 };
 
 export const formerPeople = [
-{
-    name: `Agathe Toumoulin (2022–2023)`,
-    email: `agathe.toumoulin@gmail.com`
-  },
-{
-    name: `Ricarda Pätsch (2021–2023)`,
-    email: `ricarda.paetsch@gmail.com`
-  },  {
-    name: `Petra Štěpánková (2014–2023)`,
-    email: `petra.stepankova@lipka.cz`
-  },    
-  {
-    name: `Natálie Čeplová (2009–2023)`,
-    email: `ceplova@ped.muni.cz`
-  },  
   {
     name: `Gianluigi Ottaviani (2022–2023)`,
     email: `gianluigi.ottaviani@gmail.com`
