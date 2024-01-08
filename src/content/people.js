@@ -46,6 +46,9 @@ import shyriaieva from "../../static/images/people/shyriaieva.jpg";
 import sperandii from "../../static/images/people/sperandii.jpg";
 import cuk from "../../static/images/people/cuk.jpg";
 import knotek from "../../static/images/people/knotek.jpg";
+import hubatka from "../../static/images/people/hubatka.jpg";
+import franc from "../../static/images/people/franc.jpg";
+
 
 
 export const peopleEn = {
@@ -303,7 +306,7 @@ These experiences further fueled his subsequent research at the same university,
     {
       id: `landucci`,
       name: `Flavia Landucci`,
-      position: `Researcher (maternity leave)`,
+      position: `Researcher`,
       description: `Flavia Landucci studied Natural Science at the University of Perugia, Italy, where she graduated and obtained her PhD degree in botany and vegetation science. During her bachelor and master studies, she focused on the distribution, ecology and phytochemistry of the exotic species Senecio inaequidens in Italy. During that time, she realized that her favourite part of botany is the study of plant and community ecology. During the PhD she started to develop her interest in aquatic and wetland vegetation. She first came to Brno as a PhD student for an Erasmus stay in 2010. At Masaryk University, she found a very positive and stimulating environment with cooperative people that encouraged her to continue her research after the PhD. She got the PhD degree in 2011 with a thesis about the classification of aquatic and wetland vegetation of Central Italy. In 2013 she successfully applied for a SoMoPro project (co-funded by the Marie Curie actions and the South Moravian Region) and since that time she has worked in the Vegetation Science Group at the Department of Botany and Zoology of Masaryk University. Her research is currently mainly focused on the classification of aquatic and wetland vegetation of Europe.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
@@ -323,7 +326,6 @@ These experiences further fueled his subsequent research at the same university,
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/en/people/10230-zdenka-preislerova`,
       orcid: `https://orcid.org/0000-0002-6848-0384`,
-      publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`, 
 	  img: preislerova
@@ -457,6 +459,27 @@ and restoration of semi-natural species-rich grasslands.`,
 	  researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
 	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
       img: fahs
+    },
+	{
+      id: `franc`,
+      name: `Martin Franc`,
+      position: `PhD student, Researcher  `,
+      description: `Martin Franc graduated in Ecology and Environmental Protection at Palacký University in Olomouc, where he focused on the endangered flora of meadows in the central part of the White Carpathians and subsequently on the ecology of semi-natural grasslands in Latvia and their relationship to the soil environment. During his PhD studies, he is interested in the ecology of specialised functional groups of plants such as parasites, mycoheterotrophs, carnivorous plants and nitrogen fixers, especially their relation to soil environmental conditions.`,
+      email: `437048@mail.muni.cz`,
+      is: `https://www.muni.cz/en/people/437048-martin-franc`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Franc2`,
+	  img: franc
+	  },
+	{
+      id: `hubatka`,
+      name: `Petr Hubatka`,
+      position: `PhD student, Researcher  `,
+      description: `Petr Hubatka studied botany at the Faculty of Science, Masaryk University, where he defended in 2023 his master thesis Flora and vegetation on wet arable land in southern Moravia. His PhD study aims at the diversity of deciduous oak forests in southeastern Europe. He is interested in European flora, vegetation, and factors that determine their diversity.`,
+      email: `460527@mail.muni.cz`,
+      is: `https://www.muni.cz/en/people/460527-petr-hubatka`,
+      researchgate: `https://www.researchgate.net/profile/Petr-Hubatka`,
+	  orcid: `https://orcid.org/0000-0001-8178-5230`, 
+      img: hubatka
     },
     {
       id: `jaskova`,
@@ -799,7 +822,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	{
       id: `landucci`,
       name: `Flavia Landucci`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník`,
       description: `Flavia Landucci vystudovala přírodní vědy na Univerzitě v Perugii v Itálii. Během svého bakalářského a magisterského studia se zabývala rozšířením, ekologií a fytochemií nepůvodního druhu Senecio inaequidens v Itálii. V této době si oblíbila ekologii rostlin. Během doktorského studia začala rozvíjet svůj zájem o vodní a mokřadní vegetaci. Do Brna přišla poprvé během doktorského studia díky programu Erasmus v roce 2010. Na Masarykově univerzitě našla velmi pozitivní prostředí, které ji povzbudilo, aby pokračovala ve svém výzkumu po doktorátě. V roce 2011 získala doktorský titul s prací Klasifikace vodní a mokřadní vegetace ve střední Itálii. V roce 2013 uspěla v projektu SoMoPro (spolufinancovaný programem Marie Curie a Jihomoravským krajem) a od té doby pracuje ve skupině Výzkum vegetace na Ústavu botaniky a zoologie Masarykovy univerzity. Její výzkum je v současné době zaměřen především na klasifikaci vodní a mokřadní vegetace Evropy.`,
       email: `386683@mail.muni.cz`,
       phoneNumber: `549498479`,
@@ -933,7 +956,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	{
       id: `fahs`,
       name: `Nina Fahs`,
-      position: `Doktorand`,
+      position: `Doktorand, výzkumník`,
       description: `Nina Fahs vystudovala mezinárodní technickou a aplikovanou biologii na City University of Applied Sciences v Brémách v Německu. Po dokončení magisterského projektu, ve kterém Nina pracovala na popisu a klasifikaci mesických aluviálních trávníků v severním Německu, nastoupila v roce 2020 jako doktorandka na PřF MU. Ve svém studium se nyní zabývá interakcí mezi hemiparazitickými a bobovitými rostlinami se zaměřením na travní společenstva. Nina se široce zajímá o geobotaniku, využití rozsáhlých databází vegetačních dat pro základní i aplikovaný výzkum a ochranu přírody, zejména ochranu a obnovu polopřirozených druhově bohatých travních porostů.`,
       email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
@@ -941,6 +964,27 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
 	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
       img: fahs
+    },
+	{
+      id: `franc`,
+      name: `Martin Franc`,
+      position: `Doktorand, výzkumník`,
+      description: `Martin Franc vystudoval obor Ekologie a ochrana životního prostředí na Univerzitě Palackého v Olomouci, kde se během svého studia věnoval ohrožené flóře luk střední části Bílých Karpat a následně ekologii polopřirozených lučních společenstev v Lotyšsku, zejména jejich vazbě na půdní prostředí. V rámci doktorského studia se zabývá ekologií specializovaných funkčních skupin rostlin jako jsou paraziti, mykoheterotrofní rostliny, masožravé rostliny a fixátoři dusíku, zejména jejich vazbě na podmínky půdního prostředí.`,
+      email: `437048@mail.muni.cz`,
+      is: `https://www.muni.cz/en/people/437048-martin-franc`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Franc2`,
+	  img: franc
+    },
+		{
+      id: `hubatka`,
+      name: `Petr Hubatka`,
+      position: `Doktorand, výzkumník  `,
+      description: `Petr Hubatka vystudoval v roce 2023 magisterský obor Botanika na Přírodovědecké fakultě Masarykovy univerzity. Ve své diplomové práci se zabýval flórou a vegetací polních mokřadů na jižní Moravě. Nyní se v doktorském studiu zabývá diverzitou a ekologií opadavých doubrav v jihovýchodní Evropě. Zajímá ho flóra a vegetace Evropy a faktory, které ovlivňují jejich podobu.`,
+	  email: `460527@mail.muni.cz`,
+      is: `https://www.muni.cz/en/people/460527-petr-hubatka`,
+      researchgate: `https://www.researchgate.net/profile/Petr-Hubatka`,
+	  orcid: `https://orcid.org/0000-0001-8178-5230`, 
+      img: hubatka      
     },
     {
       id: `jaskova`,
