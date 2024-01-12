@@ -524,7 +524,7 @@ geographical models of plant distribution and species richness.`,
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `PhD student, Researcher (maternity leave)`,
+      position: `PhD student, Researcher`,
       description: `Kateřina Knotková studied Landscape Architecture at Faculty of Horticulture, Mendel University in Brno. Her interests were focused mainly on plants. Her bachelor thesis was aimed at creation of a botanical garden in the National park Podyjí made of natural plant assemblages that occur in this national park. In her diploma thesis, she tested plant species that could be cultivated in cities by direct sowing and also addressed rain gardens, a much-discussed topic today. Now she is continuing in her doctoral studies at the Department of Botany and Zoology, Faculty of Science, Masaryk University. The topic of her PhD thesis is hemiparasitic plants and their influence on biodiversity and ecosystem services. In her works, she combines knowledge and approaches of horticulture and basic botanical research.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
@@ -1025,7 +1025,7 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `Doktorand, výzkumník (rodičovská dovolená)`,
+      position: `Doktorand, výzkumník`,
       description: `Kateřina Knotková je absolvenkou zahradní a krajinářské architektury na Zahradnické fakultě Mendelovy univerzity v Brně. Svou práci vždy soustředila především na rostliny. V bakalářské práci se zaměřila na tvorbu botanické zahrady z druhů typických pro rostlinná společenstva Národního parku Podyjí. V diplomové práci se pak zaměřila na testování rostlin, které by bylo možné pěstovat ve městech z přímého výsevu a také na dnes velmi diskutované téma dešťových záhonů. Nyní pokračuje ve studiích na Ústavu botaniky a zoologie, kde v rámci doktorátu řeší použití poloparazitických rostlin v ochraně přírody, jejich vliv na biodiverzitu a ekosystémové služby. Ve své práci se snaží kombinovat vědomosti a přístupy aplikované zahradnické praxe a základního botanického výzkumu.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
