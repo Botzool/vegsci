@@ -1,4 +1,5 @@
 export const galleryNames = [
+  { main: "france_2023" },
   { main: "montenegro_2023" },
   { main: "italy_2022" },
   { main: "mohelno_2022" },
@@ -24,6 +25,7 @@ export const galleryNames = [
 ];
 
 export const galleryNamesCz = [
+  "2023 Itálie, Francie",
   "2023 Černá Hora",
   "2022 Itálie",
   "2022 Mohelno",
@@ -48,6 +50,7 @@ export const galleryNamesCz = [
   "2007 Itálie",
 ];
 export const galleryNamesEn = [
+  "2023 Italy, France",
   "2023 Montenegro",
   "2022 Italy",
   "2022 Mohelno",
@@ -73,6 +76,7 @@ export const galleryNamesEn = [
 ];
 
 export const galleryLabelsCz = {
+	france_2023: ["", "", "", "", "", "", "Primula latifolia", "Clematis alpina", "Polygono-Trisetion", "Ranunculus aconitifolius", "Biscutella laevigata", "", "", "", "", "", "", "", "", "Dryas octopetala", "", "", "Narcissus poeticus", "", "", "", "Ostrya carpinifolia" ],
 montenegro_2023: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", ""],
   italy_2022: ["Colfiorito", "Colfiorito", "Himantoglossum adriaticum",  "Colfiorito", "Legousia speculum-veneris", "Colfiorito", "Adonis annua", "Colfiorito", "Agrostemma githago", "", "", "", "Anacamptis pyramidalis", "Ostrya carpinifolia", "Mortaro grande", "Mortaro grande", "", "Assisi", "Assisi", "Assisi", "", "", "Armeria saviana", "NP Maremma: Pinus pinaea", "", "Paliurus spina-christi", "Myrtus communis",  "Evax astericiflora", "Quercus suber", "Sphinx ligustri", "NP Maremma", "NP Maremma", "", "Castanea sativa", "Badlands, Castelnuovo Scalo", "Badlands, Castelnuovo Scalo", "Pievescola", "serpentinit", "Oryctes sp.","gekon", "Colonnata: Cima D'Uomo", "Ruta graveolens", "Santolina leucantha","Sedum dasyphyllum","Hypericum coris", "Cima D'Uomo", "Moltkia suffruticosa", "", "", "Geum montanum", "", "Dianthus deltoides", "Monte Alto", "Anemone narcissiflora", "Monte Alto", "Gentiana acaulis", "Daphne alpina",  "Globularia sp.", "Monte Alto", "Monte Alto", "", "", "",],
   mohelno_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
@@ -96,6 +100,7 @@ montenegro_2023: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
 };
 
 export const galleryLabelsEn = {
+  france_2023: ["", "", "", "", "", "", "Primula latifolia", "Clematis alpina", "Polygono-Trisetion", "Ranunculus aconitifolius", "Biscutella laevigata", "", "", "", "", "", "", "", "", "Dryas octopetala", "", "", "Narcissus poeticus", "", "", "", "Ostrya carpinifolia" ],
   montenegro_2023: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", ""],
   italy_2022: ["Colfiorito", "Colfiorito", "Himantoglossum adriaticum",  "Colfiorito", "Legousia speculum-veneris", "Colfiorito", "Adonis annua", "Colfiorito", "Agrostemma githago", "", "", "", "Anacamptis pyramidalis", "Ostrya carpinifolia", "Mortaro grande", "Mortaro grande", "", "Assisi", "Assisi", "Assisi", "", "", "Armeria saviana", "NP Maremma: Pinus pinaea", "", "Paliurus spina-christi", "Myrtus communis",  "Evax astericiflora", "Quercus suber", "Sphinx ligustri", "NP Maremma", "NP Maremma", "", "Castanea sativa", "Badlands, Castelnuovo Scalo", "Badlands, Castelnuovo Scalo", "Pievescola", "serpentinite", "Oryctes sp.","gecko", "Colonnata: Cima D'Uomo", "Ruta graveolens", "Santolina leucantha","Sedum dasyphyllum","Hypericum coris", "Cima D'Uomo", "Moltkia suffruticosa", "", "", "Geum montanum", "", "Dianthus deltoides", "Monte Alto", "Anemone narcissiflora", "Monte Alto", "Gentiana acaulis", "Daphne alpina",  "Globularia sp.", "Monte Alto", "Monte Alto", "", "", "",],
   mohelno_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
