@@ -1,20 +1,86 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
-      {
+  {
+    date: `15/12/2023`,
+    name: `Parasitische Pflanzen: Halbschmarotzer gegen Invasive Arten`,
+    resources: [`Deutschlandfunk`],
+    links: [`https://www.deutschlandfunk.de/parasitische-pflanzen-halbschmarotzer-gegen-invasive-arten-dlf-a25fa8ea-100.html`]
+  },         
+  {
+    date: `24/11/2023`,
+    name: `Kokrhel: poloparazit, který bohatým bere a chudým dává`,
+    resources: [`Živá půda`],
+    links: [`https://www.ziva-puda.cz/blog/kokrhel`]
+  }, 
+		{
+    date: `13/10/2023`,
+    name: `Rajčata lze sklízet později, o některé druhy rostlin ale můžeme přijít, říká o oteplování botanik`,
+    resources: [`Deník N`],
+    links: [`https://denikn.cz/1256428/rajcata-lze-sklizet-pozdeji-o-nektere-druhy-rostlin-ale-muzeme-prijit-rika-o-oteplovani-botanik`]
+  }, 
+  {
+    date: `30/9/2023`,
+    name: `Za oponou přírody: Tajemné louky v Karpatech`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/13608570834-za-oponou-prirody/`]
+  },
+  {
+    date: `15/6/2023`,
+    name: `Kokrhel a černýš pomáhají s údržbou trávníků v areálu kampusu`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/udalosti/16556-poloparaziticke-rostliny-pomahaji-pri-udrzbe-travniku-v-univerzitnim-kampusu-bohunice`]
+  },
+		   {
+    date: `18/3/2023`,
+    name: `Česko zachraňuje ohrožené rostliny. Pomoci může i mozaikové sečení`,
+    resources: [`deník.cz`],
+    links: [`https://www.denik.cz/z_domova/zachrana-ohrozenych-druhu-rostlin.html`]
+  },
+        {
+    date: `18/3/2023`,
+    name: `Kociánek dvoudomý mnoho mladých botaniků ani nevidělo`,
+    resources: [`deník.cz`],
+    links: [`https://www.denik.cz/z_domova/milan-chytry-ustav-botaniky-a-zoologie-ohrozene-druhy-rostlin.html`]
+  }, 
+        {
+    date: `3/2/2023`,
+    name: `Proč spolu žijí rostliny a jak mezi ně nejsnáze pronikne vetřelec`,
+    resources: [`GAČR`],
+    links: [`https://gacr.cz/proc-spolu-ziji-rostliny-a-jak-mezi-ne-nejsnaze-pronikne-vetrelec/`]
+  },  
+        {
+    date: `11/1/2023`,
+    name: `Kvetoucí příroda a mírná zima`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/1096902795-studio-6/223411010100111/cast/956142/`]
+  },
+        {
+    date: `7/11/2022`,
+    name: `Člověk a krajina v proměnách věků`,
+    resources: [`Vesmir.cz`],
+    links: [`https://www.youtube.com/watch?v=3CBVjcywJ7M`]
+  },
+  	  {
     date: `25/9/2021`,
     name: `Nečekaná obnova slanisk u Šakvic – zaniklý jihomoravský biotop se vrací do krajiny`,
     resources: [`Ekolist`, `Český rozhlas`],
     links: [`https://ekolist.cz/cz/publicistika/priroda/necekana-obnova-slanisk-u-sakvic-zanikly-jihomoravsky-biotop-se-vraci-do-krajiny`, `https://plus.rozhlas.cz/novy-cesky-test-umi-jednoduseji-zjistit-uroven-protilatek-proti-nemoci-covid-19-8592889`]
   },
+	  {
+    date: `15/9/2022`,
+    name: `Úspěch českých botaniků. Podíleli se na tvorbě nové celosvětové mapy biodiverzity rostlin`,
+    resources: [`Novinky.cz`],
+    links: [`https://www.novinky.cz/clanek/veda-skoly-uspech-ceskych-botaniku-podileli-se-na-tvorbe-nove-celosvetove-mapy-biodiverzity-rostlin-40408831`]
+  },
       {
     date: `6/6/2021`,
-    name: ` Sčítání konikleců na Kamenném vrchu`,
+    name: `Sčítání konikleců na Kamenném vrchu`,
     resources: [`Ekolist`],
     links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/scitani-koniklecu-na-kamennem-vrchu-v-brne-potvrdilo-svetovy-unikat-lokality`]
   },  
 	  {
     date: `27/4/2021`,
-    name: ` Jak zmírnit úbytek druhové pestrosti`,
+    name: `Jak zmírnit úbytek druhové pestrosti`,
     resources: [`ČT Studio 6`],
     links: [`https://www.ceskatelevize.cz/porady/1096902795-studio-6/221411010100427/video/836062`]
   },
@@ -26,7 +92,7 @@ export const mediaCz = [
   },
     {
     date: `16/3/2021`,
-    name: ` Vědci popsali rozdíly vývoje diverzity rostlin ve střední Evropě`,
+    name: `Vědci popsali rozdíly vývoje diverzity rostlin ve střední Evropě`,
     resources: [`Ekolist`],
     links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/vedci-popsali-rozdily-vyvoje-diverzity-rostlin-ve-stredni-evrope`]
   },
@@ -207,12 +273,78 @@ export const mediaCz = [
   ];
 
 export const mediaEn = [
+  {
+    date: `15/12/2023`,
+    name: `Parasitische Pflanzen: Halbschmarotzer gegen Invasive Arten`,
+    resources: [`Deutschlandfunk`],
+    links: [`https://www.deutschlandfunk.de/parasitische-pflanzen-halbschmarotzer-gegen-invasive-arten-dlf-a25fa8ea-100.html`]
+  },         
+  {
+    date: `24/11/2023`,
+    name: `Kokrhel: poloparazit, který bohatým bere a chudým dává`,
+    resources: [`Živá půda`],
+    links: [`https://www.ziva-puda.cz/blog/kokrhel`]
+  }, 
+		{
+    date: `13/10/2023`,
+    name: `Rajčata lze sklízet později, o některé druhy rostlin ale můžeme přijít, říká o oteplování botanik`,
+    resources: [`Deník N`],
+    links: [`https://denikn.cz/1256428/rajcata-lze-sklizet-pozdeji-o-nektere-druhy-rostlin-ale-muzeme-prijit-rika-o-oteplovani-botanik`]
+  }, 
+  {
+    date: `30/9/2023`,
+    name: `Za oponou přírody: Tajemné louky v Karpatech`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/13608570834-za-oponou-prirody/`]
+  },
+  {
+    date: `15/6/2023`,
+    name: `Kokrhel a černýš pomáhají s údržbou trávníků v areálu kampusu`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/udalosti/16556-poloparaziticke-rostliny-pomahaji-pri-udrzbe-travniku-v-univerzitnim-kampusu-bohunice`]
+  },
+		   {
+    date: `18/3/2023`,
+    name: `Česko zachraňuje ohrožené rostliny. Pomoci může i mozaikové sečení`,
+    resources: [`deník.cz`],
+    links: [`https://www.denik.cz/z_domova/zachrana-ohrozenych-druhu-rostlin.html`]
+  },
         {
+    date: `18/3/2023`,
+    name: `Kociánek dvoudomý mnoho mladých botaniků ani nevidělo`,
+    resources: [`deník.cz`],
+    links: [`https://www.denik.cz/z_domova/milan-chytry-ustav-botaniky-a-zoologie-ohrozene-druhy-rostlin.html`]
+  }, 
+        {
+    date: `3/2/2023`,
+    name: `Proč spolu žijí rostliny a jak mezi ně nejsnáze pronikne vetřelec`,
+    resources: [`GAČR`],
+    links: [`https://gacr.cz/proc-spolu-ziji-rostliny-a-jak-mezi-ne-nejsnaze-pronikne-vetrelec/`]
+  },  
+        {
+    date: `11/1/2023`,
+    name: `Kvetoucí příroda a mírná zima`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/1096902795-studio-6/223411010100111/cast/956142/`]
+  },
+        {
+    date: `7/11/2022`,
+    name: `Člověk a krajina v proměnách věků`,
+    resources: [`Vesmir.cz`],
+    links: [`https://www.youtube.com/watch?v=3CBVjcywJ7M`]
+  },
+	  {
     date: `25/9/2021`,
     name: `Nečekaná obnova slanisk u Šakvic – zaniklý jihomoravský biotop se vrací do krajiny`,
     resources: [`Ekolist`, `Český rozhlas`],
     links: [`https://ekolist.cz/cz/publicistika/priroda/necekana-obnova-slanisk-u-sakvic-zanikly-jihomoravsky-biotop-se-vraci-do-krajiny`, `https://plus.rozhlas.cz/novy-cesky-test-umi-jednoduseji-zjistit-uroven-protilatek-proti-nemoci-covid-19-8592889`]
-  },
+  },	 
+	 {
+    date: `15/9/2022`,
+    name: `Úspěch českých botaniků. Podíleli se na tvorbě nové celosvětové mapy biodiverzity rostlin`,
+    resources: [`Novinky.cz`],
+    links: [`https://www.novinky.cz/clanek/veda-skoly-uspech-ceskych-botaniku-podileli-se-na-tvorbe-nove-celosvetove-mapy-biodiverzity-rostlin-40408831`]
+  },      
       {
     date: `6/6/2021`,
     name: ` Sčítání konikleců na Kamenném vrchu`,
@@ -414,6 +546,24 @@ export const mediaEn = [
   ];
 
 export const popularizationCz = [
+{
+    date: `2023`,
+    name: `Zelkova habrolistá - pamětnice třetihor pod Kavkazem`,
+    resources: [`Živa`],
+    links: [`https://ziva.avcr.cz/2023-3/zelkova-habrolista-pametnice-tretihor-pod-kavkazem.html`]
+  },
+  {
+    date: `2022`,
+    name: `Hlaváček letní, rostlina roku 2022, a jeho příbuzní`,
+    resources: [`Živa`],
+    links: [`https://ziva.avcr.cz/files/ziva/pdf/hlavacek-letni-rostlina-roku-2022-a-jeho-pribuzni.pdf`]
+  },
+    {
+    date: `2022`,
+    name: `Nerovnováhou k stabilitě`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2022/cislo-2/nerovnovahou-k-stabilite.html`]
+  },
 {
     date: `2022`,
     name: `Zamrzlé safari`,
