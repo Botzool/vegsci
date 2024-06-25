@@ -82,6 +82,20 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
       img: lososova
     },
+	{
+      id: `rolecek`,
+      name: `Jan Roleček`,
+      position: `Associate professor`,
+      description: `Jan Roleček is interested in ecology and diversity of vegetation, especially forest-steppe habitats such as thermophilous oak forests and steppe meadows. Besides describing this diversity, he also tries to understand its causes, which has led him to study forest-steppes in remote areas of Eurasia and also to explore their history on different time scales. As a graduate in the field of Environmental Conservation (Palacký University in Olomouc), he is also concerned with the protection of endangered species and habitats, and he devotes part of his work to them. After completing his PhD in Botany at Masaryk University (2001–2007), he stayed faithful to the Department of Botany and Zoology and at the same time he works at the Institute of Botany of the Czech Academy of Sciences. He leads lectures in Forest Ecology, Protected Areas of the Czech Republic, Quaternary Environments (with M. Horsák) and Special Field Practice in Botany and Zoology (with Biotým).`,
+      email: `rolecek@mail.muni.cz`,
+      phoneNumber: `549498489`,
+      is: `https://www.muni.cz/en/people/42706-jan-rolecek`,
+      orcid: `https://orcid.org/0000-0002-0023-1111`,
+      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
+      img: rolecek
+    },
     {
       id: `tesitel`,
       name: `Jakub Těšitel`,
@@ -161,20 +175,7 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
-    {
-      id: `rolecek`,
-      name: `Jan Roleček`,
-      position: `Assistant professor`,
-      description: `Jan Roleček is interested in ecology and diversity of vegetation, especially forest-steppe habitats such as thermophilous oak forests and steppe meadows. Besides describing this diversity, he also tries to understand its causes, which has led him to study forest-steppes in remote areas of Eurasia and also to explore their history on different time scales. As a graduate in the field of Environmental Conservation (Palacký University in Olomouc), he is also concerned with the protection of endangered species and habitats, and he devotes part of his work to them. After completing his PhD in Botany at Masaryk University (2001–2007), he stayed faithful to the Department of Botany and Zoology and at the same time he works at the Institute of Botany of the Czech Academy of Sciences. He leads lectures in Forest Ecology, Protected Areas of the Czech Republic, Quaternary Environments (with M. Horsák) and Special Field Practice in Botany and Zoology (with Biotým).`,
-      email: `rolecek@mail.muni.cz`,
-      phoneNumber: `549498489`,
-      is: `https://www.muni.cz/en/people/42706-jan-rolecek`,
-      orcid: `https://orcid.org/0000-0002-0023-1111`,
-      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-      img: rolecek
-    },
+    
       {id: `shyriaieva`,
       name: `Dariia Borovyk (Shyriaieva)`,
       position: `Researcher`,
@@ -601,6 +602,20 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
       img: lososova
     },
+	{
+      id: `rolecek`,
+      name: `Jan Roleček`,
+      position: `Docent`,
+      description: `Jana Rolečka zajímá ekologie a diverzita vegetace, především pak lesostepních biotopů teplomilných doubrav a stepních luk. Kromě popisu této diverzity se snaží porozumět i jejím příčinám, což jej přivedlo ke studiu lesostepí ve vzdálených oblastech Eurasie a také ke zkoumání jejich historie na různých časových škálách. Jako absolventa oboru ochrana a tvorba životního prostředí na Univerzity Palackého v Olomouci jej pálí také otázky ochrany ohrožených druhů a biotopů a část pracovní aktivity věnuje i jim. Po dokončení doktorského studia botaniky na Masarykově univerzitě (2001–2007) zůstal věrný Ústavu botaniky a zoologie, současně pracuje také v Botanickém ústavu AV ČR. Učí předměty ekologie lesa, chráněná území České republiky, příroda ve čtvrtohorách (s M. Horsákem) a speciální botanicko-zoologické cvičení v terénu (s Biotýmem).`,
+      email: `rolecek@mail.muni.cz`,
+      phoneNumber: `549498489`,
+      is: `https://www.muni.cz/lide/42706-jan-rolecek`,
+      orcid: `https://orcid.org/0000-0002-0023-1111`,
+      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
+      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
+      img: rolecek
+    },
     {
       id: `tesitel`,
       name: `Jakub Těšitel`,
@@ -679,20 +694,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
-    {
-      id: `rolecek`,
-      name: `Jan Roleček`,
-      position: `Odborný asistent`,
-      description: `Jana Rolečka zajímá ekologie a diverzita vegetace, především pak lesostepních biotopů teplomilných doubrav a stepních luk. Kromě popisu této diverzity se snaží porozumět i jejím příčinám, což jej přivedlo ke studiu lesostepí ve vzdálených oblastech Eurasie a také ke zkoumání jejich historie na různých časových škálách. Jako absolventa oboru ochrana a tvorba životního prostředí na Univerzity Palackého v Olomouci jej pálí také otázky ochrany ohrožených druhů a biotopů a část pracovní aktivity věnuje i jim. Po dokončení doktorského studia botaniky na Masarykově univerzitě (2001–2007) zůstal věrný Ústavu botaniky a zoologie, současně pracuje také v Botanickém ústavu AV ČR. Učí předměty ekologie lesa, chráněná území České republiky, příroda ve čtvrtohorách (s M. Horsákem) a speciální botanicko-zoologické cvičení v terénu (s Biotýmem).`,
-      email: `rolecek@mail.muni.cz`,
-      phoneNumber: `549498489`,
-      is: `https://www.muni.cz/lide/42706-jan-rolecek`,
-      orcid: `https://orcid.org/0000-0002-0023-1111`,
-      publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-      img: rolecek
-    },
+    
      {id: `shyriaieva`,
       name: `Dariia Borovyk (Shyriaieva)`,
       position: `Výzkumník`,
