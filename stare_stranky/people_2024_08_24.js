@@ -275,6 +275,21 @@ Mirjana joined the Department of Botany and Zoology at Masaryk University in Sep
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
+	   {
+      id: `knotek`,
+      name: `Adam Knotek`,
+      position: `Researcher`,
+      description: `Adam Knotek studied botany at the Faculty of Science, Charles University in Prague, where he completed his master's degree in the field of vascular plant systematics in 2014. He focused on the allopatric differentiation of the Czech endemic species, Galium sudeticum. For this, he utilized both traditional morphometric analyses and flow cytometry to measure differences in DNA content, as well as molecular analyses such as AFLP and RadSeq sequencing.
+These experiences further fueled his subsequent research at the same university, where he delved into the differentiation and local adaptation of populations of Arabidopsis arenosa group. Among other things, he tormented and cultivated this plant in growth chambers. From 2016 to 2022, he worked as a botanist at the Regional Museum in Mikulov. Since 2021, he has been part of Jakub Těšitel's team at the Institute of Botany and Zoology, Masaryk University, focusing on the utilization of hemiparasitic plants in suppressing invasive plant species. Additionally, since 2014, he has been employed at the Botanical Institute of the Czech Academy of Sciences, contributing to data digitization for the PLADIAS project.
+`,      email: `fruticulus@gmail.com`,
+      phoneNumber: `549 49 5013`,
+      is: `https://www.muni.cz/lide/357941-adam-knotek`,
+	  orcid: `https://orcid.org/0000-0002-9012-2751`,
+	  publons: `https://www.webofscience.com/wos/author/record/1065912`,
+	  scholar: `https://scholar.google.com/citations?hl=cs&user=e2oVoJUAAAAJ`,
+	  researchgate: `https://www.researchgate.net/profile/Adam-Knotek`,
+	  img: knotek
+    },
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -530,6 +545,17 @@ geographical models of plant distribution and species richness.`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
     },
+	    {
+      id: `mones`,
+      name: `Gonzalo Velasco Mones`,
+      position: `PhD student, Researcher`,
+      description: `Gonzalo is an environmental biologist bachelor with a master on Terrestrial Ecology by Universitat Autònoma de Barcelona from 2019. His main interests there were about ecological processes of Mediterranean vegetation caused by succession and climate change, with a progressive shift towards more theoretical aspects. His current work as a PhD student is on the functional ecology of Czech vegetation, both at a local and a country-wide scale, and its interrelationship with phylogenetic patterns to gain knowledge of the processes of community assembly along successional gradients. To be more confident on theoretical and statistical skills, he is also slow-pacedly obtaining a Mathematics bachelor by the (Spanish) National University of Remote Education (UNED).`,
+      email: `gonzalo95nuncius@gmail.com`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
+	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
+	  img: mones
+    },
     {
       id: `szokala`,
       name: `Daniel Szokala`,
@@ -541,17 +567,6 @@ geographical models of plant distribution and species richness.`,
       researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
-    },
-		    {
-      id: `mones`,
-      name: `Gonzalo Velasco Mones`,
-      position: `PhD student, Researcher`,
-      description: `Gonzalo is an environmental biologist bachelor with a master on Terrestrial Ecology by Universitat Autònoma de Barcelona from 2019. His main interests there were about ecological processes of Mediterranean vegetation caused by succession and climate change, with a progressive shift towards more theoretical aspects. His current work as a PhD student is on the functional ecology of Czech vegetation, both at a local and a country-wide scale, and its interrelationship with phylogenetic patterns to gain knowledge of the processes of community assembly along successional gradients. To be more confident on theoretical and statistical skills, he is also slow-pacedly obtaining a Mathematics bachelor by the (Spanish) National University of Remote Education (UNED).`,
-      email: `gonzalo95nuncius@gmail.com`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
-	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
-	  img: mones
     },
    ]
 };
@@ -778,6 +793,20 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
       img: knollova
     },
+		   {
+      id: `knotek`,
+      name: `Adam Knotek`,
+      position: `Výzkumník`,
+      description: `Adam Knotek vystudoval botaniku na Přírodovědecké fakultě Univerzity Karlovy v Praze, kde v roce 2014 ukončil magisterské studium v oboru systematika cévnatých rostlin. Zabýval se alopatrickou diferenciací českého endemického druhu svízele sudetského. K tomu využíval jak tradiční morfometrické analýzy a průtokovou cytometrii k měření rozdílů obsahu DNA, tak i molekulární analýzy jako je AFLP nebo sekvenování metodou RadSeq. Tyto zkušenosti dále využil při navazujícím výzkumu na téže univerzitě, kdy se zabýval diferenciací a lokální adaptací populací řeřišničníku písečeného. Ten mimo jiné také týral a pěstoval v pěstebních komorách. V období let 2016-2022 působil jako botanik v Regionálním muzeu v Mikulově a od roku 2021 pracuje v týmu Jakuba Těšitele na Ústavu botaniky a zoologie Masarykovy univerzity, který se zabývá využitím poloparazitických rostlin při potlačování invazních rostlinných druhů. Kromě toho je také od roku 2014 zaměstnán na Botanickém ústavu AV ČR, kde se podílí na digitalizaci dat pro projekt PLADIAS.`,
+      email: `fruticulus@gmail.com`,
+      phoneNumber: `549 49 5013`,
+      is: `https://www.muni.cz/lide/357941-adam-knotek`,
+	  orcid: `https://orcid.org/0000-0002-9012-2751`,
+	  publons: `https://www.webofscience.com/wos/author/record/1065912`,
+	  scholar: `https://scholar.google.com/citations?hl=cs&user=e2oVoJUAAAAJ`,
+	  researchgate: `https://www.researchgate.net/profile/Adam-Knotek`,
+	  img: knotek
+    },	
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -1018,6 +1047,17 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
     },
+		    {
+      id: `mones`,
+      name: `Gonzalo Velasco Mones`,
+      position: `Doktorand, výzkumník`,
+      description: `Gonzalo absolvoval v roce 2019 magisterský stupeň terestrické ekologie na Universitat Autònoma de Barcelona. Jeho hlavním zájmem byly ekologické procesy mediteránní vegetace způsobené sukcesí a změnou klimatu. Aby měl větší jistotu v teoretických a statistických dovednostech, získal také bakalářský titul z matematiky na (Spanish) National University of Remote Education (UNED). Jeho současná doktorská práce se zabývá funkční ekologií vegetace ČR v lokálním i celorepublikovém měřítku a jejím vzájemným vztahem k fylogenetickým vzorcům. Cílem je získat znalosti o procesech ve společenstvech podél sukcesních gradientů. `,
+      email: `gonzalo95nuncius@gmail.com`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
+	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
+	  img: mones
+    },
 	{
       id: `szokala`,
       name: `Daniel Szokala`,
@@ -1030,25 +1070,10 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
       img: szokala
     },
-			    {
-      id: `mones`,
-      name: `Gonzalo Velasco Mones`,
-      position: `Doktorand, výzkumník`,
-      description: `Gonzalo absolvoval v roce 2019 magisterský stupeň terestrické ekologie na Universitat Autònoma de Barcelona. Jeho hlavním zájmem byly ekologické procesy mediteránní vegetace způsobené sukcesí a změnou klimatu. Aby měl větší jistotu v teoretických a statistických dovednostech, získal také bakalářský titul z matematiky na (Spanish) National University of Remote Education (UNED). Jeho současná doktorská práce se zabývá funkční ekologií vegetace ČR v lokálním i celorepublikovém měřítku a jejím vzájemným vztahem k fylogenetickým vzorcům. Cílem je získat znalosti o procesech ve společenstvech podél sukcesních gradientů. `,
-      email: `gonzalo95nuncius@gmail.com`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
-	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
-	  img: mones
-    },
     ]
 };
 
 export const formerPeople = [
-{
-    name: `Adam Knotek (2022–2023)`,
-    email: `fruticulus@gmail.com`
-  },
 {
     name: `Agathe Toumoulin (2022–2023)`,
     email: `agathe.toumoulin@gmail.com`
