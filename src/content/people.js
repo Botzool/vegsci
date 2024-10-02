@@ -326,18 +326,6 @@ Mirjana joined the Department of Botany and Zoology at Masaryk University in Sep
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
-        {
-      id: `taborska`,
-      name: `Markéta Táborská`,
-      position: `Researcher (maternity leave)`,
-      description: `Markéta Táborská studied Systematic Biology and Ecology with specialization in Botany. She finished her studies in 2018 by defending her PhD thesis focused on diversity and ecology of epixylic bryophytes. She worked on this topic not only as a part of her PhD research but also participated in several projects dealing with the diversity and dynamics of natural forests in the Czech Republic. Currently, she is collaborating in a project describing European biodiversity pattern of dead wood-inhabiting bryophytes in old-growth beech forests.`,
-      email: `taborska.mar@gmail.com`,
-      phoneNumber: `549498474`,
-      is: `https://www.muni.cz/en/people/222793-marketa-taborska`,
-      orcid: `https://orcid.org/0000-0003-3354-0284`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
-	  img: taborska
-    },
 	 {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
@@ -381,21 +369,7 @@ Mirjana joined the Department of Botany and Zoology at Masaryk University in Sep
       phoneNumber: `549494813`, 
 	  img: galuskova
     },
- {
-      id: `sperandii`,
-      name: `Marta Gaia Sperandii`,
-      position: `Postdoc`,
-      description: `Marta is a plant ecologist broadly interested in biodiversity monitoring, and specifically focused on the multi-faceted analysis of patterns and drivers of temporal vegetation change. During her PhD, carried out at Roma Tre University, she led a resurveying study on Mediterranean coastal dune habitats, assessing changes occurred in their taxonomic and functional diversity over a period of 10-15 years. After defending her thesis in January 2020, she joined for two years, as a postdoctoral researcher, Francesco de Bello’s lab at the Desertification Research Centre (institute of the Spanish National Research Council) in Valencia. There, she worked on the analysis of the mechanisms regulating temporal stability in plant and arthropod communities, with a particular focus on the role of functional traits. In October 2022, Marta joined the Department of Botany and Zoology at Masaryk University as an ERA-funded postdoctoral fellow. With her project VegTrends (https://doi.org/10.3030/101090344), she will make use of the recently-assembled ResurveyEurope database to (i) assess temporal trends in the vegetation of open (i.e. non-forested) European habitats, accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); (ii) evaluate the effectiveness of protected areas in conserving the vegetation of open European habitats. `,
-      email: `mgsperandii@sci.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/248804-marta-gaia-sperandii`,
-      researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
-	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
-	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
-	  personal: `https://mgsperandii.netlify.app`, 
-      img: sperandii
-    },
-	  ],
+ 	  ],
   
 
   phdStudents: [
@@ -813,19 +787,8 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
-       {
-      id: `taborska`,
-      name: `Markéta Táborská`,
-      position: `Výzkumník (rodičovská dovolená)`,
-      description: `Markéta Táborská studovala systematickou biologii a ekologii se zaměřením botanika. Studium ukončila v roce 2018 obhájením dizertační práce věnující se diverzitě a ekologii epixylických mechorostů. Tomuto tématu se věnovala nejen v rámci studia, ale také při realizaci několika projektů zaměřených především na průzkum diverzity a dynamiky přirozených lesů u nás. V současné době se podílí na projektu mapujícím biodiverzitu mechorostů na tlejícím dřevě v přirozených bukových porostech Evropy.`,
-      email: `taborska.mar@gmail.com`,
-      phoneNumber: `549498474`,
-      is: `https://www.muni.cz/lide/222793-marketa-taborska`,
-      orcid: `https://orcid.org/0000-0003-3354-0284`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`, 
-	  img: taborska
-    },
-		 {
+       
+	   {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
       position: `Výzkumník (rodičovská dovolená)`,
@@ -870,21 +833,8 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       is: `https://www.muni.cz/lide/357936-hana-galuskova`,
 	  img: galuskova
     },
-	  	 {
-      id: `sperandii`,
-      name: `Marta Gaia Sperandii`,
-      position: `Postdoc`,
-      description: `Marta je rostlinná ekoložka, která se zajímá o monitoring biodiverzity. Během svého doktorandského studia na Roma Tre University se zabývala středomořskými pobřežními dunami, přičemž hodnotila změny, ke kterým došlo v jejich taxonomické a funkční diverzitě během 10–15 let. Po obhajobě dizertační práce v lednu 2020 nastoupila na dva roky jako postdoc do laboratoře Francesca de Bella v Desertification Research Center (Spanish National Research Council) ve Valencii. Tam pracovala na analýze mechanismů regulujících stabilitu ve společenstvech rostlin a členovců. V říjnu 2022 nastoupila Marta jako postdoc na Ústav botaniky a zoologie Masarykovy univerzity. Se svým projektem VegTrends (https://doi.org/10.3030/101090344) chce využít databázi ResurveyEurope k (i) posouzení trendů ve vegetaci otevřených (tj. nelesních) evropských biotopů, s přihlédnutím k různým aspektům diverzity (taxonomické, funkční, fylogenetické) a různým biologickým úrovním (společenstvo a druhy); (ii) vyhodnocení efektivity chráněných oblastí při ochraně vegetace evropských otevřených biotopů.`,
-      email: `mgsperandii@sci.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/248804-marta-gaia-sperandii`,
-      researchgate: `https://www.researchgate.net/profile/Marta-Gaia-Sperandii`,
-	  orcid: `https://orcid.org/0000-0002-2507-5928`, 
-	  scholar: `https://scholar.google.com/citations?user=iQm6YpkAAAAJ&hl=it`,
-	  personal: `https://mgsperandii.netlify.app`, 
-      img: sperandii
-    },
-	  ],
+	  	
+		],
   phdStudents: [
       {
       id: `erkelenz`,
@@ -1017,6 +967,14 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
 };
 
 export const formerPeople = [
+{
+    name: `Marta Sperandii (2022–2024)`,
+    email: `martagaia.sperandii@uniroma3.it`
+  },
+{
+    name: `Markéta Táborská (2012–2024)`,
+    email: `taborska.mar@gmail.com`
+  },
 {
     name: `Dariia Borovyk (Shyriaieva) (2022–2024)`,
     email: `dariiaborovyk@gmail.com`
