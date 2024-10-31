@@ -48,6 +48,7 @@ import cuk from "../../static/images/people/cuk.jpg";
 import knotek from "../../static/images/people/knotek.jpg";
 import hubatka from "../../static/images/people/hubatka.jpg";
 import franc from "../../static/images/people/franc.jpg";
+import pustkova from "../../static/images/people/pustkova.jpg";
 
 
 
@@ -489,6 +490,16 @@ geographical models of plant distribution and species richness.`,
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
+    },
+			  {
+      id: `pustkova`,
+      name: `Štěpánka Pustková`,
+      position: `Doktorand, výzkumník`,
+      description: `Štěpánka Pustková vystudovala na Masarykově uiverzitě bakalářský program Ekologická a evoluční biologie a magisterský program Botanika se zaměřením na vegetační ekologii. V bakalářské práci se zabývala dlouhodobými změnami lesní vegetace v Beskydském podhůří. Ve své diplomové práci zkoumala flóru a vegetaci revitalizovaných mokřadů na jižní Moravě. V dizertaci se opět vrátila k tématu změn lesní vegetace, tentokrát však v jihovýchodní Evropě.`,
+      email: `499933@muni.cz`,
+      is: `https://www.sci.muni.cz/en/about-us/faculty-staff/499933-stepanka-pustkova`,
+      orcid: `https://orcid.org/0000-0002-9384-4872`,
+      img: pustkova
     },
     {
       id: `szokala`,
@@ -939,6 +950,16 @@ Mirjana nastoupila na Ústav botaniky a zoologie Masarykovy univerzity v září
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
+    },
+		  {
+      id: `pustkova`,
+      name: `Štěpánka Pustková`,
+      position: `Doktorand, výzkumník`,
+      description: `Štěpánka Pustková vystudovala na Masarykově uiverzitě bakalářský program Ekologická a evoluční biologie a magisterský program Botanika se zaměřením na vegetační ekologii. V bakalářské práci se zabývala dlouhodobými změnami lesní vegetace v Beskydském podhůří. Ve své diplomové práci zkoumala flóru a vegetaci revitalizovaných mokřadů na jižní Moravě. V dizertaci se opět vrátila k tématu změn lesní vegetace, tentokrát však v jihovýchodní Evropě.`,
+      email: `499933@muni.cz`,
+      is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/499933-stepanka-pustkova`,
+      orcid: `https://orcid.org/0000-0002-9384-4872`,
+      img: pustkova
     },
 	{
       id: `szokala`,
