@@ -8,7 +8,8 @@
     "build:app": "npm run clean && gatsby build --prefix-paths && npm run move",
     "move": "cd public && mkdir vegsci | mv * vegsci",
     "serve": "gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
@@ -46,5 +47,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-react": "^7.11.1",
     "gatsby-plugin-eslint": "^2.0.1"
+  },
+  "resolutions": {
+    "tar-fs": "^3.0.9"
   }
 }
