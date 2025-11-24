@@ -445,7 +445,7 @@ geographical models of plant distribution and species richness.`,
     },
 	 {
       id: `klinkovska`,
-      name: `Klára Klinkovská`,
+      name: `Klára Friesová (Klinkovská)`,
       position: `PhD student, Researcher`,
       description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study is to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
       email: `474368@mail.muni.cz`,
@@ -892,7 +892,7 @@ export const peopleCz = {
     },
 	 {
       id: `klinkovska`,
-      name: `Klára Klinkovská`,
+      name: `Klára Friesová (Klinkovská)`,
       position: `Doktorand, výzkumník`,
       description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
       email: `474368@mail.muni.cz`,
