@@ -2,7 +2,7 @@ import React from "react";
 
 export const project3en = {
   name: "project3",
-  title: `Biodiversity of European cities`,
+  title: `Urban biodiversity`,
   body: (
     <div>
       <div>
@@ -10,102 +10,92 @@ export const project3en = {
       </div>
       <div>
         <h3>Participants and collaborators</h3>
-        Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Pavel Dřevojan, Karel Fajmon
-        (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha), Veronika
-        Kalníková, Veronika Kalusová, Kateřina Kintrová, Deana Láníková, Pavel Novák, Zdenka
-        Preislerová, Vladimír Řehořek, Lubomír Tichý, Bohuslav Uher
+        omáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Pavel Dřevojan, Karel Fajmon (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha), Veronika Kalníková, Veronika Kalusová, Kateřina Kintrová, Deana Láníková, Pavel Novák, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý, Bohuslav Uher, Martin Večeřa.
+Botanists, who participated in the mapping of the urban flora of Brno.
+
       </div>
+	  <div><b>International cooperation</b></div>
+<div>GUBIC consortium  <a href="https://cubes-labs.com/gubic/">(https://cubes-labs.com/gubic/)</a>
+
+</div>
       <div>
         <h3>Funding</h3>
-        <li>2014–2016: Czech Science Foundation, project 14-10723S</li>
-        <li>2008–2010: Grant Agency of the Academy of Sciences of the Czech Republic, project IAA601630803</li>
-        <li>2008–2010: Ministry of Education of the Czech Republic, project MSM0021622416</li>
-
-
+		<li>2025–2027: Czech Science Foundation, project no. 25-15190S (PI Zdeňka Lososová)</li>
+<li>2022–2024: sDIV, project named: Synthesizing Global Urban Biological Invasion Knowledge (sGUBIK): Patterns, mechanisms and applications (PI Luke Potgieter)</li> 
+<li>2014–2016: Czech Science Foundation, project no. 14-10723S (PI Zdeňka Lososová)</li>
+<li>2008–2010: Grant Agency of the Academy of Sciences of the Czech Republic, project no. IAA601630803 (PI Zdeňka Lososová)</li>
       </div>
       <div>
-        <h3>Project Aims</h3>
+        <h3>Aims</h3>
         <div>
-          The aims of the project are to characterize urban biota, and factors which shape structure
-          and function of urban communities. We focused not only on plants but also on molluscs and
-          subaerial algae and cyanobacteria to detect if studied environmental factors affect
-          similarly different taxonomic groups of organisms. Our specific aims are:
+          We have been studying the urban biodiversity of large European cities for a long time. We work across different spatial scales. Our studies focus on detailed knowledge of diversity within a single city, and we further verify the results at a continental scale or by comparing data among cities worldwide.
         </div>
+		
+		<div>Within the city of Brno, we obtained detailed data on the city’s flora. These allow us to identify local centres of plant diversity in the urban environment and to determine the factors that lead to their formation.</div>
+		<div>At the European scale, we worked using standardized data-collection protocols. In selected anthropogenic habitats and in selected cities representing various macroclimatic and socioeconomic regions of Europe, we primarily studied the diversity of vascular plants. However, we also collected data on the occurrence of terrestrial molluscs and epilithic and epixylic terrestrial algae and cyanobacteria. On these groups, and across different spatial scales, we address four main research topics:</div>
+
+		
         <li>To identify emerging urban species communities and their functions.</li>
         <li>
-          To compare urbanization effect on biota across different European climatic regions and in
-          cities of different size.
+          To compare urbanization effect on biota across different spatial scales.
         </li>
         <li>
-          To test factors driving functional and phylogenetic structure in different urban habitats
-          and between different climatic regions of Europe.
+          o test factors driving functional and phylogenetic structure in different urban habitats and between different climatic regions of Europe.
         </li>
         <li>To study invasibility of urban biota</li>
       </div>
+	  
       <div className="main-results">
         <div>
           <h3>Main results</h3>
           <div>
             <h4>
-              Urbanization effect on biota across different European climatic regions and in cities
-              of different size
+            Flora of Brno 
             </h4>
           </div>
-          We showed effect of urbanization on flora, molluscs and subaerial algae and cyanobacteria
-          across different bioclimatic regions of Europe (Lososová et al. 2011, Lososová et al.
-          2012a, b, Chytrý et al. 2012, Horsák et al. 2014) and based on these results we assume
-          changes of urban biota in Central Europe under ongoing climatic change (Lososová et al.
-          2018, Kalusová et al. 2019). We showed that despite of other factors, city size is an
-          important factor, which shapes diversity and structure of urban plant communities (Čeplová
-          et al. 2017a). We confirmed that species assemblages in urban areas are more species-rich
-          in larger settlements than in smaller ones. We detected differences in species richness
-          when comparing native species, archaeophytes and neophytes (Lososová et al. 2012a).
-          Despite the general assumptions that the urban heat island affects the species
-          composition, we have found that the occurrence of thermophilous species is more affected
-          by the habitat type than the settlement size, which determines the presence of urban heat
-          island (Čeplová et al. 2017).
+          <div>Which plant species are able to occur spontaneously within the city of Brno is documented in a study by Lososová et al. (2024). Between 2011 and 2021, our team systematically mapped spontaneous occurrences of vascular plants in Brno using a grid of mapping squares measuring 1.3 × 1.5 km. In this way, we recorded 1,492 spontaneously occurring vascular plant species in the city. Their distribution is documented in individual maps.</div>
+<div>Although urbanization leads to the destruction of natural habitats and the disappearance of a considerable number of native species, detailed floristic research has shown that a relatively high number of plant taxa survive in the urban environment. This is because, alongside native plant species that thrive in certain urban habitats, cities also harbor a large number of non-native species. These were brought into the urban environment by humans—either intentionally as ornamental plants that later escaped cultivation and began to spread, or unintentionally as weeds or various plant contaminants most often introduced through transport.</div>
+<div>The results of the study show that native species dominate in the least urbanized areas, especially in the forested parts of the city in the west and north. In contrast, non-native species are more frequent in the built-up city center and in the flat, treeless southern part of Brno. The most common species growing in the city are also widespread elsewhere in the Czech Republic. In addition to these common species, the occurrence of 255 threatened plants is noteworthy.</div>
+<div>Although urban lawns and parks are important for residents, they have only limited significance for spontaneous flora due to very early and frequent mowing and the predominance of ornamental plantings. For the species richness of the urban flora, the diversity of the urban environment is crucial, including preserved remnants of semi-natural forest and grassland habitats on the city’s periphery.</div>
+<div>Although forests are generally the least threatened by the spread of non-native species within the urban environment, the degree of disturbance of their herb layer increases with the intensity of anthropogenic influence on vegetation (Kadaš & Lososová 2025).</div>
+
         </div>
         <div>
-          <h4>Taxonomic, functional and phylogenetic structure of urban plant communities</h4>We
-          reveal the relationships between taxonomic, functional and phylogenetic structure of urban
-          plant communities in several urban habitats (Lososová et al. 2016b). We found positive but
-          weak relationships between phylogenetic and diversity in both species dispersal strategies
-          and competitiveness. The relationship between phylogenetic diversity and diversity in
-          species niche preferences are not significant. We observed low functional diversity within
-          all the studies communities. This contrasts with the high variation in species richness
-          among urban habitats (Lososová et al. 2016b) and imply that whole urban floras are under
-          strong human-induced and environmental filters (Čeplová et al. 2015, Kalusová et al.
-          2017). Individual urban habitat types differ in the phylogenetic and functional diversity
-          of their plant communities (Čeplová et al. 2015, Lososová et al. 2016b), but the diversity
-          values are very low, suggesting the importance of environmental and human-induced
-          filtering and the scale of the whole urban flora.
+          <h4>Biodiversity of European Urban Vegetation</h4>
+		  By comparing the species richness of seven typical urban habitats in major European cities, we showed that while cities in the driest and warmest regions are species-poor and contain a smaller proportion of freely spreading non-native species, cities in cooler and more humid parts of Europe are richer in species but also more prone to invasions by non-native species (Lososová et al. 2011; Lososová et al. 2012a,b; Chytrý et al. 2012; Čeplová et al. 2015; Kalusová et al. 2019). Similar trends have been demonstrated for terrestrial molluscs (Lososová et al. 2011; Horsák et al. 2013, 2016). Using species traits, we identified functional types of plants that succeed in the urban environment (Lososová et al. 2016; Kalusová et al. 2017; Čeplová et al. 2017). With increasing intensity of urbanization, the functional specialization of plants increases (Di Guilio et al. 2024). Based on our data, we can predict how the flora of urban environments is likely to change with ongoing climate change (Lososová et al. 2019).
+
         </div>
         <div>
-          <h4>Urban communities and their invasibility</h4>We showed that newly established urban
-          environments help alien species to leave their original ranges and to adapt to the new
-          conditions. We detected that there are general differences in the levels of invasion of
-          cities of different climatic regions (Horsák et al. 2016). Our results suggests that
-          recent climatic warming may cause expansions of many alien species especially towards
-          higher latitudes (Horsák et al. 2016). Our next step was to detect effect of propagule
-          pressure on the risk of escape and establishment of alien woody species. We determined
-          strong relationship between propagule pressure and ability of species to spontaneously
-          occur in the urban area (Čeplová et al. 2017b). We studied effect of alien species on
-          diversity of plant communities. We showed that whereas archaeophytes tend to increase
-          homogenization (similarity) among sites, neophytes tend to increase differentiation
-          between sites (Lososová et al. 2012). We shifted this question a step further and
-          disentangle the contribution of species turnover and richness difference to beta-diversity
-          patterns (Lososová et al. 2016a). We used additive and non- additive measures of species
-          turnover and richness difference. For this purpose, we proposed and published a new index
-          (Lososová et al. 2016). We clearly showed in our paper that changes in beta-diversity
-          induced by the establishment of alien species reflect mainly species turnover and not
-          species richness differences. We further showed that introduction of alien species
-          decrease phylogenetic diversity of urban plant communities and thus we do not confirmed
-          the Darwin´s naturalization hypothesis (Čeplová et al. 2015).
+          <h4>Global Trends in Urban Plant Diversity</h4>
+		  Similarly to European cities, Tatyana Vakhlamova collected information on species richness in selected urban habitats in Kazakhstan and found that the same factors influencing the flora of European cities are equally important for shaping the flora of Kazakh cities (Vakhlamova et al. 2022).
+Thanks to collaboration with the international  <a href="https://cubes-labs.com/gubic/">GUBIC team</a>, we contributed to building a global database of non-native plants occurring in 553 cities worldwide (Li et al. 2025). We assess how cities influence plant diversity on a global scale (Potgieter et al. 2024). By analyzing our database, we identified which non-native species are most common in urban environments. We demonstrated that all continents except Oceania are significant donors of non-native species to cities (Richardson et al. 2025).
+
         </div>
       </div>
       <div className="project-publication">
         <h3>Publications</h3>
         <h4>Research papers</h4>
+		<li><b>Kadaš D.</b> & <b>Lososová Z.</b> (2025): Drivers of plant species diversity in suburban forests: A case study from the Czech Republic. <i>Basic and Applied Ecology</i> 88: 83–93. – {" "}<a href="https://doi.org/10.1016/j.baae.2025.08.007">DOI</a>
+		</li>
+		
+		<li>Li D., Potgieter L.J., Aronson M.F.J., <b>Axmanová I.</b>, Baiser B., Carboni M., Celesti-Grapow L., Knapp S., Kühn I., de Matos A.C.L., <b>Lososová Z.</b>, Montaño-Centellas F.A., Pyšek P., Richardson D.M., Trotta L.B., Zenni R.D., Cilliers S.S., Clarkson B.D., Davis A.J.S., Dolan R.W., Dyderski M.K., Essl F., Gaoue O.G., Gui J., Géron C., Heringer G., Hui C., Khuroo A.A., Klotz S., Kotanen P.M., Kreft H., La Sorte F.A., Lembrechts J.J., Lenzner B., Lepczyk C.A., MacIvor S., Martínez-Garza C., Mori A.S., Nilon C., Pergl J., Siebert S.J., Tretyakova A.S., Tsang T.P.N., Uchida K., van Kleunen M., Vilà M., Wang H.-F., Weigelt P., Werner P., Williams N.S.G., Winter M. & Cadotte M.W. (2025): GUBIC: The global urban biological invasions compendium for plants. <i>Ecological Solutions and Evidence</i> 6: e70020. – {" "}<a href="https://doi.org/10.1002/2688-8319.70020">DOI</a>
+		</li>
+		
+		<li>
+		Di Giulio M., <b>Lososová Z.</b>, Carboni M. & Ricotta C. (2024): Measuring plant functional specialization in urban environments with Grime´s CSR strategies. <i>Applied Vegetation Science</i> 27: e12803. – {" "}<a href="https://doi.org/10.1111/avsc.12803">DOI</a>
+		</li>
+		
+		<li><b>Lososová Z., Danihelka J., Dřevojan P., Hájek O., Kalusová V., Večeřa M., Chytrý K., Chytrý M., Čeplová N.</b>, Filippov P., <b>Jiroušek M.</b>, <b>Kadaš D.</b>, Kalníková V., <b>Knollová I.</b>, Macků M., Niederle J., <b>Novák P., Rohel J., Rotreklová O.</b>, Řepka R., <b>Řezníčková M., Šmerdová E., Šumberová K., Veselý P.</b>, Vymazalová M., Wirth T. & <b>Tichý L.</b> (2024): Flora of the city of Brno, Czech Republic. <i>Preslia</i> 96: 123–147. – {" "}<a href="https://doi.org/10.23855/preslia.2024.123">DOI</a>
+		
+		</li>
+		
+		<li>Potgieter L.J., Li D., Baiser B., Kühn I., Aronson M.F.J., Carboni M., Celesti-Grapow L., de Matos A.C.L., <b>Lososová Z.</b>, Montaño-Centellas F.A., Pyšek P., Richardson D.M., Tsang T.P.N., Zenni R.D. & Cadotte M.W. (2024): Cities Shape the Diversity and Spread of Nonnative Species. <i>Annual Review of Ecology, Evolution, and Systematics</i> 55: 157–180. – 
+		{" "}<a href="https://doi.org/10.1146/annurev-ecolsys-102722-012749">DOI</a>
+		</li>
+		
+		<li><b>Vakhlamova T.</b>, Wagner V., <b>Padullés Cubino J., Chytrý M.</b> & <b>Lososová Z.</b> (2022): Urban plant diversity in Kazakhstan: Effects of habitat type, city size and macroclimate. <i>Applied Vegetation Science</i> 25: e12679. – 
+		{" "}<a href="https://doi.org/10.1111/avsc.12679">DOI</a>
+		</li>
 		<li>Swan C. M., Brown B., Borowy D., Cavender-Bares J., Jeliazkov A., Knapp S., <b>Lososová Z.</b>, <b>Cubino J. P.</b>, Pavoine S., Ricotta C. & Sol D. (2021): A framework for understanding how biodiversity patterns unfold across
 multiple spatial scales in urban ecosystems. <i>Ecosphere</i> 12:e03650.  – 
 {" "}<a href="https://doi.org/10.1002/ecs2.3650">DOI</a>
@@ -235,69 +225,108 @@ export const project3cz = {
         <h3>Spolupracovníci</h3> Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel
         Fajmon (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha),
         Veronika Kalusová, Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý,
-        Bohuslav Uher
+        Bohuslav Uher, Martin Večeřa
       </div>
 	   <div>{" "}
 	   </div>
 <div><b>Další spolupracovníci</b></div>
-<div>Kolegové podílející se na mapování květeny města Brna
+<div>Kolegové podílející se na mapování květeny města Brna</div>
+<div><b>Mezinárodní spolupráce</b></div>
+<div>konsorcium GUBIC <a href="https://cubes-labs.com/gubic/">(https://cubes-labs.com/gubic/)</a>
+
 </div>
       <div>
         <h3>Finanční podpora</h3>
-         <li>2014–2016: Grantová agentura České republiky, projekt č. 14-10723S</li>
-         <li>2008–2010: Výzkumný záměr MSM 0021622416 Ministerstva školství, mládeže a tělovýchovy České republiky</li>
-         <li>2008–2010: Grantová agentura Akademie věd České republiky, projekt č. IAA601630803</li>
+		<li>2025–2027: Grantová agentura České republiky, projekt č. 25-15190S (řešitelka Zdeňka Lososová)</li>
+		<li>2022–2024: sDIV, project named: Synthesizing Global Urban Biological Invasion Knowledge (sGUBIK): Patterns, mechanisms and applications (PI Luke Potgieter)</li> 
+         <li>2014–2016: Grantová agentura České republiky, projekt č. 14-10723S (řešitelka: Zdeňka Lososová)</li>
+         <li>2008–2010: Grantová agentura Akademie věd České republiky, projekt č. IAA601630803 (řešitelka: Zdeňka Lososová)</li>
       </div>
       <div>
         <h3>Cíle</h3>
         <div>
-          Projekt se zabývá biodiverzitou velkých evropských měst. Pomocí standardizovaných
-          protokolů sběru dat jsme ve vybraných antropogenních biotopech a vybraných městech,
-          reprezentujících různé makroklimatické a socioekonomické oblasti Evropy, studovali
-          především diverzitu cévnatých rostlin. Získali jsme však také údaje o výskytu terestrických plžů a
-          epilitických a epixylických terestrických řas a sinic. Na těchto organismech jsme řešili čtyři
-          hlavní okruhy otázek
-        </div>
-        <li>
-          Jak závisí šíření nepůvodních druhů na makroklimatu různých částí Evropy a na
-          různých typech městských biotopů?
-        </li>
-        <li>
-          Působí městské prostředí negativně nebo pozitivně na diverzitu původních druhů a na
-          celkovou druhovou bohatost vybraných taxonomických skupin?
-        </li>
-        <li>
-          Způsobuje urbanizace biotickou homogenizaci městských biotopů, a pokud ano, projevuje se
-          homogenizace na úrovni druhů i na úrovni druhových vlastností? Které biotopy a které
-          skupiny druhů jsou homogenizací nejvíce postiženy?
-        </li>
-        <li>
-          Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických skupinách?
-        </li>
-      </div>
+          Dlouhodobě se zabýváme studiem městské biodiverzity. Pracujeme na různých prostorových škálách. Naše studie se soustředí na detailní znalosti diverzity v rámci jednoho města, výsledky dále ověřujeme na kontinentální škále případně srovnáním dat mezi městy celosvětově.
+		  </div>
+
+<div>V rámci města Brna jsme získali podrobná data o květeně města. Ta nám umožní stanovit lokální centra diverzity rostlin v městském prostředí a zjistit faktory, které vedou k jejich vzniku. </div>
+<div>Na evropské škále jsme pracovali pomocí standardizovaných protokolů sběru dat. Ve vybraných antropogenních biotopech a vybraných městech, reprezentujících různé makroklimatické a socioekonomické oblasti Evropy jsme studovali především diverzitu cévnatých rostlin. Získali jsme však také údaje o výskytu terestrických plžů a epilitických a epixylických terestrických řas a sinic. Na těchto organismech a na rozdílných prostorových škálách řešíme čtyři hlavní okruhy otázek</div>
+
+<li>
+Jaké faktory ovlivňují šíření nepůvodních druhů v městském prostředí?
+</li>
+<li>
+Působí městské prostředí negativně nebo pozitivně na diverzitu původních druhů a na celkovou druhovou bohatost vybraných taxonomických skupin?
+</li>
+<li>
+Způsobuje urbanizace biotickou homogenizaci městských biotopů, a pokud ano, projevuje se homogenizace na úrovni druhů i na úrovni druhových vlastností? Které biotopy a které skupiny druhů jsou homogenizací nejvíce postiženy?
+</li>
+<li>
+Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických skupinách?
+</li>
+</div>
+
+        
 	  <div className="main-results">
 	  <div>
         <h3>Hlavní výsledky</h3>
-        <div>
-		<h4>Diverzita evropské městské vegetace
-		</h4>
-</div>
-
-Srovnáním druhové bohatosti sedmi typických městských stanovišť v evropských velkoměstech jsme ukázali, že zatímco města v nejsušších a nejteplejších oblastech jsou druhově chudá a obsahují i menší podíl nepůvodních volně se šířících druhů, města v chladnějších a humidnějších částech Evropy jsou druhově bohatší, avšak také náchylnější k invazi nepůvodních druhů (Lososová et al. 2011, Lososová et al. 2012a,b, Chytrý et al. 2012; Čeplová et al. 2015; Kalusová et al. 2019). Podobné trendy byly prokázány u suchozemských plžů (Lososová et al. 2011, Horsák et al. 2013, 2016). Pomocí vlastností druhů jsme ukázali funkční typy rostlin, které jsou ve městském prostředí úspěšné (Lososová et al. 2016; Kalusová et al. 2017, Čeplová et al. 2017). Na základě našich data můžeme predikovat, jak se bude pravděpodobně měnit květena městského prostředí s postupnou změnou klimatu (Lososová et al. 2019). 
-</div>
-<div>
+		<div>
 <h4>Květena města Brna</h4>
 </div>
 <div>
-V roce 2012 jsme zahájili síťové mapování spontánně se vyskytujících cévnatých rostlin Brna. Za uplynulé sezony jsme získali více než 60 000 záznamů o výskytu 1524 taxonů. Dosud jsme potvrdili výskyt některých vzácných a ohrožených druhů rostlin. Z nich patří 16 do kategorie kriticky ohrožených (C1) a 32 do kategorie silně ohrožených (C2) červeného seznamu. Mezi nimi jsou například ty, které přežívají v ostrůvcích skalních stepí a lesostepí, např. hadinec červený (<i>Echium maculatum</i>), mochna skalní (<i>Drymocallis rupestris</i>) a lněnka Dollinerova (<i>Thesium dollineri</i>). Dále jsme zaznamenali vzácné polní plevele a ruderální druhy, např. zárazu hořčíkovou (<i>Orobanche picridis</i>), prorostlík okrouhlolistý (<i>Bupleurum rotundifolium</i>), vochlici hřebenitou (<i>Scandix pecten-veneris</i>), hojník chlumní (<i>Sideritis montana</i>), hořinku východní (<i>Conringia orientalis</i>), zběhovec trojklanný (<i>Ajuga chamaepitys</i>), merlík zední (<i>Chenopodium murale</i>) a průtržník chlupatý (<i>Herniaria hirsuta</i>). Podrobnější údaje o dosavadním stavu mapování květeny Brna byly publikovány v časopise Živa (Lososová a kol. 6/2015). V souvislosti s tímto projektem bylo obhájeno množství bakalářských a diplomových prací zabývajících se podrobným studiem květeny vybraných částí města. Na příkladu brněnské květeny jsme ukázali, že pěstované druhy mohou být významným zdrojem invazních rostlin (Čeplová et al. 2017).
-Data jsou uložena v databázi {" "}<a href="https://www.sci.muni.cz/vraticka/www/homepage/filter/">vratička</a>, která je spuštěna na webu ústavu botaniky a zoologie. 
-	Díky údajům získaným pomocí tohoto síťového mapování ukážeme rozdíly v nárocích rostlin na vybrané ekologické a socioekonomické faktory. Můžeme se ptát, co ovlivňuje v městském prostředí výskyt vybraných skupin druhů. V jakým podmínkách přežívají vzácné druhy. Co ovlivňuje šíření nepůvodních druhů. Jak se liší ekologické nároky rostlin v různých částech města.
+<div>Které rostliny jsou schopné spontánně se vyskytovat na území města Brna dokumentuje studie (Lososová et al. 2024). V letech 2011–2021 náš tým systematicky mapoval spontánní výskyty cévnatých rostlin v Brně, a to v síti mapovacích polí o rozměrech 1,3 x 1,5 km. Tímto způsobem zaznamenali ve městě výskyt 1492 spontánně se vyskytujících cévnatých rostlin. Jejich rozšíření je dokumentováno jednotlivými mapami.</div>
+<div>Přestože urbanizace vede k destrukci přirozených stanovišť a k mizení nemalého počtu původních druhů, detailní floristický výzkum ukázal, že v městském prostředí přežívá relativně vysoký počet rostlinných taxonů. Je to dáno tím, že vedle původních druhů rostlin, kterým vyhovují některé městské biotopy, se ve městech nachází také velké množství nepůvodních druhů. Ty jsme do městského prostředí přinesly my lidé ať už úmyslně jako okrasné rostliny, které posléze zplaněly a začaly se šířit, nebo neúmyslně jako plevele nebo různé rostlinné příměsi zavlečené nejčastěji s dopravou.</div>
+<div>Výsledky studie dokumentují, že původní druhy převažují v nejméně urbanizovaných územích, především v lesnatých částech v západní a severní části města. Naopak nepůvodní druhy jsou četnější v zastavěném centru a v jižní rovinaté bezlesé části města. Nejběžnější druhy rostoucí ve městě, jsou hojné i jinde v České republice. Kromě těchto běžných druhů je zajímavý výskyt 255 ohrožených rostlin.</div>
+<div>Městské trávníky a parky jakkoli důležité pro život obyvatel, mají jen omezený význam pro spontánní flóru v důsledku velmi časné a časté seče a převahy okrasných výsadek. Pro druhovou bohatost městské flóry je důležitá především různorodost městského prostředí včetně zachovalých zbytků polopřirozených lesních a travnatých biotopů na městské periferii.</div>
+<div>Přestože jsou lesy obecně nejméně ohrožené šířením nepůvodních druhů v rámci městského prostředí. Míra narušení jejich bylinného podrostu stoupá s intenzitou antropogenního vlivu na vegetaci (Kadaš & Lososová 2025).</div>
+
 </div>
+		
+        <div>
+		<h4>Biodiverzita evropských měst
+		</h4>
+</div>
+<div>
+Srovnáním druhové bohatosti sedmi typických městských stanovišť v evropských velkoměstech jsme ukázali, že zatímco města v nejsušších a nejteplejších oblastech jsou druhově chudá a obsahují i menší podíl nepůvodních volně se šířících druhů, města v chladnějších a humidnějších částech Evropy jsou druhově bohatší, avšak také náchylnější k invazi nepůvodních druhů (Lososová et al. 2011, Lososová et al. 2012a,b, Chytrý et al. 2012; Čeplová et al. 2015; Kalusová et al. 2019). Podobné trendy byly prokázány u suchozemských plžů (Lososová et al. 2011, Horsák et al. 2013, 2016). Pomocí vlastností druhů jsme ukázali funkční typy rostlin, které jsou ve městském prostředí úspěšné (Lososová et al. 2016; Kalusová et al. 2017, Čeplová et al. 2017). S rostoucí intenzitou urbanizace roste funkční specializace rostlin (Di Guilio et al. 2024). Na základě našich data můžeme predikovat, jak se bude pravděpodobně měnit květena městského prostředí s postupnou změnou klimatu (Lososová et al. 2019).
+ 
+</div>
+
+<div>
+		<h4>Globální trendy v městské diverzitě rostlin
+		</h4>
+</div>
+
+Podobně jako v evropských městech zapsala informace o druhové bohatosti vybraných stanovišť ve městech Kazachstánu Tatyana Vakhlamova, zjistila, že stejné faktory, které ovlivňují květenu měst v Evropě, jsou stejně tak důležité pro utváření květeny měst Kazachstánu (Vakhlamova et al. 2022).
+Díky spolupráci s mezinárodním týmem <a href="https://cubes-labs.com/gubic/">GUBIC</a> jsme se podíleli na sestavení celosvětové databáze nepůvodních rostlin vyskytujících se v 553 městech světa (Li et al. 2025). Zjišťujeme, jak města ovlivňují diverzitu rostlin na globální škále (Potgieter et al. 2024). Analýzou těchto dat jsme ukázali, které nepůvodní druhy jsou v městském prostředí nejčastější. Prokázali jsme, že všechny kontinenty s výjimkou Oceánie jsou významní donoři nepůvodních druhů měst (Richardson et al. 2025).
+ 
+</div>
+
 </div>
 
       <div className="project-publication">
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
+		<li><b>Kadaš D.</b> & <b>Lososová Z.</b> (2025): Drivers of plant species diversity in suburban forests: A case study from the Czech Republic. <i>Basic and Applied Ecology</i> 88: 83–93. – {" "}<a href="https://doi.org/10.1016/j.baae.2025.08.007">DOI</a>
+		</li>
+		
+		<li>Li D., Potgieter L.J., Aronson M.F.J., <b>Axmanová I.</b>, Baiser B., Carboni M., Celesti-Grapow L., Knapp S., Kühn I., de Matos A.C.L., <b>Lososová Z.</b>, Montaño-Centellas F.A., Pyšek P., Richardson D.M., Trotta L.B., Zenni R.D., Cilliers S.S., Clarkson B.D., Davis A.J.S., Dolan R.W., Dyderski M.K., Essl F., Gaoue O.G., Gui J., Géron C., Heringer G., Hui C., Khuroo A.A., Klotz S., Kotanen P.M., Kreft H., La Sorte F.A., Lembrechts J.J., Lenzner B., Lepczyk C.A., MacIvor S., Martínez-Garza C., Mori A.S., Nilon C., Pergl J., Siebert S.J., Tretyakova A.S., Tsang T.P.N., Uchida K., van Kleunen M., Vilà M., Wang H.-F., Weigelt P., Werner P., Williams N.S.G., Winter M. & Cadotte M.W. (2025): GUBIC: The global urban biological invasions compendium for plants. <i>Ecological Solutions and Evidence</i> 6: e70020. – {" "}<a href="https://doi.org/10.1002/2688-8319.70020">DOI</a>
+		</li>
+		
+		<li>
+		Di Giulio M., <b>Lososová Z.</b>, Carboni M. & Ricotta C. (2024): Measuring plant functional specialization in urban environments with Grime´s CSR strategies. <i>Applied Vegetation Science</i> 27: e12803. – {" "}<a href="https://doi.org/10.1111/avsc.12803">DOI</a>
+		</li>
+		
+		<li><b>Lososová Z., Danihelka J., Dřevojan P., Hájek O., Kalusová V., Večeřa M., Chytrý K., Chytrý M., Čeplová N.</b>, Filippov P., <b>Jiroušek M.</b>, <b>Kadaš D.</b>, Kalníková V., <b>Knollová I.</b>, Macků M., Niederle J., <b>Novák P., Rohel J., Rotreklová O.</b>, Řepka R., <b>Řezníčková M., Šmerdová E., Šumberová K., Veselý P.</b>, Vymazalová M., Wirth T. & <b>Tichý L.</b> (2024): Flora of the city of Brno, Czech Republic. <i>Preslia</i> 96: 123–147. – {" "}<a href="https://doi.org/10.23855/preslia.2024.123">DOI</a>
+		
+		</li>
+		
+		<li>Potgieter L.J., Li D., Baiser B., Kühn I., Aronson M.F.J., Carboni M., Celesti-Grapow L., de Matos A.C.L., <b>Lososová Z.</b>, Montaño-Centellas F.A., Pyšek P., Richardson D.M., Tsang T.P.N., Zenni R.D. & Cadotte M.W. (2024): Cities Shape the Diversity and Spread of Nonnative Species. <i>Annual Review of Ecology, Evolution, and Systematics</i> 55: 157–180. – 
+		{" "}<a href="https://doi.org/10.1146/annurev-ecolsys-102722-012749">DOI</a>
+		</li>
+		
+		<li><b>Vakhlamova T.</b>, Wagner V., <b>Padullés Cubino J., Chytrý M.</b> & <b>Lososová Z.</b> (2022): Urban plant diversity in Kazakhstan: Effects of habitat type, city size and macroclimate. <i>Applied Vegetation Science</i> 25: e12679. – 
+		{" "}<a href="https://doi.org/10.1111/avsc.12679">DOI</a>
+		</li>
+		
 		<li>Swan C. M., Brown B., Borowy D., Cavender-Bares J., Jeliazkov A., Knapp S., <b>Lososová Z.</b>, <b>Cubino J. P.</b>, Pavoine S., Ricotta C. & Sol D. (2021): A framework for understanding how biodiversity patterns unfold across
 multiple spatial scales in urban ecosystems. <i>Ecosphere</i> 12:e03650.  – 
 {" "}<a href="https://doi.org/10.1002/ecs2.3650">DOI</a>
