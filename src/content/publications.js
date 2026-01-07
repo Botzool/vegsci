@@ -1,6 +1,75 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
+   
   {
+    date: `22/10/2025`,
+    name: `Milan Chytrý byl zvolen členem prestižní Academia Europaea`,
+    resources: [`SCI MUNI`],
+    links: [`https://www.sci.muni.cz/clanky/milan-chytry-byl-zvolen-clenem-prestizni-academia-europaea`]
+  },    
+  {
+    date: `08/10/2025`,
+    name: `Přijmout doktoranda mi dává smysl jen tehdy, když něco v oboru umí lépe než já. Rozhovor s Milanem Chytrým`,
+    resources: [`Muni.cz`],
+    links: [`https://kvalita.muni.cz/aktualne/aktuality/prijmout-doktoranda-mi-dava-smysl-jen-tehdy-kdyz-neco-v-oboru-umi-lepe-nez-ja-rozhovor-s-milanem-chytrym`]
+  },
+      
+	  {
+    date: `12/07/2025`,
+    name: ` Rostliny z Panonie pomůžou trávníkům (od 10:20)`,
+    resources: [`Český rozhlas`],
+    links: [`https://www.mujrozhlas.cz/magazin-experiment/magazin-experiment-jak-se-ovlada-pocitac-ocima-jak-nebezpecni-jsou-parazite-z`]
+  },    
+  {
+    date: `29/05/2025`,
+    name: `Interview s Milanem Chytrým o konceptu temné diverzity (od času 8:51)`,
+    resources: [`Český rozhlas`],
+    links: [`https://www.mujrozhlas.cz/veda-plus/co-noveho-odbornici-zjistili-o-tom-v-jakem-stavu-je-stredoveky-cyklus-maleb-v-emauzskem`]
+  },    
+  {
+    date: `21/04/2025`,
+    name: `Rostliny mizí v přírodě i z míst, kde mají ideální podmínky k životu, alarmují vědci`,
+    resources: [`Novinky.cz`],
+    links: [`https://www.novinky.cz/clanek/veda-skoly-rostliny-mizi-v-prirode-i-z-mist-kde-maji-idealni-podminky-k-zivotu-alarmuji-vedci-40517313`]
+  },    
+  {
+    date: `11/04/2025`,
+    name: `Temná diverzita: V místech silně ovlivněných člověkem chybí rostlinné druhy, které by se tam jinak přirozeně vyskytovaly`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/temna-diverzita-v-mistech-silne-ovlivnenych-clovekem-chybi-rostlinne-druhy-ktere-by-se-tam-jinak-prirozene-vyskytovaly`]
+  },    
+  {
+    date: `20/06/2024`,
+    name: `Czech research highlights rapid decline in Europe’s biodiversity`,
+    resources: [`Český rozhlas`],
+    links: [`https://english.radio.cz/czech-research-highlights-rapid-decline-europes-biodiversity-8820517`]
+  },    
+  {
+    date: `18/06/2024`,
+    name: `Rozmanitost rostlin evropských lesů a luk rychle mizí`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/rozmanitost-rostlin-evropskych-lesu-a-luk-rychle-mizi-ukazuji-data-botaniku`]
+  },    
+  {
+    date: `25/05/2024`,
+    name: `Rovnováha ve stepi`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/1181680258-tyden-v-regionech-brno/324281381890525/cast/1047323/`]
+  },    
+  {
+    date: `25/04/2024`,
+    name: `Z české krajiny mizí původní druhy rostlin`,
+    resources: [`CT24`],
+    links: [`https://ct24.ceskatelevize.cz/clanek/veda/z-ceske-krajiny-mizi-puvodni-druhy-rostlin-naopak-se-siri-teplomilne-zjistila-studie-348709`]
+  },
+    
+	{
+    date: `05/04/2024`,
+    name: `Botanici z Masarykovy univerzity zdokumentovali v Brně 1 492 planých druhů rostlin`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/v-brne-roste-1492-druhu-planych-nebo-zplanelych-rostlin-ukazala-studie`]
+  },
+    {
     date: `15/12/2023`,
     name: `Parasitische Pflanzen: Halbschmarotzer gegen Invasive Arten`,
     resources: [`Deutschlandfunk`],
@@ -273,6 +342,74 @@ export const mediaCz = [
   ];
 
 export const mediaEn = [
+{
+    date: `22/10/2025`,
+    name: `Milan Chytrý byl zvolen členem prestižní Academia Europaea`,
+    resources: [`SCI MUNI`],
+    links: [`https://www.sci.muni.cz/clanky/milan-chytry-byl-zvolen-clenem-prestizni-academia-europaea`]
+  },    
+  {
+    date: `08/10/2025`,
+    name: `Přijmout doktoranda mi dává smysl jen tehdy, když něco v oboru umí lépe než já. Rozhovor s Milanem Chytrým`,
+    resources: [`Muni.cz`],
+    links: [`https://kvalita.muni.cz/aktualne/aktuality/prijmout-doktoranda-mi-dava-smysl-jen-tehdy-kdyz-neco-v-oboru-umi-lepe-nez-ja-rozhovor-s-milanem-chytrym`]
+  },
+      
+	  {
+    date: `12/07/2025`,
+    name: ` Rostliny z Panonie pomůžou trávníkům (od 10:20)`,
+    resources: [`Český rozhlas`],
+    links: [`https://www.mujrozhlas.cz/magazin-experiment/magazin-experiment-jak-se-ovlada-pocitac-ocima-jak-nebezpecni-jsou-parazite-z`]
+  },    
+  {
+    date: `29/05/2025`,
+    name: `Interview s Milanem Chytrým o konceptu temné diverzity (od času 8:51)`,
+    resources: [`Český rozhlas`],
+    links: [`https://www.mujrozhlas.cz/veda-plus/co-noveho-odbornici-zjistili-o-tom-v-jakem-stavu-je-stredoveky-cyklus-maleb-v-emauzskem`]
+  },    
+  {
+    date: `21/04/2025`,
+    name: `Rostliny mizí v přírodě i z míst, kde mají ideální podmínky k životu, alarmují vědci`,
+    resources: [`Novinky.cz`],
+    links: [`https://www.novinky.cz/clanek/veda-skoly-rostliny-mizi-v-prirode-i-z-mist-kde-maji-idealni-podminky-k-zivotu-alarmuji-vedci-40517313`]
+  },    
+  {
+    date: `11/04/2025`,
+    name: `Temná diverzita: V místech silně ovlivněných člověkem chybí rostlinné druhy, které by se tam jinak přirozeně vyskytovaly`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/temna-diverzita-v-mistech-silne-ovlivnenych-clovekem-chybi-rostlinne-druhy-ktere-by-se-tam-jinak-prirozene-vyskytovaly`]
+  },    
+  {
+    date: `20/06/2024`,
+    name: `Czech research highlights rapid decline in Europe’s biodiversity`,
+    resources: [`Český rozhlas`],
+    links: [`https://english.radio.cz/czech-research-highlights-rapid-decline-europes-biodiversity-8820517`]
+  },    
+  {
+    date: `18/06/2024`,
+    name: `Rozmanitost rostlin evropských lesů a luk rychle mizí`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/rozmanitost-rostlin-evropskych-lesu-a-luk-rychle-mizi-ukazuji-data-botaniku`]
+  },    
+  {
+    date: `25/05/2024`,
+    name: `Rovnováha ve stepi`,
+    resources: [`Česká televize`],
+    links: [`https://www.ceskatelevize.cz/porady/1181680258-tyden-v-regionech-brno/324281381890525/cast/1047323/`]
+  },    
+  {
+    date: `25/04/2024`,
+    name: `Z české krajiny mizí původní druhy rostlin`,
+    resources: [`CT24`],
+    links: [`https://ct24.ceskatelevize.cz/clanek/veda/z-ceske-krajiny-mizi-puvodni-druhy-rostlin-naopak-se-siri-teplomilne-zjistila-studie-348709`]
+  },
+    
+	{
+    date: `05/04/2024`,
+    name: `Botanici z Masarykovy univerzity zdokumentovali v Brně 1 492 planých druhů rostlin`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/v-brne-roste-1492-druhu-planych-nebo-zplanelych-rostlin-ukazala-studie`]
+  },
   {
     date: `15/12/2023`,
     name: `Parasitische Pflanzen: Halbschmarotzer gegen Invasive Arten`,
