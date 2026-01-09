@@ -1,6 +1,30 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
-           {
+          
+   {
+      name: `Broadleaved evergreen woody species in forests in the Košice surroundings: distribution and ecology`,
+      link: `https://is.muni.cz/th/uphw5/`,
+      author: "Juliana Szamosiová",
+      year: "2025"
+    },
+   {
+      name: `Natural non-forest vegetation of the Lúčanská Malá Fatra Mountains`,
+      link: `https://is.muni.cz/th/ppy6o/`,
+      author: "Branislav Vrábel",
+      year: "2024"
+    },		  {
+      name: `Successional trajectory after the restoration of formerly afforested dry grasslands of the Tematín hills (Slovakia)`,
+      link: `https://is.muni.cz/th/cxkvc/`,
+      author: "Branislav Kopčan",
+      year: "2024"
+    },
+		   {
+      name: `Vegetation of the Křtinský potok valley and its dynamics`,
+      link: `https://is.muni.cz/th/ors8k/`,
+      author: "Jaroslav Rohel",
+      year: "2023"
+    },
+		   {
       name: `Long-term vegetation changes in selected forest areas in the Beskydy foothills`,
       link: `https://is.muni.cz/th/pjbif/`,
       author: "Štěpánka Pustková",
@@ -69,6 +93,36 @@
   ],
 
   masterThesesList: [
+  {
+      name: `Effect of prescribed range burning on grassland vegetation`,
+      link: `https://is.muni.cz/th/c97nn/?fakulta=1422;obdobi=3823;lang=en%2F;id=125290`,
+      author: "Terezie Chamrátová",
+      year: "2025"
+    },
+	{
+      name: `Forest vegetation of the Považský Inovec Mts`,
+      link: `https://is.muni.cz/th/d12y3/?lang=en;id=261076`,
+      author: "Natália Janišová",
+      year: "2025"
+    },
+  {
+      name: `Succession of steppe vegetation in abandoned fields in South Moravia`,
+      link: `https://is.muni.cz/th/azlun/?lang=cs;cop=3437685;id=250056`,
+      author: "Vojtěch Sobotka",
+      year: "2024"
+    },
+	{
+      name: `Flora and vegetation of restored wetlands in southern Moravia`,
+      link: `https://is.muni.cz/th/esvr7/?vysl=21710;id=226586`,
+      author: "Štěpánka Pustková",
+      year: "2024"
+    },
+		{
+      name: `Variability of plant traits in urbanized area of Brno`,
+      link: `https://is.muni.cz/th/c5ftz/?info`,
+      author: "Andrea Lobpreisová",
+      year: "2023"
+    },
         {
       name: `Tall-herb vegetation of the south Moravian forest-steppe`,
       link: `https://is.muni.cz/th/hauzn/`,
@@ -120,6 +174,12 @@
   ],
 
   phdThesesList: [
+  {
+      name: `Interactions between hemiparasites and invasive plants of grassland habitats`,
+      link: `https://is.muni.cz/th/jrpk1/`,
+      author: "Kateřina Knotková",
+      year: "2025"
+    },  
 {
       name: `Diversity patterns in European vegetation: Linking community ecology and macroecology`,
       link: `https://is.muni.cz/th/xpz2o/?lang=en`,
@@ -263,6 +323,29 @@
 
 export const thesesCz = {
   bachelorThesesList: [
+   {
+      name: `Širokolisté stálezelené dřeviny v lesích v okolí Košic: rozšíření a ekologie`,
+      link: `https://is.muni.cz/th/uphw5/`,
+      author: "Juliana Szamosiová",
+      year: "2025"
+    },
+   {
+      name: `Přirozená nelesní vegetace Lúčanské Malé Fatry`,
+      link: `https://is.muni.cz/th/ppy6o/`,
+      author: "Branislav Vrábel",
+      year: "2024"
+    },		  {
+      name: `Sukcesní vývoj po obnově zalesněných suchých trávníků v Tematínských vrších na Slovensku`,
+      link: `https://is.muni.cz/th/cxkvc/`,
+      author: "Branislav Kopčan",
+      year: "2024"
+    },
+		   {
+      name: `Vegetace údolí Křtinského potoka a její dynamika`,
+      link: `https://is.muni.cz/th/ors8k/`,
+      author: "Jaroslav Rohel",
+      year: "2023"
+    },
          {
       name: `Dlouhodobé změny vegetace vybraných lesních komplexů Beskydského podhůří`,
       link: `https://is.muni.cz/th/pjbif/`,
@@ -332,6 +415,36 @@ export const thesesCz = {
   ],
 
   masterThesesList: [
+  {
+      name: `Vliv řízeného vypalování na stepní a luční vegetaci`,
+      link: `https://is.muni.cz/th/c97nn/?fakulta=1422;obdobi=3823;lang=en%2F;id=125290`,
+      author: "Terezie Chamrátová",
+      year: "2025"
+    },
+	{
+      name: `Lesní vegetace Považského Inovce`,
+      link: `https://is.muni.cz/th/d12y3/?lang=cs;id=261076`,
+      author: "Natália Janišová",
+      year: "2025"
+    },
+  {
+      name: `Sukcese stepní vegetace na opuštěných polích jižní Moravy`,
+      link: `https://is.muni.cz/th/azlun/?lang=cs;cop=3437685;id=250056`,
+      author: "Vojtěch Sobotka",
+      year: "2024"
+    },
+	{
+      name: `Flóra a vegetace revitalizovaných mokřadů na jižní Moravě`,
+      link: `https://is.muni.cz/th/esvr7/?vysl=21710;id=226586`,
+      author: "Štěpánka Pustková",
+      year: "2024"
+    },
+		{
+      name: `Variabilita rostlinných vlastností v urbánním prostoru Brna`,
+      link: `https://is.muni.cz/th/c5ftz/?info`,
+      author: "Andrea Lobpreisová",
+      year: "2023"
+    },
           {
       name: `Vysokobylinná vegetace jihomoravské lesostepi`,
       link: `https://is.muni.cz/th/hauzn/`,
@@ -383,6 +496,12 @@ export const thesesCz = {
   ],
 
   phdThesesList: [
+   {
+      name: `Interakce mezi poloparazitickými a invazními rostlinami v travinných společenstvech`,
+      link: `https://is.muni.cz/th/jrpk1/`,
+      author: "Kateřina Knotková",
+      year: "2025"
+    }, 
       {
       name: `Diverzita evropské vegetace: Propojení ekologie společenstev a makroekologie`,
       link: `https://is.muni.cz/th/xpz2o/?lang=cs`,
