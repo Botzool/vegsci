@@ -176,6 +176,18 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
+	{
+      id: `klinkovska`,
+      name: `Klára Friesová (Klinkovská)`,
+      position: `Researcher`,
+      description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study was to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
+      email: `474368@mail.muni.cz`,
+      phoneNumber: ``,
+	  is: `https://www.muni.cz/en/people/474368-klara-klinkovska`,
+      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
+	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
+      img: klinkovska
+    },	
 	         {
       id: `hajek`,
       name: `Ondřej Hájek`,
@@ -329,7 +341,7 @@ export const peopleEn = {
 	 {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
-      position: `Researcher (maternity leave)`,
+      position: `Researcher`,
       description: `Tamara Těšitelová studied botany at the Faculty of Science at the University of South Bohemia in Budweis. She finished her Ph.D. training in 2014 by defencing a thesis called „Ecological and evolutionary consequences of orchid dependence on mycorrhizal fungi“. For studies of the orchid-fungi relationship, she used numerous approaches, such as field experiments with orchid seed sowing, isolation of mycorrhizal fungi in culture, molecular barcoding, including high-throughput sequencing of root and soil samples, phylogenetic analyses, as well as electron microscopy and stable isotope analyses. Tamara joined the Department of Botany and Zoology at Masaryk University in 2021. In her current research, she focuses on the ability of hemiparasitic plants to suppress invasive plants, the ecology of mycoheterotrophic plants based on vegetation databases, and anthropogenic effects on orchid mycorrhizal fungi in soil. `,
       email: `tamara.malinova@centrum.cz`,
       is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
@@ -455,20 +467,7 @@ geographical models of plant distribution and species richness.`,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
       img: klimova
     },
-	 {
-      id: `klinkovska`,
-      name: `Klára Friesová (Klinkovská)`,
-      position: `PhD student, Researcher`,
-      description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study is to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
-      email: `474368@mail.muni.cz`,
-      phoneNumber: ``,
-	  is: `https://www.muni.cz/en/people/474368-klara-klinkovska`,
-      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
-	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
-      img: klinkovska
-    },	
-
-	  	  {
+	 	  	  {
       id: `kolenyova`,
       name: `Monika Kolényová`,
       position: `PhD student, Researcher`,
@@ -638,6 +637,18 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
+	{
+      id: `klinkovska`,
+      name: `Klára Friesová (Klinkovská)`,
+      position: `Výzkumník`,
+      description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V rámci svého doktorského studia se věnovala změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
+      email: `474368@mail.muni.cz`,
+      phoneNumber: ``,
+	  is: `https://www.muni.cz/lide/474368-klara-klinkovska`,
+      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
+	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
+      img: klinkovska
+    },
 	 	       {
       id: `hajek`,
       name: `Ondřej Hájek`,
@@ -789,7 +800,7 @@ export const peopleCz = {
 	   {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
-      position: `Výzkumník (rodičovská dovolená)`,
+      position: `Výzkumník`,
       description: `Tamara Těšitelová vystudovala botaniku na Přírodovědecké fakultě Jihočeské univerzity, kde v roce 2014 obhájila disertační práci s názvem „Ekologické a evoluční důsledky závislosti orchidejí na mykorhizních houbách“. Pro studium orchideoidní mykorhizy využila pestrou škálu přístupů od terénních experimentů s vyséváním orchidejových semen, izolace a molekulární identifikace hub, včetně metabarkódování environmentální DNA, a fylogenetických analýz až po elektronovou mikroskopii či složení stabilních izotopů. Na Ústavu botaniky a zoologie MU působí od roku 2021 a věnuje se zde využití poloparazitických rostlin pro potlačení invazních rostlinných druhů a také využití databází pro studium ekologie mykoheterotrofních rostlin. Nadále pracuje i na Jihočeské univerzitě především na otázkách antropogenního ovlivnění společenstev orchideoidních hub v půdě a využití houbového inokula pro obnovu populací orchidejí v přírodě.`,
       email: `tamara.malinova@centrum.cz`,
       is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
@@ -903,20 +914,7 @@ export const peopleCz = {
 	  orcid: ``, 
       img: klimova
     },
-	 {
-      id: `klinkovska`,
-      name: `Klára Friesová (Klinkovská)`,
-      position: `Doktorand, výzkumník`,
-      description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V současné době se v rámci svého doktorského studia věnuje změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
-      email: `474368@mail.muni.cz`,
-      phoneNumber: ``,
-	  is: `https://www.muni.cz/lide/474368-klara-klinkovska`,
-      researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
-	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
-      img: klinkovska
-    },
-	
-	  {
+	 	  {
       id: `kolenyova`,
       name: `Monika Kolényová`,
       position: `Doktorand, výzkumník`,
@@ -970,7 +968,7 @@ export const formerPeople = [
     email: `mirjana.cuk.rs@gmail.com`
   },
 {
-    name: `Marta Sperandii (2022–2024)`,
+    name: `Marta Gaia Sperandii (2022–2024)`,
     email: `martagaia.sperandii@uniroma3.it`
   },
 {
@@ -1089,6 +1087,10 @@ export const formerPeople = [
 ];
 
 export const visitingScientistsCz = [
+
+{    
+	name: `Francesco Candini (Itálie, 2025)`
+  },
 {
     name: `Simone Eusebio Bergò (Itálie, 2025)`
   },
@@ -1233,6 +1235,9 @@ export const visitingScientistsCz = [
 ];
 
 export const visitingScientistsEn = [
+{    
+	name: `Francesco Candini (Italy, 2025)`
+  },
 {
     name: `Simone Eusebio Bergò (Italy, 2025)`
   },
