@@ -49,6 +49,9 @@ import knotek from "../../static/images/people/knotek.jpg";
 import hubatka from "../../static/images/people/hubatka.jpg";
 import franc from "../../static/images/people/franc.jpg";
 import pustkova from "../../static/images/people/pustkova.jpg";
+import sobotka from "../../static/images/people/sobotka.jpg";
+import hanusova from "../../static/images/people/hanusova.jpg";
+
 
 
 
@@ -199,6 +202,16 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
 	  img: hajek
     },
+		{
+      id: `hanusova`,
+      name: `Valérie Hanušová`,
+      position: `Researcher  `,
+      description: `Valérie Hanušová completed her Master’s degree in Nature Conservation with a specialization in Botany at the Faculty of Science, Masaryk University. In her Master’s thesis, she focused on practical nature conservation throught the restoration of grassland biodiversity using green hay transfer following the suppression of invasive species dominance by hemiparasitic plants. She is currently involved in the cross-border Interreg PannFlora project, which focuses on the restoration of biodiversity-rich grasslands and the production of regional seed mixtures from native Pannonian plant species for use in landscape restoration and in urban green spaces.`,
+      email: `541000@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://is.muni.cz/osoba/541000?lang=en`,
+      img: hanusova 
+    },
     {
       id: `holubova`,
       name: `Dana Holubová`,
@@ -338,6 +351,18 @@ export const peopleEn = {
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
+	{
+      id: `sobotka`,
+      name: `Vojtěch Sobotka`,
+      position: `Researcher  `,
+      description: `Vojtěch Sobotka completed his Bachelor's degree in Ecological and Evolutionary Biology at Masaryk University, followed by a Master's degree in Botany with a specialization in Plant Ecology. In his Bachelor's thesis, he studied the invasion of Mahonia aquifolium in the city of Brno. His Master's thesis focused on the succession of steppe vegetation on abandoned fields in South Moravia. Currently, his research focuses on the diversity of steppe grasslands, primarily in South Moravia, and on the possibilities for their ecological restoration. He is also interested in urban vegetation and plant invasions.`,
+      email: `sobotka.v@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://is.muni.cz/osoba/484029?lang=en`,
+      orcid: `https://orcid.org/0000-0002-0668-3258`, 
+      img: sobotka
+    },
+	
 	 {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
@@ -660,6 +685,16 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`, 
 	  img: hajek
     },
+	{
+      id: `hanusova`,
+      name: `Valérie Hanušová`,
+      position: `Výzkumník`,
+      description: `Valérie Hanušová vystudovala magisterský obor Ochrana přírody se specializací na botaniku na Přírodovědecké fakultě Masarykovy univerzity. Ve své diplomové práci se zabývala praktickou ochranou přírody skrze obnovu biodiverzity lučních porostů pomocí přenosu zeleného sena po potlačení dominance invazních druhů poloparazitickými rostlinami. V současnosti spolupracuje na přeshraničním projektu Interreg PannFlora zaměřeném na obnovu travinobylinných porostů a produkci regionálního osiva z původních druhů panonské flóry pro využití při obnově krajiny a sídelní zeleně.`,
+      email: `541000@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://is.muni.cz/osoba/541000?lang=cz`,
+      img: hanusova 
+    },
     {
       id: `holubova`,
       name: `Dana Holubová`,
@@ -671,7 +706,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
       img: holubova
     },
-	{
+		{
       id: `chytrykr`,
       name: `Kryštof Chytrý`,
       position: `Researcher`,
@@ -795,6 +830,17 @@ export const peopleCz = {
 	  researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2` , 
 	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
+    },
+	{
+      id: `sobotka`,
+      name: `Vojtěch Sobotka`,
+      position: `Výzkumník  `,
+      description: `Vojtěch Sobotka vystudoval bakalářský program Ekologická a evoluční biologie na Masarykově univerzitě, na který navázal magisterským studiem oboru Botanika se zaměřením na ekologii rostlin. Ve své bakalářské práci se zabýval invazí mahónie cesmínolisté na území Brna, v diplomové práci pak studoval sukcesi stepní vegetace na opuštěných polích jižní Moravy. V současnosti se věnuje výzkumu diverzity stepních trávníků převážně na jižní Moravě a možnostem jejich ekologické obnovy. Dlouhodobě se také zajímá o vegetaci měst a problematiku rostlinných invazí.`,
+      email: `sobotka.v@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://is.muni.cz/osoba/484029?lang=cs`,
+      orcid: `https://orcid.org/0000-0002-0668-3258`, 
+      img: sobotka
     },
        
 	   {
