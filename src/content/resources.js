@@ -1,8 +1,8 @@
 export const en = {
   resourcesList: [
     {
-      name: "Česká národní fytocenologická databáze",
-      linkTo: "/phytosociologicalDb",
+      name: "Czech Vegetation Database",
+      linkTo: "https://czechveg.github.io/",
       img: "resources-cnfd_en"
     },
     {
@@ -52,8 +52,8 @@ export const en = {
 export const cz = {
     resourcesList: [
       {
-        name: "Česká národní fytocenologická databáze",
-        linkTo: "/phytosociologicalDb",
+        name: "Česká vegetační databáze",
+        linkTo: "https://czechveg.github.io/",
         img: "resources-cnfd_cz"
       },
       {

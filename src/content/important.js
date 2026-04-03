@@ -11,8 +11,8 @@ export const en = {
       img: "important-main-project3_en"
     },
     {
-      name: "Česká národní fytocenologická databáze",
-      linkTo: "/phytosociologicalDb",
+      name: "Czech Vegetation Database",
+      linkTo: "https://czechveg.github.io/",
       img: "resources-cnfd_en"
     },
     {
@@ -46,8 +46,8 @@ export const cz = {
       img: "important-main-project3_cz"
     },
     {
-      name: "Česká národní fytocenologická databáze",
-      linkTo: "/phytosociologicalDb",
+      name: "Česká vegetační databáze",
+      linkTo: "https://czechveg.github.io/",
       img: "resources-cnfd_cz"
     },
     {

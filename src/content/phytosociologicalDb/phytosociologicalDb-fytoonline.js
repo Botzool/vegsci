@@ -18,7 +18,7 @@ export const en = {
       </ul>
       <h4>Online data</h4>
 		<div className="fyto-item"><span>
-            Vegetation plots from the national Natura 2000 mapping project. Coordinator of mapping: Nature Conservation Agency of the Czech Republic. Data digitalizing: Czech National Phytosociological Database, Masaryk University, Brno.</span>
+            Vegetation plots from the national Natura 2000 mapping project. Coordinator of mapping: Nature Conservation Agency of the Czech Republic. Data digitalizing: Czech Vegetation Database, Masaryk University, Brno.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.txt">TXT</a></div>        
 
         
@@ -249,7 +249,7 @@ export const cz = {
       <h4>Online data</h4>
 
       	<div className="fyto-item"><span>
-            Fytocenologické snímky z mapování biotopů (Natura 2000). Koordinace mapování: Agentura ochrany přírody a krajiny ČR. Digitalizace dat: Česká národní fytocenologická databáze, Masarykova univerzita, Brno.</span>
+            Fytocenologické snímky z mapování biotopů (Natura 2000). Koordinace mapování: Agentura ochrany přírody a krajiny ČR. Digitalizace dat: Česká vegetační databáze, Masarykova univerzita, Brno.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.txt">TXT</a></div>        
 
         

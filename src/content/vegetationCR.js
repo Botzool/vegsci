@@ -17,7 +17,7 @@ export const en = {
         description of its floristic composition, ecology, dynamics, distribution and economic or
         conservation value, including distribution maps and synoptic tables of species composition.
         Associations were delimited by formal definitions and tested using a set of approximately
-        100,000 vegetation plots contained in the Czech National Phytosociological Database.
+        100,000 vegetation plots contained in the Czech Vegetation Database.
         National vegetation classification is accompanied by a computer <a href="http://doi.org/10.5281/zenodo.3605561">expert system</a> for
         identification of associations. The monograph was elaborated by a team of botanists from the
         Department of Botany and Zoology, Masaryk University in cooperation with experts from the
