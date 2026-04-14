@@ -1,7 +1,7 @@
 const path = require(`path`);
-const puppeteer = require("puppeteer");
+const https = require("https");
 const { galleryNames, projectsNames } = require("./src/content/pagesNames");
- 
+
 exports.onCreateWebpackConfig = ({ actions, getConfig, stage }) => {
   if (stage === 'build-javascript') {
     const baseConfig = getConfig();
@@ -45,28 +45,24 @@ exports.createPages = ({ actions: { createPage } }) => {
 
 exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }) => {
   const { createNode } = actions;
-  const getRoutes = page => {
-    const routes = page.evaluate(() => {
-      const titleNodeList = document.querySelector("body").innerText
-      return titleNodeList;
-    });
-    return routes;
-  };
+
   const create = async () => {
     try {
-      const browser = await puppeteer.launch({ headless: true });
-       const page = await browser.newPage();
-      await page.goto(`https://www.sci.muni.cz/botany/vegsci/dbase/actualization-dates.php`);
-      await page.waitForSelector("body");
-      
-      const dbData = await getRoutes(page);
+      const dbData = await new Promise((resolve, reject) => {
+        https.get(`https://www.sci.muni.cz/botany/vegsci/dbase/actualization-dates.php`, (res) => {
+          let data = "";
+          res.on("data", chunk => data += chunk);
+          res.on("end", () => resolve(data));
+        }).on("error", reject);
+      });
+
       const nodeDbData = {
         key: 111,
         dbData: dbData,
       };
-    
+
       const nodeContent = JSON.stringify(nodeDbData);
-    
+
       const nodeMeta = {
         id: await createNodeId(`my-data-${nodeDbData.key}`),
         parent: null,
@@ -78,12 +74,16 @@ exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }) => 
           contentDigest: await createContentDigest(nodeDbData)
         }
       };
-      await browser.close();
-      return {nodeDbData, nodeMeta}
+
+      return { nodeDbData, nodeMeta };
     } catch (err) {
-      console.warn(err);
+      console.warn("Nepodařilo se načíst data z databáze:", err);
+      return null;
     }
   };
-  const newNode = await create()
-  await createNode(Object.assign({}, newNode.nodeDbData, newNode.nodeMeta))
+
+  const newNode = await create();
+  if (newNode) {
+    await createNode(Object.assign({}, newNode.nodeDbData, newNode.nodeMeta));
+  }
 };

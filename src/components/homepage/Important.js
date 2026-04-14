@@ -34,7 +34,10 @@ const Important = () => (
                       i.node.fixed.src.includes(resource.img)
                     );
                     const imgSrc = img.length ? img[0].node.fixed.src : null;
-                    return (
+                    const isExternal = resource.linkTo.startsWith("http");
+                    return isExternal ? (
+                      <ResourceBoxAnchor href={resource.linkTo} key={resource.name} img={imgSrc} target="_blank" rel="noopener noreferrer" />
+                    ) : (
                       <ResourceBox to={resource.linkTo} key={resource.name} img={imgSrc} target="_blanc" />
                     );
                   })}
@@ -85,6 +88,38 @@ const GridWrapper = styled.div`
     grid-template-columns: repeat(1, minmax(200px, 200px));
     grid-template-rows: repeat(6, minmax(200px, 200px));
 
+  }
+`;
+
+const ResourceBoxAnchor = styled.a`
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  &:hover:after {
+    box-shadow: 2px 2px 3px grey;
+  }
+
+  ::after {
+    content: "";
+    background-image: url(${props => props.img});
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    border: 0.5px solid gray;
+    border-radius: 12%;
+    box-shadow: 5px 5px 5px grey;
   }
 `;
 

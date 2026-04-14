@@ -266,7 +266,7 @@ export const peopleEn = {
       id: `knollova`,
       name: `Ilona Knollová`,
       position: `Researcher`,
-      description: `Ilona Knollová studied Systematic Biology and Ecology in the Department of Botany and Zoology, Faculty of Science, Masaryk University. She continued with PhD studies at the same Department and in 2006 defended her PhD thesis "Local and large-scale data sets and their use for vegetation classification". Currently, she works as the manager of the Czech National Phytosociological Database and European Vegetation Archive (EVA).`,
+      description: `Ilona Knollová studied Systematic Biology and Ecology in the Department of Botany and Zoology, Faculty of Science, Masaryk University. She continued with PhD studies at the same Department and in 2006 defended her PhD thesis "Local and large-scale data sets and their use for vegetation classification". Currently, she works as the manager of the Czech Vegetation Database and European Vegetation Archive (EVA).`,
       email: `ikuzel@sci.muni.cz`,
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
