@@ -51,9 +51,7 @@ import franc from "../../static/images/people/franc.jpg";
 import pustkova from "../../static/images/people/pustkova.jpg";
 import sobotka from "../../static/images/people/sobotka.jpg";
 import hanusova from "../../static/images/people/hanusova.jpg";
-
-
-
+import chytra from "../../static/images/people/chytra.jpg";
 
 export const peopleEn = {
   employees: [
@@ -70,7 +68,7 @@ export const peopleEn = {
       scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
       researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
       personal: `https://www.sci.muni.cz/botany/chytry/index.htm`,
-      img: chytry
+      img: chytry,
     },
     {
       id: `lososova`,
@@ -84,9 +82,9 @@ export const peopleEn = {
       publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-      img: lososova
+      img: lososova,
     },
-	{
+    {
       id: `rolecek`,
       name: `Jan Roleček`,
       position: `Associate professor`,
@@ -98,7 +96,7 @@ export const peopleEn = {
       publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-      img: rolecek
+      img: rolecek,
     },
     {
       id: `tesitel`,
@@ -112,7 +110,7 @@ export const peopleEn = {
       publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-      img: tesitel
+      img: tesitel,
     },
     {
       id: `tichy`,
@@ -126,10 +124,10 @@ export const peopleEn = {
       publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-	  img: tichy
+      img: tichy,
     },
-	 {
-	  id: `axmanova`,
+    {
+      id: `axmanova`,
       name: `Irena Axmanová`,
       position: `Assistant professor`,
       description: `Irena Axmanová studied Systematic Botany and Ecology at the Department of Botany and Zoology of Masaryk University. She continued with postgraduate studies at the same department, and in 2012 she defended her PhD thesis "The effect of productivity and other environmental factors on the forest herb-layer diversity". She was involved in a project looking for modern analogues of vegetation in the Late Pleistocene, asking which habitats were preferred by mammoths and other mega-herbivores in late glacial. Currently, she cooperates on projects based on the extensive phytosociological database European Vegetation Archive (EVA) to study vegetation patterns at the European scale. She is mainly interested in vegetation ecology, alien species, and functional and phylogenetic diversity of plant communities.`,
@@ -138,8 +136,8 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/78388-irena-axmanova`,
       orcid: `https://orcid.org/0000-0001-9440-7976`,
       publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
-	  img: axmanova
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
+      img: axmanova,
     },
     {
       id: `danihelka`,
@@ -148,12 +146,12 @@ export const peopleEn = {
       description: `Jiří Danihelka obtained his PhD in Botany at the Faculty of Science of Masaryk University in 2000, defending the thesis Achillea millefolium agg. in the Czech Republic. Since then he has been working at the Department of Botany and Zoology, since 2004 as the curator of Masaryk University Herbarium (international acronym BRNU). Since 2004 he has also been working at the Institute of Botany of the Czech Academy of Sciences in Průhonice. At present, he focuses at curating the University’s herbarium, taxonomic and plant geographic databases, identification handbooks and botanical monographs (Flora of the Czech Republic and Flora of Slovakia), and also on the taxonomy and distribution of alien species and some difficult genera of the Central European flora, including Achillea, Cerastium, Epilobium, Stipa and Viola. He teaches Basic Methods of Field Botany, Scientific Work in Botany and Zoology, Processing Basic Botanical Data, Angiosperm Identification Course and Field Course of Systematic Botany.`,
       email: `danihel@sci.muni.cz`,
       phoneNumber: `549 49 3473`,
-	  is: `https://www.muni.cz/en/people/5926-jiri-danihelka`,
+      is: `https://www.muni.cz/en/people/5926-jiri-danihelka`,
       orcid: `https://orcid.org/0000-0002-2640-7867`,
       publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`, 
-	  img: danihelka
+      researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
+      img: danihelka,
     },
     {
       id: `divisek`,
@@ -166,9 +164,9 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0002-5127-5130`,
       publons: `https://publons.com/researcher/2524551/jan-divisek/`,
       researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
-      img: divisek
+      img: divisek,
     },
-	{
+    {
       id: `novak`,
       name: `Pavel Novák`,
       position: `Assistant professor`,
@@ -177,21 +175,45 @@ export const peopleEn = {
       phoneNumber: `549498485`,
       is: `https://www.muni.cz/en/people/269109-pavel-novak`,
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
+      img: novak,
     },
-	{
+    {
+      id: `chytra`,
+      name: `Helena Chytrá`,
+      position: `Researcher  `,
+      description: `I focus on the conservation management of dry grasslands (including innovative approaches such as burning and fallowing), as well as their establishment and management on arable land. I also work on options for supporting biodiversity in agricultural landscapes, particularly in vineyards. In my free time, I engage in community-based landscape management.`,
+      email: `chytra@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/103586-helena-chytra`,
+      img: chytra,
+    },
+    {
+      id: `chytrykr`,
+      name: `Kryštof Chytrý`,
+      position: `Researcher`,
+      description: `Kryštof Chytrý is interested in the biogeography of Central European flora and vegetation. While being interested in biogeographical patterns and gradients, he is most intrigued by what ostensibly undermines them. Through these interests, he ended up dealing with research questions such as incidence of steppe patches in mostly forested Central European landscape (Master thesis), presence of microclimatic refugia in high mountains (ongoing PhD thesis at the University of Vienna) and seasonal and interannual dynamics of dry grasslands.`,
+      email: `krystof.chytry@gmail.com`,
+      phoneNumber: `+420731877397`,
+      is: `https://www.muni.cz/en/people/237932-krystof-chytry`,
+      orcid: `https://orcid.org/0000-0003-4113-6564`,
+      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry`,
+      publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
+      personal: `https://twitter.com/Kryshpean21`,
+      img: chytrykr,
+    },
+    {
       id: `klinkovska`,
       name: `Klára Friesová (Klinkovská)`,
       position: `Researcher`,
       description: `Klára Klinkovská studied the bachelor's degree programme Ecological and Evolutionary Biology and then the master's study programme Botany with a focus on plant ecology at the Faculty of Science, Masaryk University. In her bachelor's thesis, she focused on vegetation characteristics of geographically distinct floral elements of the Slavkov region. In her master’s thesis, she studied the tall-herb steppe vegetation of South Moravia. The main goal of her PhD study was to synthesize the main trends in the changes of species diversity in Czech non-forest vegetation over the recent decades based on the vegetation-plot data. She is also interested in recognising the underlying factors of vegetation change to contribute to effective nature conservation.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
-	  is: `https://www.muni.cz/en/people/474368-klara-klinkovska`,
+      is: `https://www.muni.cz/en/people/474368-klara-klinkovska`,
       researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
-	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
-      img: klinkovska
-    },	
-	         {
+      orcid: `https://orcid.org/0000-0002-1644-2140`,
+      img: klinkovska,
+    },
+    {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Researcher`,
@@ -200,9 +222,9 @@ export const peopleEn = {
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/en/people/16845-ondrej-hajek`,
       researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
-	  img: hajek
+      img: hajek,
     },
-		{
+    {
       id: `hanusova`,
       name: `Valérie Hanušová`,
       position: `Researcher  `,
@@ -210,7 +232,7 @@ export const peopleEn = {
       email: `541000@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://is.muni.cz/osoba/541000?lang=en`,
-      img: hanusova 
+      img: hanusova,
     },
     {
       id: `holubova`,
@@ -221,23 +243,10 @@ export const peopleEn = {
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/113226-dana-holubova`,
       researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-      img: holubova
+      img: holubova,
     },
-	{
-      id: `chytrykr`,
-      name: `Kryštof Chytrý`,
-      position: `Researcher`,
-      description: `Kryštof Chytrý is interested in the biogeography of Central European flora and vegetation. While being interested in biogeographical patterns and gradients, he is most intrigued by what ostensibly undermines them. Through these interests, he ended up dealing with research questions such as incidence of steppe patches in mostly forested Central European landscape (Master thesis), presence of microclimatic refugia in high mountains (ongoing PhD thesis at the University of Vienna) and seasonal and interannual dynamics of dry grasslands.`,
-      email: `krystof.chytry@gmail.com`,
-      phoneNumber: `+420731877397`,
-      is: `https://www.muni.cz/en/people/237932-krystof-chytry`,
-      orcid: `https://orcid.org/0000-0003-4113-6564`,
-      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry` , 
-	  publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
-	  personal: `https://twitter.com/Kryshpean21`,
-	  img: chytrykr
-    },
-	{
+
+    {
       id: `iemelianova`,
       name: `Svitlana Iemelianova`,
       position: `Researcher`,
@@ -245,11 +254,11 @@ export const peopleEn = {
       email: `yemelianova.sv@gmail.com`,
       is: `https://www.muni.cz/en/people/242944-svitlana-iemelianova`,
       orcid: `https://orcid.org/0000-0001-5885-3186`,
-      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova` , 
-	  publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
-	  img: iemelianova
+      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova`,
+      publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
+      img: iemelianova,
     },
-	
+
     {
       id: `kalusova`,
       name: `Veronika Kalusová`,
@@ -260,7 +269,7 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/106856-veronika-kalusova`,
       orcid: `https://orcid.org/0000-0002-4270-321X`,
       researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-      img: kalusova
+      img: kalusova,
     },
     {
       id: `knollova`,
@@ -272,9 +281,9 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/10355-ilona-knollova`,
       orcid: `https://orcid.org/0000-0003-4074-789X`,
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-      img: knollova
+      img: knollova,
     },
-		{
+    {
       id: `knotkova`,
       name: `Kateřina Knotková`,
       position: `Researcher`,
@@ -282,10 +291,10 @@ export const peopleEn = {
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/501016-katerina-knotkova`,
-	  orcid: `https://orcid.org/0000-0001-6668-8977`,
-	  researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
-	  img: knotkova
-      },
+      orcid: `https://orcid.org/0000-0001-6668-8977`,
+      researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
+      img: knotkova,
+    },
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -297,8 +306,8 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0002-7895-6710`,
       publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`, 
-	  img: kubesova
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
+      img: kubesova,
     },
     {
       id: `landucci`,
@@ -312,7 +321,7 @@ export const peopleEn = {
       publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
-	  img: landucci
+      img: landucci,
     },
     {
       id: `preislerova`,
@@ -324,8 +333,8 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/10230-zdenka-preislerova`,
       orcid: `https://orcid.org/0000-0002-6848-0384`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`, 
-	  img: preislerova
+      researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
+      img: preislerova,
     },
     {
       id: `reznickova`,
@@ -336,7 +345,7 @@ export const peopleEn = {
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/en/people/19437-marcela-reznickova`,
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-      img: reznickova
+      img: reznickova,
     },
     {
       id: `smerdova`,
@@ -346,12 +355,12 @@ export const peopleEn = {
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/en/people/75764-eva-smerdova`,
-	  orcid: `https://orcid.org/0000-0003-4589-6317`,
-	  researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2` , 
-	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
-      img: smerdova
+      orcid: `https://orcid.org/0000-0003-4589-6317`,
+      researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2`,
+      publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
+      img: smerdova,
     },
-	{
+    {
       id: `sobotka`,
       name: `Vojtěch Sobotka`,
       position: `Researcher  `,
@@ -359,21 +368,21 @@ export const peopleEn = {
       email: `sobotka.v@sci.muni.cz`,
       phoneNumber: ``,
       is: `https://is.muni.cz/osoba/484029?lang=en`,
-      orcid: `https://orcid.org/0000-0002-0668-3258`, 
-      img: sobotka
+      orcid: `https://orcid.org/0000-0002-0668-3258`,
+      img: sobotka,
     },
-	
-	 {
+
+    {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
       position: `Researcher`,
       description: `Tamara Těšitelová studied botany at the Faculty of Science at the University of South Bohemia in Budweis. She finished her Ph.D. training in 2014 by defencing a thesis called „Ecological and evolutionary consequences of orchid dependence on mycorrhizal fungi“. For studies of the orchid-fungi relationship, she used numerous approaches, such as field experiments with orchid seed sowing, isolation of mycorrhizal fungi in culture, molecular barcoding, including high-throughput sequencing of root and soil samples, phylogenetic analyses, as well as electron microscopy and stable isotope analyses. Tamara joined the Department of Botany and Zoology at Masaryk University in 2021. In her current research, she focuses on the ability of hemiparasitic plants to suppress invasive plants, the ecology of mycoheterotrophic plants based on vegetation databases, and anthropogenic effects on orchid mycorrhizal fungi in soil. `,
       email: `tamara.malinova@centrum.cz`,
       is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
-	  orcid: `https://orcid.org/0000-0001-6901-6359`,
-	  img: tesitelova
+      orcid: `https://orcid.org/0000-0001-6901-6359`,
+      img: tesitelova,
     },
-	{
+    {
       id: `vecera`,
       name: `Martin Večeřa`,
       position: `Researcher`,
@@ -383,7 +392,7 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/357693-martin-vecera`,
       orcid: `https://orcid.org/0000-0001-8507-791X`,
       researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-      img: vecera
+      img: vecera,
     },
     {
       id: `drevojan`,
@@ -395,7 +404,7 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/269768-pavel-drevojan`,
       publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
       researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
-      img: drevojan
+      img: drevojan,
     },
     {
       id: `galuskova`,
@@ -403,11 +412,10 @@ export const peopleEn = {
       position: `Researcher (maternity leave)`,
       description: `Hana Galušková graduated in Upper Secondary School Teacher Training in Biology from the Faculty of Science, Masaryk University in 2014. Her master thesis focused on floristic diversity around Uherský Ostroh in southern Moravia. She works as a technician in the Herbarium of Masaryk University.`,
       email: `357936@mail.muni.cz`,
-      phoneNumber: `549494813`, 
-	  img: galuskova
+      phoneNumber: `549494813`,
+      img: galuskova,
     },
- 	  ],
-  
+  ],
 
   phdStudents: [
     {
@@ -418,11 +426,11 @@ export const peopleEn = {
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/528856-joshua-andre-erkelenz`,
-	  orcid: `https://orcid.org/0009-0005-7339-6741`,
+      orcid: `https://orcid.org/0009-0005-7339-6741`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
-      img: erkelenz
+      img: erkelenz,
     },
-	   {
+    {
       id: `fahs`,
       name: `Nina Fahs`,
       position: `PhD student, Researcher`,
@@ -439,11 +447,11 @@ and restoration of semi-natural species-rich grasslands.`,
       email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/528656-nina-fahs`,
-	  researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
-	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
-      img: fahs
+      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
+      orcid: `https://orcid.org/0000-0003-4078-7672`,
+      img: fahs,
     },
-	{
+    {
       id: `franc`,
       name: `Martin Franc`,
       position: `PhD student, Researcher  `,
@@ -451,9 +459,9 @@ and restoration of semi-natural species-rich grasslands.`,
       email: `437048@mail.muni.cz`,
       is: `https://www.muni.cz/en/people/437048-martin-franc`,
       researchgate: `https://www.researchgate.net/profile/Martin_Franc2`,
-	  img: franc
-	  },
-	{
+      img: franc,
+    },
+    {
       id: `hubatka`,
       name: `Petr Hubatka`,
       position: `PhD student, Researcher  `,
@@ -461,8 +469,8 @@ and restoration of semi-natural species-rich grasslands.`,
       email: `460527@mail.muni.cz`,
       is: `https://www.muni.cz/en/people/460527-petr-hubatka`,
       researchgate: `https://www.researchgate.net/profile/Petr-Hubatka`,
-	  orcid: `https://orcid.org/0000-0001-8178-5230`, 
-      img: hubatka
+      orcid: `https://orcid.org/0000-0001-8178-5230`,
+      img: hubatka,
     },
     {
       id: `jaskova`,
@@ -473,10 +481,10 @@ and restoration of semi-natural species-rich grasslands.`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
-	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
-      img: jaskova
+      orcid: `https://orcid.org/0000-0002-3510-1093`,
+      img: jaskova,
     },
-	{
+    {
       id: `klimova`,
       name: `Barbora Klímová`,
       position: `PhD student, Researcher`,
@@ -488,11 +496,11 @@ where, as a part of her PhD studies, she focuses on factors that affect the accu
 geographical models of plant distribution and species richness.`,
       email: `470403@muni.cz`,
       phoneNumber: ``,
-	  is: `https://www.muni.cz/en/people/470403-barbora-klimova`,
+      is: `https://www.muni.cz/en/people/470403-barbora-klimova`,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
-      img: klimova
+      img: klimova,
     },
-	 	  	  {
+    {
       id: `kolenyova`,
       name: `Monika Kolényová`,
       position: `PhD student, Researcher`,
@@ -501,9 +509,9 @@ geographical models of plant distribution and species richness.`,
       phoneNumber: ``,
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
-      img: kolenyova
+      img: kolenyova,
     },
-			  {
+    {
       id: `pustkova`,
       name: `Štěpánka Pustková`,
       position: `Doktorand, výzkumník`,
@@ -511,7 +519,7 @@ geographical models of plant distribution and species richness.`,
       email: `499933@muni.cz`,
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/499933-stepanka-pustkova`,
       orcid: `https://orcid.org/0000-0002-9384-4872`,
-      img: pustkova
+      img: pustkova,
     },
     {
       id: `szokala`,
@@ -522,10 +530,10 @@ geographical models of plant distribution and species richness.`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/512772-daniel-szokala`,
       researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
-	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
-      img: szokala
+      orcid: `https://orcid.org/0000-0002-3593-1791`,
+      img: szokala,
     },
-		    {
+    {
       id: `mones`,
       name: `Gonzalo Velasco Mones`,
       position: `PhD student, Researcher`,
@@ -533,10 +541,10 @@ geographical models of plant distribution and species richness.`,
       email: `gonzalo95nuncius@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
-	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
-	  img: mones
+      researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
+      img: mones,
     },
-   ]
+  ],
 };
 
 export const peopleCz = {
@@ -554,7 +562,7 @@ export const peopleCz = {
       scholar: `https://scholar.google.com/citations?user=scnnn1UAAAAJ&hl=cs&oi=ao`,
       researchgate: `https://www.researchgate.net/profile/Milan_Chytry`,
       personal: `https://www.sci.muni.cz/botany/chytry/index.htm`,
-      img: chytry
+      img: chytry,
     },
     {
       id: `lososova`,
@@ -568,9 +576,9 @@ export const peopleCz = {
       publons: `https://publons.com/researcher/1641861/zdenka-lososova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=E5qC_J8AAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Zdeka_Lososova`,
-      img: lososova
+      img: lososova,
     },
-	{
+    {
       id: `rolecek`,
       name: `Jan Roleček`,
       position: `Docent`,
@@ -582,7 +590,7 @@ export const peopleCz = {
       publons: `https://publons.com/researcher/2518519/jan-rolecek/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=E0X-9JAAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/78391540_Jan_Rolecek`,
-      img: rolecek
+      img: rolecek,
     },
     {
       id: `tesitel`,
@@ -596,7 +604,7 @@ export const peopleCz = {
       publons: `https://publons.com/researcher/2869771/jakub-tesitel/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=ipOViTQAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/46226749_Jakub_Tesitel`,
-      img: tesitel
+      img: tesitel,
     },
     {
       id: `tichy`,
@@ -609,9 +617,9 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0001-8400-7741`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=EqXZ7esAAAAJ`,
       researchgate: `https://www.researchgate.net/scientific-contributions/14637372_Lubomir_Tichy`,
-	  img: tichy
+      img: tichy,
     },
-	    {
+    {
       id: `axmanova`,
       name: `Irena Axmanová`,
       position: `Odborný asistent`,
@@ -621,8 +629,8 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/78388-irena-axmanova`,
       orcid: `https://orcid.org/0000-0001-9440-7976`,
       publons: `https://publons.com/researcher/3126272/irena-axmanova/`,
-      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`, 
-	  img: axmanova
+      researchgate: `https://www.researchgate.net/profile/Irena_Axmanova`,
+      img: axmanova,
     },
     {
       id: `danihelka`,
@@ -636,7 +644,7 @@ export const peopleCz = {
       publons: `https://publons.com/researcher/2523760/jiri-danihelka/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=10pWhfkAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Jii_Danihelka`,
-	  img: danihelka
+      img: danihelka,
     },
     {
       id: `divisek`,
@@ -649,9 +657,9 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0002-5127-5130`,
       publons: `https://publons.com/researcher/2524551/jan-divisek/`,
       researchgate: `https://www.researchgate.net/profile/Jan_Divisek`,
-      img: divisek
+      img: divisek,
     },
-	    {
+    {
       id: `novak`,
       name: `Pavel Novák`,
       position: `Odborný asistent`,
@@ -660,21 +668,21 @@ export const peopleCz = {
       phoneNumber: `549498485`,
       is: `https://www.muni.cz/lide/269109-pavel-novak`,
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
+      img: novak,
     },
-	{
+    {
       id: `klinkovska`,
       name: `Klára Friesová (Klinkovská)`,
       position: `Výzkumník`,
       description: `Klára Klinkovská studovala na Přírodovědecké fakultě Masarykovy univerzity nejprve bakalářský studijní program Ekologická a evoluční biologie a poté magisterský studijní program Botanika se zaměřením na ekologii rostlin. V rámci bakalářské práce se zabývala vegetační charakteristikou geograficky významných prvků květeny v okolí Slavkova u Brna. Ve své diplomové práci se zaměřila na vysokobylinnou stepní vegetaci jižní Moravy. V rámci svého doktorského studia se věnovala změnám nelesní vegetace České republiky v čase. Snaží se přispět k poznání hlavních faktorů způsobujících změny v rostlinných společenstvech a tím také k efektivní ochraně přírody.`,
       email: `474368@mail.muni.cz`,
       phoneNumber: ``,
-	  is: `https://www.muni.cz/lide/474368-klara-klinkovska`,
+      is: `https://www.muni.cz/lide/474368-klara-klinkovska`,
       researchgate: `https://www.researchgate.net/profile/Klara_Klinkovska`,
-	  orcid: `https://orcid.org/0000-0002-1644-2140`, 
-      img: klinkovska
+      orcid: `https://orcid.org/0000-0002-1644-2140`,
+      img: klinkovska,
     },
-	 	       {
+    {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Výzkumník`,
@@ -682,10 +690,10 @@ export const peopleCz = {
       email: `ohajek@sci.muni.cz`,
       phoneNumber: `549494033`,
       is: `https://www.muni.cz/lide/16845-ondrej-hajek`,
-      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`, 
-	  img: hajek
+      researchgate: `https://www.researchgate.net/profile/Ondej_Hajek`,
+      img: hajek,
     },
-	{
+    {
       id: `hanusova`,
       name: `Valérie Hanušová`,
       position: `Výzkumník`,
@@ -693,7 +701,7 @@ export const peopleCz = {
       email: `541000@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://is.muni.cz/osoba/541000?lang=cz`,
-      img: hanusova 
+      img: hanusova,
     },
     {
       id: `holubova`,
@@ -704,9 +712,19 @@ export const peopleCz = {
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/113226-dana-holubova`,
       researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
-      img: holubova
+      img: holubova,
     },
-		{
+    {
+      id: `chytra`,
+      name: `Helena Chytrá`,
+      position: `Výzkumník`,
+      description: `Věnuji se ochranářskému managementu suchých trávníků (včetně inovativních způsobů - vypalování, úhorování) a jejich zakládání a údržbě na orné půdě. Dále se zabývám možnostmi podpory biodiverzity v zemědělské krajině, zejména ve vinohradech. Ve volném čase se věnuji komunitní péči o krajinu.`,
+      email: `chytra@sci.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/lide/103586-helena-chytra`,
+      img: chytra,
+    },
+    {
       id: `chytrykr`,
       name: `Kryštof Chytrý`,
       position: `Researcher`,
@@ -715,12 +733,12 @@ export const peopleCz = {
       phoneNumber: `+420731877397`,
       is: `https://www.muni.cz/en/people/237932-krystof-chytry`,
       orcid: `https://orcid.org/0000-0003-4113-6564`,
-      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry` , 
-	  publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
-	  personal: `https://twitter.com/Kryshpean21`,
-	  img: chytrykr
+      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry`,
+      publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
+      personal: `https://twitter.com/Kryshpean21`,
+      img: chytrykr,
     },
-		{
+    {
       id: `iemelianova`,
       name: `Svitlana Iemelianova`,
       position: `Výzkumník`,
@@ -728,9 +746,9 @@ export const peopleCz = {
       email: `yemelianova.sv@gmail.com`,
       is: `https://www.muni.cz/en/people/242944-svitlana-iemelianova`,
       orcid: `https://orcid.org/0000-0001-5885-3186`,
-      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova` , 
-	  publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
-	  img: iemelianova
+      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova`,
+      publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
+      img: iemelianova,
     },
     {
       id: `kalusova`,
@@ -742,7 +760,7 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/106856-veronika-kalusova`,
       orcid: `https://orcid.org/0000-0002-4270-321X`,
       researchgate: `https://www.researchgate.net/profile/Veronika_Kalusova`,
-      img: kalusova
+      img: kalusova,
     },
     {
       id: `knollova`,
@@ -754,9 +772,9 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/10355-ilona-knollova`,
       orcid: `https://orcid.org/0000-0003-4074-789X`,
       researchgate: `https://www.researchgate.net/profile/Ilona_Knollova`,
-      img: knollova
+      img: knollova,
     },
-	{
+    {
       id: `knotkova`,
       name: `Kateřina Knotková`,
       position: `Výzkumník`,
@@ -764,10 +782,10 @@ export const peopleCz = {
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
-	  orcid: `https://orcid.org/0000-0001-6668-8977`,
-	  researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
-	  img: knotkova
-      },
+      orcid: `https://orcid.org/0000-0001-6668-8977`,
+      researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
+      img: knotkova,
+    },
     {
       id: `kubesova`,
       name: `Svatava Kubešová`,
@@ -779,10 +797,10 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0002-7895-6710`,
       publons: `https://publons.com/researcher/2339456/svatava-kubesova/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=g1_cBe0AAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`, 
-	  img: kubesova
-	    },
-	{
+      researchgate: `https://www.researchgate.net/profile/Svatava_Kubesova`,
+      img: kubesova,
+    },
+    {
       id: `landucci`,
       name: `Flavia Landucci`,
       position: `Výzkumník`,
@@ -794,7 +812,7 @@ export const peopleCz = {
       publons: `https://publons.com/researcher/1282963/flavia-landucci/`,
       scholar: `https://scholar.google.com/citations?hl=cs&user=UJn3DmQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Flavia_Landucci`,
-	  img: landucci
+      img: landucci,
     },
     {
       id: `preislerova`,
@@ -805,7 +823,7 @@ export const peopleCz = {
       phoneNumber: `549498477`,
       is: `https://www.muni.cz/lide/10230-zdenka-preislerova`,
       researchgate: `https://www.researchgate.net/profile/Zdenka_Preislerova`,
-	  img: preislerova
+      img: preislerova,
     },
     {
       id: `reznickova`,
@@ -816,7 +834,7 @@ export const peopleCz = {
       phoneNumber: `549498488`,
       is: `https://www.muni.cz/lide/19437-marcela-reznickova`,
       researchgate: `https://www.researchgate.net/profile/Marcela_Reznickova`,
-      img: reznickova
+      img: reznickova,
     },
     {
       id: `smerdova`,
@@ -826,12 +844,12 @@ export const peopleCz = {
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/lide/75764-eva-smerdova`,
-	  orcid: `https://orcid.org/0000-0003-4589-6317`,
-	  researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2` , 
-	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
-      img: smerdova
+      orcid: `https://orcid.org/0000-0003-4589-6317`,
+      researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2`,
+      publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
+      img: smerdova,
     },
-	{
+    {
       id: `sobotka`,
       name: `Vojtěch Sobotka`,
       position: `Výzkumník  `,
@@ -839,21 +857,21 @@ export const peopleCz = {
       email: `sobotka.v@sci.muni.cz`,
       phoneNumber: ``,
       is: `https://is.muni.cz/osoba/484029?lang=cs`,
-      orcid: `https://orcid.org/0000-0002-0668-3258`, 
-      img: sobotka
+      orcid: `https://orcid.org/0000-0002-0668-3258`,
+      img: sobotka,
     },
-       
-	   {
+
+    {
       id: `tesitelova`,
       name: `Tamara Těšitelová`,
       position: `Výzkumník`,
       description: `Tamara Těšitelová vystudovala botaniku na Přírodovědecké fakultě Jihočeské univerzity, kde v roce 2014 obhájila disertační práci s názvem „Ekologické a evoluční důsledky závislosti orchidejí na mykorhizních houbách“. Pro studium orchideoidní mykorhizy využila pestrou škálu přístupů od terénních experimentů s vyséváním orchidejových semen, izolace a molekulární identifikace hub, včetně metabarkódování environmentální DNA, a fylogenetických analýz až po elektronovou mikroskopii či složení stabilních izotopů. Na Ústavu botaniky a zoologie MU působí od roku 2021 a věnuje se zde využití poloparazitických rostlin pro potlačení invazních rostlinných druhů a také využití databází pro studium ekologie mykoheterotrofních rostlin. Nadále pracuje i na Jihočeské univerzitě především na otázkách antropogenního ovlivnění společenstev orchideoidních hub v půdě a využití houbového inokula pro obnovu populací orchidejí v přírodě.`,
       email: `tamara.malinova@centrum.cz`,
       is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
-	  orcid: `https://orcid.org/0000-0001-6901-6359`,
-	  img: tesitelova
+      orcid: `https://orcid.org/0000-0001-6901-6359`,
+      img: tesitelova,
     },
-	{
+    {
       id: `vecera`,
       name: `Martin Večeřa`,
       position: `Výzkumník`,
@@ -863,7 +881,7 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/357693-martin-vecera`,
       orcid: `https://orcid.org/0000-0001-8507-791X`,
       researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-      img: vecera
+      img: vecera,
     },
     {
       id: `drevojan`,
@@ -876,7 +894,7 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0003-0802-3509`,
       publons: `https://publons.com/researcher/1805476/pavel-drevojan/`,
       researchgate: `https://www.researchgate.net/profile/Pavel_Devojan`,
-      img: drevojan
+      img: drevojan,
     },
     {
       id: `galuskova`,
@@ -886,12 +904,11 @@ export const peopleCz = {
       email: `357936@mail.muni.cz`,
       phoneNumber: `549494813`,
       is: `https://www.muni.cz/lide/357936-hana-galuskova`,
-	  img: galuskova
+      img: galuskova,
     },
-	  	
-		],
+  ],
   phdStudents: [
-      {
+    {
       id: `erkelenz`,
       name: `Joshua André Erkelenz`,
       position: `Doktorand`,
@@ -899,11 +916,11 @@ export const peopleCz = {
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/528856-joshua-andre-erkelenz`,
-	  orcid: `https://orcid.org/0009-0005-7339-6741`,
+      orcid: `https://orcid.org/0009-0005-7339-6741`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
-      img: erkelenz
+      img: erkelenz,
     },
-	{
+    {
       id: `fahs`,
       name: `Nina Fahs`,
       position: `Doktorand, výzkumník`,
@@ -912,10 +929,10 @@ export const peopleCz = {
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/528656-nina-fahs`,
       researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
-	  orcid: `https://orcid.org/0000-0003-4078-7672`, 
-      img: fahs
+      orcid: `https://orcid.org/0000-0003-4078-7672`,
+      img: fahs,
     },
-	{
+    {
       id: `franc`,
       name: `Martin Franc`,
       position: `Doktorand, výzkumník`,
@@ -923,18 +940,18 @@ export const peopleCz = {
       email: `437048@mail.muni.cz`,
       is: `https://www.muni.cz/en/people/437048-martin-franc`,
       researchgate: `https://www.researchgate.net/profile/Martin_Franc2`,
-	  img: franc
+      img: franc,
     },
-		{
+    {
       id: `hubatka`,
       name: `Petr Hubatka`,
       position: `Doktorand, výzkumník  `,
       description: `Petr Hubatka vystudoval v roce 2023 magisterský obor Botanika na Přírodovědecké fakultě Masarykovy univerzity. Ve své diplomové práci se zabýval flórou a vegetací polních mokřadů na jižní Moravě. Nyní se v doktorském studiu zabývá diverzitou a ekologií opadavých doubrav v jihovýchodní Evropě. Zajímá ho flóra a vegetace Evropy a faktory, které ovlivňují jejich podobu.`,
-	  email: `460527@mail.muni.cz`,
+      email: `460527@mail.muni.cz`,
       is: `https://www.muni.cz/en/people/460527-petr-hubatka`,
       researchgate: `https://www.researchgate.net/profile/Petr-Hubatka`,
-	  orcid: `https://orcid.org/0000-0001-8178-5230`, 
-      img: hubatka      
+      orcid: `https://orcid.org/0000-0001-8178-5230`,
+      img: hubatka,
     },
     {
       id: `jaskova`,
@@ -945,10 +962,10 @@ export const peopleCz = {
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
-	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
-      img: jaskova
+      orcid: `https://orcid.org/0000-0002-3510-1093`,
+      img: jaskova,
     },
-	{
+    {
       id: `klimova`,
       name: `Barbora Klímová`,
       position: `Doktorand, výzkumník`,
@@ -957,10 +974,10 @@ export const peopleCz = {
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/470403-barbora-klimova`,
       researchgate: `https://www.researchgate.net/profile/Barbora_Klimova`,
-	  orcid: ``, 
-      img: klimova
+      orcid: ``,
+      img: klimova,
     },
-	 	  {
+    {
       id: `kolenyova`,
       name: `Monika Kolényová`,
       position: `Doktorand, výzkumník`,
@@ -969,9 +986,9 @@ export const peopleCz = {
       phoneNumber: `549498397`,
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
-      img: kolenyova
+      img: kolenyova,
     },
-		  {
+    {
       id: `pustkova`,
       name: `Štěpánka Pustková`,
       position: `Doktorand, výzkumník`,
@@ -979,9 +996,9 @@ export const peopleCz = {
       email: `499933@muni.cz`,
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/499933-stepanka-pustkova`,
       orcid: `https://orcid.org/0000-0002-9384-4872`,
-      img: pustkova
+      img: pustkova,
     },
-	{
+    {
       id: `szokala`,
       name: `Daniel Szokala`,
       position: `Doktorand, výzkumník`,
@@ -990,10 +1007,10 @@ export const peopleCz = {
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/512772-daniel-szokala`,
       researchgate: `https://www.researchgate.net/profile/Daniel_Szokala`,
-	  orcid: `https://orcid.org/0000-0002-3593-1791`, 
-      img: szokala
+      orcid: `https://orcid.org/0000-0002-3593-1791`,
+      img: szokala,
     },
-			    {
+    {
       id: `mones`,
       name: `Gonzalo Velasco Mones`,
       position: `Doktorand, výzkumník`,
@@ -1001,428 +1018,425 @@ export const peopleCz = {
       email: `gonzalo95nuncius@gmail.com`,
       phoneNumber: ``,
       is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
-	  researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
-	  img: mones
+      researchgate: `https://www.researchgate.net/profile/Gonzalo-Velasco-Mones`,
+      img: mones,
     },
-    ]
+  ],
 };
 
 export const formerPeople = [
-
-{
+  {
     name: `Mirjana Ćuk (2023–2024)`,
-    email: `mirjana.cuk.rs@gmail.com`
+    email: `mirjana.cuk.rs@gmail.com`,
   },
-{
+  {
     name: `Marta Gaia Sperandii (2022–2024)`,
-    email: `martagaia.sperandii@uniroma3.it`
+    email: `martagaia.sperandii@uniroma3.it`,
   },
-{
+  {
     name: `Markéta Táborská (2012–2024)`,
-    email: `taborska.mar@gmail.com`
+    email: `taborska.mar@gmail.com`,
   },
-{
+  {
     name: `Dariia Borovyk (Shyriaieva) (2022–2024)`,
-    email: `dariiaborovyk@gmail.com`
+    email: `dariiaborovyk@gmail.com`,
   },
-{
+  {
     name: `Adam Knotek (2022–2024)`,
-    email: `fruticulus@gmail.com`
+    email: `fruticulus@gmail.com`,
   },
-{
+  {
     name: `Agathe Toumoulin (2022–2023)`,
-    email: `agathe.toumoulin@gmail.com`
+    email: `agathe.toumoulin@gmail.com`,
   },
-{
+  {
     name: `Ricarda Pätsch (2021–2023)`,
-    email: `ricarda.paetsch@gmail.com`
-  },  {
+    email: `ricarda.paetsch@gmail.com`,
+  },
+  {
     name: `Petra Štěpánková (2014–2023)`,
-    email: `petra.stepankova@lipka.cz`
-  },    
+    email: `petra.stepankova@lipka.cz`,
+  },
   {
     name: `Natálie Čeplová (2009–2023)`,
-    email: `ceplova@ped.muni.cz`
-  },  
+    email: `ceplova@ped.muni.cz`,
+  },
   {
     name: `Gianluigi Ottaviani (2022–2023)`,
-    email: `gianluigi.ottaviani@gmail.com`
-  },  
-    {name: `Gabriele Midolo (2021–2023)`,
-    email: `gabriele.midolo@gmail.com`
+    email: `gianluigi.ottaviani@gmail.com`,
   },
-    {
+  { name: `Gabriele Midolo (2021–2023)`, email: `gabriele.midolo@gmail.com` },
+  {
     name: `Dominik Zukal (2015–2022)`,
-    email: `375623@mail.muni.cz`
+    email: `375623@mail.muni.cz`,
   },
   {
     name: `Josep Padullés Cubino (2019–2022)`,
-    email: `padullesj@gmail.com `
+    email: `padullesj@gmail.com `,
   },
   {
     name: `Corrado Marcenò (2019–2022)`,
-    email: `marcenocorrado@libero.it`
+    email: `marcenocorrado@libero.it`,
   },
-    {
+  {
     name: `Felícia Miranda Fischer (2019–2021)`,
-    email: `feliciafischerster@gmail.com`
+    email: `feliciafischerster@gmail.com`,
   },
-    {
+  {
     name: `Lars Götzenberger (2018–2020)`,
-    email: `lars.goetzenberger@gmail.com`
+    email: `lars.goetzenberger@gmail.com`,
   },
   {
     name: `Markéta Chudomelová (2013–2020)`,
-    email: `marketa.chudomelova@ibot.cas.cz`
+    email: `marketa.chudomelova@ibot.cas.cz`,
   },
   {
     name: `Veronika Kalníková (2011–2020)`,
-    email: `V.Kalnikova@seznam.cz`
+    email: `V.Kalnikova@seznam.cz`,
   },
   {
     name: `Šárka Špániková (2019–2020)`,
-    email: `408322@mail.muni.cz`
+    email: `408322@mail.muni.cz`,
   },
   {
     name: `Anna Kuzemko (2019–2020)`,
-    email: `anyameadow.ak@gmail.com`
+    email: `anyameadow.ak@gmail.com`,
   },
   {
     name: `Denys Vynokurov (2019–2020)`,
-    email: `denys.vynokurov@gmail.com`
+    email: `denys.vynokurov@gmail.com`,
   },
   {
     name: `Gianmaria Bonari (2017–2019)`,
-    email: `gianmaria.bonari@gmail.com`
+    email: `gianmaria.bonari@gmail.com`,
   },
-   {
+  {
     name: `Salza Palpurina (2010–2017)`,
-    email: `salza.palpurina@gmail.com`
+    email: `salza.palpurina@gmail.com`,
   },
-    {
+  {
     name: `Viktoria Wagner (2013–2016)`,
-    email: `viktoria.wagner@ualberta.ca`
+    email: `viktoria.wagner@ualberta.ca`,
   },
   {
     name: `Borja Jiménez-Alfaro (2013–2016)`,
-    email: `jimenezalfaro.borja@gmail.com`
-  },
-    {
-    name: `David Zelený (2005–2015)`,
-    email: `zeleny.david@gmail.com`
+    email: `jimenezalfaro.borja@gmail.com`,
   },
   {
-    name: `Ching-Feng Li (2006–2015)`
+    name: `David Zelený (2005–2015)`,
+    email: `zeleny.david@gmail.com`,
   },
-    {
+  {
+    name: `Ching-Feng Li (2006–2015)`,
+  },
+  {
     name: `Marie Vymazalová (2007–2014)`,
-    email: `meri@seznam.cz`
+    email: `meri@seznam.cz`,
   },
   {
     name: `Kristína Merunková (2006–2013)`,
-    email: `KristinaMerunkova@seznam.cz`
+    email: `KristinaMerunkova@seznam.cz`,
   },
-   {
+  {
     name: `Barbora Pelánková (2004–2009)`,
-    email: `bpelankova@gmail.com`
+    email: `bpelankova@gmail.com`,
   },
   {
     name: `Deana Láníková (2004–2009)`,
-    email: `deanas@seznam.cz`
+    email: `deanas@seznam.cz`,
   },
 ];
 
 export const visitingScientistsCz = [
-
-{    
-	name: `Francesco Candini (Itálie, 2025)`
-  },
-{
-    name: `Simone Eusebio Bergò (Itálie, 2025)`
+  {
+    name: `Francesco Candini (Itálie, 2025)`,
   },
   {
-    name: `Irati Sanz-Zubizarreta (Španělsko, 2025)`
+    name: `Simone Eusebio Bergò (Itálie, 2025)`,
   },
   {
-    name: `Behlül Güler (Turecko, 2024)`
+    name: `Irati Sanz-Zubizarreta (Španělsko, 2025)`,
   },
   {
-    name: `Simona Sarmati (Itálie, 2024)`
+    name: `Behlül Güler (Turecko, 2024)`,
   },
   {
-    name: `Federica Bonini (Itálie, 2023)`
+    name: `Simona Sarmati (Itálie, 2024)`,
   },
   {
-    name: `Hsun-Hung Chu (Taiwan, 2023)`
-  },  
-{
-    name: `Safiya Praleskouskaya (Itálie, 2022)`
-  },
-{
-    name: `Dario Ciaramella (Itálie, 2022)`
-  },
-{
-    name: `Filip Küzmič (Slovinsko, 2022)`
+    name: `Federica Bonini (Itálie, 2023)`,
   },
   {
-    name: `Dariia Shyriaieva (Ukrajina, 2021)`
+    name: `Hsun-Hung Chu (Taiwan, 2023)`,
   },
   {
-    name: `Tatyana Vakhlamova (Kazachstán, 2021)`
-  }, 
-  {
-    name: `Marc Riera (Španělsko, 2021)`
-  },
-   {
-    name: `Tiina Kolari (Finsko, 2019)`
+    name: `Safiya Praleskouskaya (Itálie, 2022)`,
   },
   {
-    name: `Teemu Tahvanainen (Finsko, 2019)`
-  },
-    {
-    name: `Silvia Cannucci (Itálie, 2019)`
+    name: `Dario Ciaramella (Itálie, 2022)`,
   },
   {
-    name: `Charlotte Ndiribe (Nigérie, 2018–2019)`
+    name: `Filip Küzmič (Slovinsko, 2022)`,
   },
   {
-    name: `Hamid Gholizadeh (Írán, 2018)`
+    name: `Dariia Shyriaieva (Ukrajina, 2021)`,
   },
   {
-    name: `Filip Küzmič (Slovinsko, 2018)`
+    name: `Tatyana Vakhlamova (Kazachstán, 2021)`,
   },
   {
-    name: `Ekaterina Petrunenko (Rusko, 2017–2018)`
+    name: `Marc Riera (Španělsko, 2021)`,
   },
   {
-    name: `Nicola Alessi (Itálie, 2017)`
+    name: `Tiina Kolari (Finsko, 2019)`,
   },
   {
-    name: `Emanuele Fanfarillo (Itálie, 2017)`
+    name: `Teemu Tahvanainen (Finsko, 2019)`,
   },
   {
-    name: `Martina Vanini (Itálie, 2017)`
+    name: `Silvia Cannucci (Itálie, 2019)`,
   },
   {
-    name: `Katarína Mikulová (Slovensko, 2016–2017)`
+    name: `Charlotte Ndiribe (Nigérie, 2018–2019)`,
   },
   {
-    name: `Elisa Belmonte (Itálie, 2016)`
+    name: `Hamid Gholizadeh (Írán, 2018)`,
   },
   {
-    name: `Elena Brianskaia (Německo/Rusko, 2016)`
+    name: `Filip Küzmič (Slovinsko, 2018)`,
   },
   {
-    name: `Corrado Marcenò (Itálie, 2016)`
+    name: `Ekaterina Petrunenko (Rusko, 2017–2018)`,
   },
   {
-    name: `Gianmaria Bonari (Itálie, 2015)`
+    name: `Nicola Alessi (Itálie, 2017)`,
   },
   {
-    name: `Marta Czarniecka-Wiera (Polsko, 2015)`
+    name: `Emanuele Fanfarillo (Itálie, 2017)`,
   },
   {
-    name: `Cloé Levointurier-Vajda (Francie, 2015)`
+    name: `Martina Vanini (Itálie, 2017)`,
   },
   {
-    name: `José Valentín Roces Díaz (Španělsko, 2015)`
+    name: `Katarína Mikulová (Slovensko, 2016–2017)`,
   },
   {
-    name: `Yi-Shin Chian (Taiwan, 2014–2015)`
+    name: `Elisa Belmonte (Itálie, 2016)`,
   },
   {
-    name: `Corrado Marcenò (Itálie, 2014)`
+    name: `Elena Brianskaia (Německo/Rusko, 2016)`,
   },
   {
-    name: `Miquel De Cáceres (Španělsko, 2013)`
+    name: `Corrado Marcenò (Itálie, 2016)`,
   },
   {
-    name: `María Pilar Rodríguez-Rojo (Španělsko, 2013)`
+    name: `Gianmaria Bonari (Itálie, 2015)`,
   },
   {
-    name: `Nicola Alessi (Itálie, 2012)`
+    name: `Marta Czarniecka-Wiera (Polsko, 2015)`,
   },
   {
-    name: `Gianmaria Bonari (Itálie, 2012)`
+    name: `Cloé Levointurier-Vajda (Francie, 2015)`,
   },
   {
-    name: `Adrian Indreica (Rumunsko, 2012)`
+    name: `José Valentín Roces Díaz (Španělsko, 2015)`,
   },
   {
-    name: `Elia Angelini (Itálie, 2011)`
+    name: `Yi-Shin Chian (Taiwan, 2014–2015)`,
   },
   {
-    name: `Donald A. (Skip) Walker (USA, 2011)`
+    name: `Corrado Marcenò (Itálie, 2014)`,
   },
   {
-    name: `Flavia Landucci (Itálie, 2010–2011)`
+    name: `Miquel De Cáceres (Španělsko, 2013)`,
   },
   {
-    name: `Cheng-Tao Lin (Taiwan, 2010)`
+    name: `María Pilar Rodríguez-Rojo (Španělsko, 2013)`,
   },
   {
-    name: `Daniela Dúbravková (Slovensko, 2008)`
+    name: `Nicola Alessi (Itálie, 2012)`,
   },
   {
-    name: `Attila Lengyel (Maďarsko, 2008)`
+    name: `Gianmaria Bonari (Itálie, 2012)`,
   },
   {
-    name: `Anna Szabó (Rumunsko, 2006)`
+    name: `Adrian Indreica (Rumunsko, 2012)`,
   },
   {
-    name: `Eszter Illyés (Maďarsko, 2005)`
+    name: `Elia Angelini (Itálie, 2011)`,
   },
   {
-    name: `Rossen Tzonev (Bulharsko, 2004)`
+    name: `Donald A. (Skip) Walker (USA, 2011)`,
   },
   {
-    name: `Zoltán Botta-Dukát (Maďarsko, 2003)`
-  }
+    name: `Flavia Landucci (Itálie, 2010–2011)`,
+  },
+  {
+    name: `Cheng-Tao Lin (Taiwan, 2010)`,
+  },
+  {
+    name: `Daniela Dúbravková (Slovensko, 2008)`,
+  },
+  {
+    name: `Attila Lengyel (Maďarsko, 2008)`,
+  },
+  {
+    name: `Anna Szabó (Rumunsko, 2006)`,
+  },
+  {
+    name: `Eszter Illyés (Maďarsko, 2005)`,
+  },
+  {
+    name: `Rossen Tzonev (Bulharsko, 2004)`,
+  },
+  {
+    name: `Zoltán Botta-Dukát (Maďarsko, 2003)`,
+  },
 ];
 
 export const visitingScientistsEn = [
-{    
-	name: `Francesco Candini (Italy, 2025)`
-  },
-{
-    name: `Simone Eusebio Bergò (Italy, 2025)`
+  {
+    name: `Francesco Candini (Italy, 2025)`,
   },
   {
-    name: `Irati Sanz-Zubizarreta (Spain, 2025)`
+    name: `Simone Eusebio Bergò (Italy, 2025)`,
   },
   {
-    name: `Behlül Güler (Turkey, 2024)`
+    name: `Irati Sanz-Zubizarreta (Spain, 2025)`,
   },
   {
-    name: `Simona Sarmati (Italy, 2024)`
+    name: `Behlül Güler (Turkey, 2024)`,
   },
   {
-    name: `Federica Bonini (Italy, 2023)`
+    name: `Simona Sarmati (Italy, 2024)`,
   },
   {
-    name: `Hsun-Hung Chu (Taiwan, 2023)`
-  }, 
-{
-    name: `Safiya Praleskouskaya (Italy, 2022)`
-  },
-{
-    name: `Dario Ciaramella (Italy, 2022)`
-  },
-{
-    name: `Filip Küzmič (Slovenia, 2022)`
-  },
-{
-name: `Dariia Shyriaieva (Ukraine, 2021)`
+    name: `Federica Bonini (Italy, 2023)`,
   },
   {
-    name: `Tatyana Vakhlamova (Kazakhstan, 2021)`
-  }, 
-  {
-    name: `Marc Riera (Spain, 2021)`
+    name: `Hsun-Hung Chu (Taiwan, 2023)`,
   },
   {
-    name: `Tiina Kolari (Finland, 2019)`
+    name: `Safiya Praleskouskaya (Italy, 2022)`,
   },
   {
-    name: `Teemu Tahvanainen (Finland, 2019)`
-  },
-    {
-    name: `Silvia Cannucci (Italy, 2019)`
+    name: `Dario Ciaramella (Italy, 2022)`,
   },
   {
-    name: `Charlotte Ndiribe (Nigeria, 2018–2019)`
+    name: `Filip Küzmič (Slovenia, 2022)`,
   },
   {
-    name: `Hamid Gholizadeh (Iran, 2018)`
+    name: `Dariia Shyriaieva (Ukraine, 2021)`,
   },
   {
-    name: `Filip Küzmič (Slovenia, 2018)`
+    name: `Tatyana Vakhlamova (Kazakhstan, 2021)`,
   },
   {
-    name: `Ekaterina Petrunenko (Russia, 2017–2018)`
+    name: `Marc Riera (Spain, 2021)`,
   },
   {
-    name: `Nicola Alessi (Italy, 2017)`
+    name: `Tiina Kolari (Finland, 2019)`,
   },
   {
-    name: `Emanuele Fanfarillo (Italy, 2017)`
+    name: `Teemu Tahvanainen (Finland, 2019)`,
   },
   {
-    name: `Martina Vanini (Italy, 2017)`
+    name: `Silvia Cannucci (Italy, 2019)`,
   },
   {
-    name: `Katarína Mikulová (Slovakia, 2016–2017)`
+    name: `Charlotte Ndiribe (Nigeria, 2018–2019)`,
   },
   {
-    name: `Elisa Belmonte (Italy, 2016)`
+    name: `Hamid Gholizadeh (Iran, 2018)`,
   },
   {
-    name: `Elena Brianskaia (Germany/Russia, 2016)`
+    name: `Filip Küzmič (Slovenia, 2018)`,
   },
   {
-    name: `Corrado Marcenò (Italy, 2016)`
+    name: `Ekaterina Petrunenko (Russia, 2017–2018)`,
   },
   {
-    name: `Gianmaria Bonari (Italy, 2015)`
+    name: `Nicola Alessi (Italy, 2017)`,
   },
   {
-    name: `Marta Czarniecka-Wiera (Poland, 2015)`
+    name: `Emanuele Fanfarillo (Italy, 2017)`,
   },
   {
-    name: `Cloé Levointurier-Vajda (France, 2015)`
+    name: `Martina Vanini (Italy, 2017)`,
   },
   {
-    name: `José Valentín Roces Díaz (Spain, 2015)`
+    name: `Katarína Mikulová (Slovakia, 2016–2017)`,
   },
   {
-    name: `Yi-Shin Chian (Taiwan, 2014–2015)`
+    name: `Elisa Belmonte (Italy, 2016)`,
   },
   {
-    name: `Corrado Marcenò (Italy, 2014)`
+    name: `Elena Brianskaia (Germany/Russia, 2016)`,
   },
   {
-    name: `Miquel De Cáceres (Spain, 2013)`
+    name: `Corrado Marcenò (Italy, 2016)`,
   },
   {
-    name: `María Pilar Rodríguez-Rojo (Spain, 2013)`
+    name: `Gianmaria Bonari (Italy, 2015)`,
   },
   {
-    name: `Nicola Alessi (Italy, 2012)`
+    name: `Marta Czarniecka-Wiera (Poland, 2015)`,
   },
   {
-    name: `Gianmaria Bonari (Italy, 2012)`
+    name: `Cloé Levointurier-Vajda (France, 2015)`,
   },
   {
-    name: `Adrian Indreica (Romania, 2012)`
+    name: `José Valentín Roces Díaz (Spain, 2015)`,
   },
   {
-    name: `Elia Angelini (Italy, 2011)`
+    name: `Yi-Shin Chian (Taiwan, 2014–2015)`,
   },
   {
-    name: `Donald A. (Skip) Walker (USA, 2011)`
+    name: `Corrado Marcenò (Italy, 2014)`,
   },
   {
-    name: `Flavia Landucci (Italy, 2010–2011)`
+    name: `Miquel De Cáceres (Spain, 2013)`,
   },
   {
-    name: `Cheng-Tao Lin (Taiwan, 2010)`
+    name: `María Pilar Rodríguez-Rojo (Spain, 2013)`,
   },
   {
-    name: `Daniela Dúbravková (Slovakia, 2008)`
+    name: `Nicola Alessi (Italy, 2012)`,
   },
   {
-    name: `Attila Lengyel (Hungary, 2008)`
+    name: `Gianmaria Bonari (Italy, 2012)`,
   },
   {
-    name: `Anna Szabó (Romania, 2006)`
+    name: `Adrian Indreica (Romania, 2012)`,
   },
   {
-    name: `Eszter Illyés (Hungary, 2005)`
+    name: `Elia Angelini (Italy, 2011)`,
   },
   {
-    name: `Rossen Tzonev (Bulgaria, 2004)`
+    name: `Donald A. (Skip) Walker (USA, 2011)`,
   },
   {
-    name: `Zoltán Botta-Dukát (Hungary, 2003)`
-  }
+    name: `Flavia Landucci (Italy, 2010–2011)`,
+  },
+  {
+    name: `Cheng-Tao Lin (Taiwan, 2010)`,
+  },
+  {
+    name: `Daniela Dúbravková (Slovakia, 2008)`,
+  },
+  {
+    name: `Attila Lengyel (Hungary, 2008)`,
+  },
+  {
+    name: `Anna Szabó (Romania, 2006)`,
+  },
+  {
+    name: `Eszter Illyés (Hungary, 2005)`,
+  },
+  {
+    name: `Rossen Tzonev (Bulgaria, 2004)`,
+  },
+  {
+    name: `Zoltán Botta-Dukát (Hungary, 2003)`,
+  },
 ];
