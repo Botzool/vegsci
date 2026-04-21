@@ -175,6 +175,12 @@
 
   phdThesesList: [
   {
+      name: `Changes in vegetation and flora of the Czech Republic`,
+      link: `https://is.muni.cz/th/b9gpr/`,
+      author: "Klára Friesová (Klinkovská)",
+      year: "2026"
+    }, 
+  {
       name: `Interactions between hemiparasites and invasive plants of grassland habitats`,
       link: `https://is.muni.cz/th/jrpk1/`,
       author: "Kateřina Knotková",
@@ -496,6 +502,12 @@ export const thesesCz = {
   ],
 
   phdThesesList: [
+  {
+      name: `Změny vegetace a flóry České republiky`,
+      link: `https://is.muni.cz/th/b9gpr/`,
+      author: "Klára Friesová (Klinkovská)",
+      year: "2026"
+    },
    {
       name: `Interakce mezi poloparazitickými a invazními rostlinami v travinných společenstvech`,
       link: `https://is.muni.cz/th/jrpk1/`,
