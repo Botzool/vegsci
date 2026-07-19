@@ -174,6 +174,12 @@
   ],
 
   phdThesesList: [
+   {
+      name: `Microhabitats of lignicolous fungi`,
+      link: `https://is.muni.cz/th/ikvy5/Thesis_Kolenyova_HIDDEN_PART.pdf?info=1`,
+      author: "Monika Kolényová",
+      year: "2026"
+    },
   {
       name: `Changes in vegetation and flora of the Czech Republic`,
       link: `https://is.muni.cz/th/b9gpr/`,
@@ -502,6 +508,12 @@ export const thesesCz = {
   ],
 
   phdThesesList: [
+   {
+      name: `Mikrohabitaty lignikolních druhů hub`,
+      link: `https://is.muni.cz/th/ikvy5/Thesis_Kolenyova_HIDDEN_PART.pdf?info=1`,
+      author: "Monika Kolényová",
+      year: "2026"
+    },
   {
       name: `Změny vegetace a flóry České republiky`,
       link: `https://is.muni.cz/th/b9gpr/`,
