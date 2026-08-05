@@ -52,6 +52,8 @@ import pustkova from "../../static/images/people/pustkova.jpg";
 import sobotka from "../../static/images/people/sobotka.jpg";
 import hanusova from "../../static/images/people/hanusova.jpg";
 import chytra from "../../static/images/people/chytra.jpg";
+import karnail from "../../static/images/people/karnail.jpg";
+import kellermannova from "../../static/images/people/kellermannova.jpg";
 
 export const peopleEn = {
   employees: [
@@ -482,6 +484,30 @@ and restoration of semi-natural species-rich grasslands.`,
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       orcid: `https://orcid.org/0000-0002-3510-1093`,
       img: jaskova,
+    },
+	{
+      id: `karnail`,
+      name: `Anisha Ajay Karnail`,
+      position: `PhD student, Researcher  `,
+      description: `Anisha Karnail studied biology at Indian Institute of Science Education and Research, Pune in India. She completed her Master’s project in 2022, analyzing tree growth patterns against environmental gradients in different forest types of southern India. After brief stints in science communication and urban ecology research, she joined the Vegetation Science Group as a Ph.D. student in 2026. Anisha's thesis focuses on the ecophysiological interactions of parasitic mistletoe and its host tree species in central Europe. Her broad research interests are in biodiversity conservation, restoration, and urban sustainability.`,
+      email: `590504@muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/590504-anisha-ajay-karnail`,
+      researchgate: ``,
+	  orcid: ``, 
+      img: karnail,
+    },	
+	{
+      id: `kellermannova`,
+      name: `Julia Kellermannová`,
+      position: `PhD student, Researcher  `,
+      description: ``,
+      email: `499970@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/499970`,
+      researchgate: ``,
+	  orcid: ``, 
+      img: kellermannova,
     },
     {
       id: `klimova`,
@@ -963,6 +989,30 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       orcid: `https://orcid.org/0000-0002-3510-1093`,
       img: jaskova,
+    },
+		{
+      id: `karnail`,
+      name: `Anisha Ajay Karnail`,
+      position: `Doktorand, výzkumník`,
+      description: `Anisha Karnail vystudovala biologii na Indickém institutu pro vědecké vzdělávání a výzkum v Pune v Indii. V roce 2022 dokončila svůj magisterský projekt, v němž analyzovala vzorce růstu stromů v závislosti na gradientech prostředí v různých typech lesů jižní Indie. Po krátkém působení v oblasti vědecké komunikace a výzkumu městské ekologie, se od roku 2026 ve svém doktorském studiu zabývá ekofyziologickými interakcemi parazitického jmelí a jeho hostitelských druhů stromů ve střední Evropě. Její široké výzkumné zájmy se týkají ochrany biodiverzity, obnovy a udržitelnosti měst.`,
+      email: `590504@muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/lide/590504-anisha-ajay-karnail`,
+      researchgate: ``,
+	  orcid: ``, 
+      img: karnail,
+    },	
+		{
+      id: `kellermannova`,
+      name: `Julia Kellermannová`,
+      position: `Doktorand, výzkumník`,
+      description: `Julia Kellermannová vystudovala bakalářský obor Biologie a Ekologie, a následně magisterský obor Botanika na Univerzitě Palackého v Olomouci. Ve své bakalářské i diplomové práci se věnovala funkční variabilitě lesních druhů bylin na lokálním gradientu prostředí. V rámci svého doktorského studia se bude zabývat vegetačními, floristickými a funkčními změnami Evropských mokřadů. Cílem této práce bude kromě zjištění trendů a faktorů změn, také tvorba Evropské databáze opakovaných snímků mokřadní vegetace a optimalizace managementových zásahů a revitalizací těchto typů stanovišť.`,
+      email: `499970@mail.muni.cz`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/lide/499970`,
+      researchgate: ``,
+	  orcid: ``, 
+      img: kellermannova,
     },
     {
       id: `klimova`,
