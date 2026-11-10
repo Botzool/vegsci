@@ -1053,11 +1053,9 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
-
-
 {
-    name: `Joshua André Erkelenz (2022–2026)`,
-    email: `j.a.erkelenz@gmail.com)`,
+    name: `Joshua André Erkelenz (2021–2026)`,
+    email: `j.a.erkelenz@gmail.com`,
   },
   {
     name: `Mirjana Ćuk (2023–2024)`,
