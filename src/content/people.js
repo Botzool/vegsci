@@ -203,6 +203,27 @@ export const peopleEn = {
       personal: `https://twitter.com/Kryshpean21`,
       img: chytrykr,
     },
+	      {
+      id: `fahs`,
+      name: `Nina Fahs`,
+      position: `Researcher`,
+      description: `Nina Fahs graduated in International Technical and Applied Biology from the
+City University of Applied Sciences in Bremen, Germany. After finishing her
+Master’s project, for which Nina was working on the description and
+classification of mesic alluvial grasslands in northern Germany, she joined the
+Vegetation Science Group as a Ph.D. student in 2020. For her doctoral studies
+she now investigates the multi-faceted interaction between hemiparasitic plants
+and legumes, with a focus on grassland communities. Nina’s broad interests are
+the field of Geobotany, the use of extensive vegetation-plot databases for both
+basic and applied research and Nature Conservation, especially the conservation
+and restoration of semi-natural species-rich grasslands.`,
+      email: `nina@sci.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/en/people/528656-nina-fahs`,
+      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
+      orcid: `https://orcid.org/0000-0003-4078-7672`,
+      img: fahs,
+    },
     {
       id: `klinkovska`,
       name: `Klára Friesová (Klinkovská)`,
@@ -419,39 +440,7 @@ export const peopleEn = {
   ],
 
   phdStudents: [
-    {
-      id: `erkelenz`,
-      name: `Joshua André Erkelenz`,
-      position: `PhD student, Researcher`,
-      description: `Joshua Erkelenz studied forestry and forest ecology at the Georg-August University in Göttingen, Germany. Prior to and during his tropical and international forestry Master Program, he conducted several research projects abroad and graduated with a thesis on patterns of functional diversity on the oceanic island of Tenerife. Continuing in this exciting field of ecological research, he now studies functional and phylogenetic diversity in forest communities along elevational gradients in European mountain ranges at the Department of botany and zoology as part of his Ph.D. He devotes some of his time to the cultivation of tropical and subtropical crops.`,
-      email: `erkelenz@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/528856-joshua-andre-erkelenz`,
-      orcid: `https://orcid.org/0009-0005-7339-6741`,
-      researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
-      img: erkelenz,
-    },
-    {
-      id: `fahs`,
-      name: `Nina Fahs`,
-      position: `PhD student, Researcher`,
-      description: `Nina Fahs graduated in International Technical and Applied Biology from the
-City University of Applied Sciences in Bremen, Germany. After finishing her
-Master’s project, for which Nina was working on the description and
-classification of mesic alluvial grasslands in northern Germany, she joined the
-Vegetation Science Group as a Ph.D. student in 2020. For her doctoral studies
-she now investigates the multi-faceted interaction between hemiparasitic plants
-and legumes, with a focus on grassland communities. Nina’s broad interests are
-the field of Geobotany, the use of extensive vegetation-plot databases for both
-basic and applied research and Nature Conservation, especially the conservation
-and restoration of semi-natural species-rich grasslands.`,
-      email: `nina@sci.muni.cz`,
-      phoneNumber: `549498395`,
-      is: `https://www.muni.cz/en/people/528656-nina-fahs`,
-      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
-      orcid: `https://orcid.org/0000-0003-4078-7672`,
-      img: fahs,
-    },
+  
     {
       id: `franc`,
       name: `Martin Franc`,
@@ -764,6 +753,18 @@ export const peopleCz = {
       personal: `https://twitter.com/Kryshpean21`,
       img: chytrykr,
     },
+	        {
+      id: `fahs`,
+      name: `Nina Fahs`,
+      position: `Výzkumník`,
+      description: `Nina Fahs vystudovala mezinárodní technickou a aplikovanou biologii na City University of Applied Sciences v Brémách v Německu. Po dokončení magisterského projektu, ve kterém Nina pracovala na popisu a klasifikaci mesických aluviálních trávníků v severním Německu, nastoupila v roce 2020 jako doktorandka na PřF MU. Ve svém studium se nyní zabývá interakcí mezi hemiparazitickými a bobovitými rostlinami se zaměřením na travní společenstva. Nina se široce zajímá o geobotaniku, využití rozsáhlých databází vegetačních dat pro základní i aplikovaný výzkum a ochranu přírody, zejména ochranu a obnovu polopřirozených druhově bohatých travních porostů.`,
+      email: `nina@sci.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/lide/528656-nina-fahs`,
+      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
+      orcid: `https://orcid.org/0000-0003-4078-7672`,
+      img: fahs,
+    },
     {
       id: `iemelianova`,
       name: `Svitlana Iemelianova`,
@@ -933,30 +934,7 @@ export const peopleCz = {
     },
   ],
   phdStudents: [
-    {
-      id: `erkelenz`,
-      name: `Joshua André Erkelenz`,
-      position: `Doktorand`,
-      description: `Joshua Erkelenz studoval lesnictví a ekologii lesa na Georg-August University v německém Göttingenu. Před a během svého magisterského programu v tropickém a mezinárodním lesnictví se podílel na několika výzkumných projektech v zahraničí a absolvoval diplomovou prací o vzorech funkční rozmanitosti na ostrově Tenerife. Na Ústavu botaniky a zoologie MU zkoumá v rámci svého doktorského studia funkční a fylogenetickou diverzitu v lesních společenstvech podél výškových gradientů v evropských pohořích. Část svého času věnuje pěstování tropických a subtropických plodin.`,
-      email: `erkelenz@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/528856-joshua-andre-erkelenz`,
-      orcid: `https://orcid.org/0009-0005-7339-6741`,
-      researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
-      img: erkelenz,
-    },
-    {
-      id: `fahs`,
-      name: `Nina Fahs`,
-      position: `Doktorand, výzkumník`,
-      description: `Nina Fahs vystudovala mezinárodní technickou a aplikovanou biologii na City University of Applied Sciences v Brémách v Německu. Po dokončení magisterského projektu, ve kterém Nina pracovala na popisu a klasifikaci mesických aluviálních trávníků v severním Německu, nastoupila v roce 2020 jako doktorandka na PřF MU. Ve svém studium se nyní zabývá interakcí mezi hemiparazitickými a bobovitými rostlinami se zaměřením na travní společenstva. Nina se široce zajímá o geobotaniku, využití rozsáhlých databází vegetačních dat pro základní i aplikovaný výzkum a ochranu přírody, zejména ochranu a obnovu polopřirozených druhově bohatých travních porostů.`,
-      email: `nina@sci.muni.cz`,
-      phoneNumber: `549498395`,
-      is: `https://www.muni.cz/lide/528656-nina-fahs`,
-      researchgate: `https://www.researchgate.net/profile/Nina-Fahs`,
-      orcid: `https://orcid.org/0000-0003-4078-7672`,
-      img: fahs,
-    },
+
     {
       id: `franc`,
       name: `Martin Franc`,
@@ -1075,6 +1053,12 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
+
+
+{
+    name: `Joshua André Erkelenz (2022–2026)`,
+    email: `j.a.erkelenz@gmail.com)`,
+  },
   {
     name: `Mirjana Ćuk (2023–2024)`,
     email: `mirjana.cuk.rs@gmail.com`,
